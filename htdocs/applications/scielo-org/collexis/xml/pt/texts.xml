@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<texts>
+	<labels available="">
+    <text>
+      <find>TITLE</find>
+      <replace>Pesquisa</replace>
+    </text>
+	<text>
+      <find>BVS_TITLE</find>
+      <replace>Biblioteca Virtual em Saúde</replace>	
+	</text>
+    <text>
+      <find>HOME</find>
+      <replace>Pesquisa por relevância</replace>
+    </text>
+    <text>
+      <find>FALE_CONOSCO</find>
+      <replace>Fale conosco!</replace>
+	  <href>mailto:collexis.bvs@bireme.br</href>
+    </text>
+    <text>
+      <find>PESQUISAR_POR</find>
+      <replace>Pesquisar documentos mais relacionados aos conceitos:</replace>
+    </text>
+    <text>
+      <find>AJUDA</find>
+      <replace>ajuda</replace>
+    </text>
+    <text>
+      <find>PESQUISA_AVANCADA</find>
+      <replace>pesquisa avançada</replace>
+    </text>
+    <text>
+      <find>PESQUISAR</find>
+      <replace>pesquisar</replace>
+    </text>
+    <text>
+      <find>FONTE</find>
+      <replace>Fonte de informação</replace>
+    </text>	
+    <text>
+      <find>IDIOMA</find>
+      <replace>minha pesquisa esta no idioma</replace>
+    </text>		
+    <text>
+      <find>RESULTADO</find>
+      <replace>Resultado</replace>
+    </text>
+    <text>
+      <find>IR_PARA_PAGINA</find>
+      <replace>ir para página</replace>
+    </text>
+    <text>
+      <find>SEM_RESULTADO</find>
+      <replace>Não foram encontrados documentos. Verifique sua pesquisa quanto a palavras acentuadas.</replace>
+    </text>	
+    <text>		
+      <find>DOCUMENTOS</find>
+      <replace>Documentos</replace>
+    </text>
+    <text>		
+      <find>DE</find>
+      <replace>de</replace>
+    </text>
+    <text>		
+      <find>RELEVANTES</find>
+      <replace>mais relevantes</replace>
+    </text>
+	
+    <text>		
+      <find>CONCEITOS</find>
+      <replace>Conceitos</replace>
+    </text>
+    <text>		
+      <find>CONCEITOS_INFO</find>
+      <replace>Conceitos que influenciaram este resultado; a importância relativa pode ser ajustada; <span id="required_mark">!</span> significa "tem que estar no documento".</replace>
+    </text>
+    <text>		
+      <find>CONCEITOS_TESAURO</find>
+      <replace>Termos do tesauro</replace>
+    </text>
+    <text>		
+      <find>CONCEITOS_LIVRE</find>
+      <replace>Termos livres</replace>
+    </text>	
+    <text>		
+      <find>REFINE</find>
+      <replace>refine sua pesquisa</replace>
+    </text>
+    <text>		
+      <find>PESQUISANDO</find>
+      <replace>Pesquisando em</replace>
+    </text>	
+    <text>		
+      <find>MOSTRANDO</find>
+      <replace>Mostrandos os </replace>
+    </text>
+    <text>		
+      <find>DOCUMENTOS_RELEVANTES</find>
+      <replace>documentos mais relevantes</replace>
+    </text>
+    <text>		
+      <find>TEXTO_COMPLETO</find>
+      <replace>texto completo</replace>
+    </text>
+    <text>		
+      <find>VER_REFERENCIA</find>
+      <replace>referência</replace>
+    </text>
+    <text>		
+      <find>LISTA_CONCEITOS</find>
+      <replace>conceitos</replace>
+    </text>
+    <text>		
+      <find>SIMILARES</find>
+      <replace>documentos similares</replace>
+    </text>
+	<text>
+		<find>NOVA_PESQUISA</find>
+		<replace>nova pesquisa</replace>
+	</text>
+	<text>
+		<find>IDIOMA_DOCUMENTO</find>
+		<replace>Idioma</replace>
+	</text>
+	<text>
+		<find>IDIOMA_PT</find>
+		<replace>Português</replace>
+	</text>
+	<text>
+		<find>IDIOMA_ES</find>
+		<replace>Espanhol</replace>
+	</text>
+	<text>
+		<find>IDIOMA_EN</find>
+		<replace>Inglês</replace>
+	</text>
+	<text>
+		<find>GRAUS_DE_RELEVANCIA</find>
+		<replace>baixo médio alto</replace>
+	</text>
+	<text>
+		<find>AJUSTAR_BOTAO</find>
+		<replace>ajustar</replace>
+	</text>
+	<text>
+		<find>CONCEITOS_PROPOSTOS</find>
+		<replace>Conceitos propostos</replace>
+	</text>
+	<text>
+		<find>ADICIONA_CONCEITO_MANUAL</find>
+		<replace>Adicione um novo conceito a sua pesquisa manualmente</replace>
+	</text>
+	<text>
+		<find>ADICIONA_CONCEITO_PROPOSTO</find>
+		<replace>ou selecione um dos conceito propostos abaixo:</replace>
+	</text>
+	<text>
+		<find>ADICIONA_BOTAO</find>
+		<replace>adiciona</replace>
+	</text>
+	<text>
+		<find>EXIBINDO_PAGINA</find>
+		<replace>Exibindo a página</replace>
+	</text>
+	<text>
+		<find>EXIBINDO_PAGINA_DE</find>
+		<replace>de</replace>
+	</text>
+	<text>
+		<find>DICA</find>
+		<replace>Dicas</replace>
+	</text>	
+	<text>
+		<find>DICA_CONTEUDO</find>
+		<replace>
+		<item>
+			Para correta identificação dos conceitos é necessário a utilização de ACENTO nas palavras de sua pesquisa.<br/>
+		</item>
+		<item>
+			Quanto mais conceitos forem informados em sua pesquisa melhores serão os resultados.
+		</item>		
+		<item>
+			Utilize as opções de copiar e colar para encontrar documentos relacionados com um resumo.
+		</item>		
+		</replace>
+	</text>		
+	<text>
+		<find>FONTE_INFORMACAO</find>
+		<replace>Fonte de informação</replace>
+	</text>
+	<text>
+		<find>INFORME_EXPRESSAO</find>
+		<replace>Informe a expressão de pesquisa</replace>
+	</text>	
+	<text>
+		<find>www.scielo.br</find>
+		<replace>Brasil</replace>	
+	</text>
+	<text>
+		<find>www.scielosp.org</find>
+		<replace>Saúde Pública</replace>	
+	</text>
+	<text>
+		<find>wwwscielo.isciii.es</find>
+		<replace>Espanha</replace>	
+	</text>
+	<text>
+		<find>www.scielo.cl</find>
+		<replace>Chile</replace>	
+	</text>	
+	</labels>
+</texts>

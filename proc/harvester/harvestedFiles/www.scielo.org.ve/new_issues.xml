@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Venezuela" uri="http://www.scielo.org.ve" flagName="VE">
+<wxis-modules IsisScript="listNewIssues.xis" version="0.1">
+<record>
+<subject>Engineering</subject>
+<publisher>Instituto de Materiales y Modelos Estructurales.Facultad de Ingenieria. Universidad Central de Venezuela.</publisher>
+<title>Boletín Técnico </title>
+<issn>0376-723X</issn>
+<volume>45</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070730</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad del Zulia</publisher>
+<title>Opción</title>
+<issn>1012-1587</issn>
+<volume>23</volume>
+<numero>52</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070723</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Instituto Nacional de Investigaciones Agricolas INIA, Maracay, Venezuela. </publisher>
+<title>Zootecnia Tropical</title>
+<issn>0798-7269</issn>
+<volume>24</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070720</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Instituto Nacional de Investigaciones Agricolas INIA, Maracay, Venezuela. </publisher>
+<title>Zootecnia Tropical</title>
+<issn>0798-7269</issn>
+<volume>24</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070719</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto de Filosofía del Derecho "Dr. José M. Delgado Ocando" Facultad de Ciencias Jurídicas y Políticas - Universidad del Zulia - Maracaibo - Venezuela.</publisher>
+<title>Frónesis</title>
+<issn>1315-6268</issn>
+<volume>14</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070711</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad Central de Venezuela, Centro de Estudios del Desarrollo.</publisher>
+<title>Cuadernos del Cendes</title>
+<issn>1012-2508</issn>
+<volume>23</volume>
+<numero>63</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070710</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Latinoamericana de Nutrición</publisher>
+<title>Archivos Latinoamericanos de Nutrición</title>
+<issn>0004-0622</issn>
+<volume>56</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070703</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Organo Oficial de la Sociedad Venezolana de Microbiología.</publisher>
+<title>Revista de la Sociedad Venezolana de Microbiología</title>
+<issn>1315-2556</issn>
+<volume>27</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070629</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Decanato de Agronomía de la Universidad Centroccidental "Lisandro Alvarado" (UCLA)</publisher>
+<title>Bioagro</title>
+<issn>1316-3361</issn>
+<volume>19</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070627</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad de Obstetricia y Ginecología de Venezuela</publisher>
+<title>Revista de Obstetricia y Ginecología de Venezuela</title>
+<issn>0048-7732</issn>
+<volume>67</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070625</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Escuela de Educación, Facultad de Humanidades y Educación, Universidad Central de Venezuela </publisher>
+<title>Revista de Pedagogía</title>
+<issn>0798-9792</issn>
+<volume>27</volume>
+<numero>80</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070621</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Facultad de Odontología -UCV</publisher>
+<title>Acta Odontológica Venezolana</title>
+<issn>0001-6365</issn>
+<volume>44</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070620</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Universidad del Zulia</publisher>
+<title>Investigación Clínica</title>
+<issn>0535-5133</issn>
+<volume>48</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070618</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject><subject>Biological Sciences</subject><subject>Chemistry</subject><subject>Engineering</subject>
+<publisher>ASOCIACIÓN INTERCIENCIA</publisher>
+<title>Interciencia</title>
+<issn>0378-1844</issn>
+<volume>32</volume>
+<numero>3</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad del Zulia, Facultad de Ciencias Econòmicas y Sociales. </publisher>
+<title>Utopìa y Praxis Latinoamericana</title>
+<issn>1315-5216</issn>
+<volume>12</volume>
+<numero>36</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070611</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto de Filosofía del Derecho "Dr. José M. Delgado Ocando" Facultad de Ciencias Jurídicas y Políticas - Universidad del Zulia - Maracaibo - Venezuela.</publisher>
+<title>Frónesis</title>
+<issn>1315-6268</issn>
+<volume>13</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070611</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto de Filosofía del Derecho "Dr. José M. Delgado Ocando" Facultad de Ciencias Jurídicas y Políticas - Universidad del Zulia - Maracaibo - Venezuela.</publisher>
+<title>Frónesis</title>
+<issn>1315-6268</issn>
+<volume>13</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070608</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher> Casa publicadora Ateproca C.A</publisher>
+<title>Revista Venezolana de Oncologìa</title>
+<issn>0798-0582</issn>
+<volume>18</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070605</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject><subject>Biological Sciences</subject><subject>Chemistry</subject><subject>Engineering</subject>
+<publisher>ASOCIACIÓN INTERCIENCIA</publisher>
+<title>Interciencia</title>
+<issn>0378-1844</issn>
+<volume>32</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070604</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Centro de Estudios Filosóficos Adolfo García Díaz</publisher>
+<title>Revista de Filosofía</title>
+<issn>0798-1171</issn>
+<volume>24</volume>
+<numero>54</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070604</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Facultad de Agronomía. Universidad del Zulia </publisher>
+<title>Revista de la Facultad de Agronomía</title>
+<issn>0378-7818</issn>
+<volume>23</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070531</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad del Zulia</publisher>
+<title>Opción</title>
+<issn>1012-1587</issn>
+<volume>22</volume>
+<numero>51</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070531</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto de Filosofía del Derecho "Dr. José M. Delgado Ocando" Facultad de Ciencias Jurídicas y Políticas - Universidad del Zulia - Maracaibo - Venezuela.</publisher>
+<title>Frónesis</title>
+<issn>1315-6268</issn>
+<volume>13</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070528</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject><subject>Biological Sciences</subject><subject>Chemistry</subject><subject>Engineering</subject>
+<publisher>ASOCIACIÓN INTERCIENCIA</publisher>
+<title>Interciencia</title>
+<issn>0378-1844</issn>
+<volume>32</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070525</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad Pedagogica Experimental Libertador</publisher>
+<title>Paradigma</title>
+<issn>1011-2251</issn>
+<volume>27</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070521</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>INSTITUTO DE FILOSOFIA UCV</publisher>
+<title>Revista del Instituto de Filosofía  (EPISTEME)</title>
+<issn>0798-4324</issn>
+<volume>26</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070517</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad Pedagogica Experimental Libertador</publisher>
+<title>Paradìgma</title>
+<issn>1011-2251</issn>
+<volume>27</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070516</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad Pedagógica  experimental Libertador</publisher>
+<title>Letras</title>
+<issn>0459-1283</issn>
+<volume>48</volume>
+<numero>73</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070508</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Centro de Investiagciones Agroalimentarias (CIAAL), Facultad de Ciencias Económicas y Sociales, Universidad de los Andes</publisher>
+<title>Agroalimentaria</title>
+<issn>1316-0354</issn>
+<volume>11</volume>
+<numero>23</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070508</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Instituto de Materiales y Modelos Estructurales.Facultad de Ingenieria. Universidad Central de Venezuela.</publisher>
+<title>Boletín Técnico </title>
+<issn>0376-723X</issn>
+<volume>45</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070507</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher> Casa publicadora Ateproca C.A</publisher>
+<title>Revista Venezolana de Oncologìa</title>
+<issn>0798-0582</issn>
+<volume>18</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070504</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad Pedagógica  experimental Libertador</publisher>
+<title>Letras</title>
+<issn>0459-1283</issn>
+<volume>48</volume>
+<numero>72</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070430</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Decanato de Agronomía de la Universidad Centroccidental "Lisandro Alvarado" (UCLA)</publisher>
+<title>Bioagro</title>
+<issn>1316-3361</issn>
+<volume>18</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070430</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher> Casa publicadora Ateproca C.A</publisher>
+<title>Revista Venezolana de Oncologìa</title>
+<issn>0798-0582</issn>
+<volume>17</volume>
+<numero>3</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070426</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad de los Andes</publisher>
+<title>Educere </title>
+<issn>1316-4910</issn>
+<volume>10</volume>
+<numero>35</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070424</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Decanato de Agronomía de la Universidad Centroccidental "Lisandro Alvarado" (UCLA)</publisher>
+<title>Bioagro</title>
+<issn>1316-3361</issn>
+<volume>18</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070418</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad de los Andes</publisher>
+<title>Educere </title>
+<issn>1316-4910</issn>
+<volume>10</volume>
+<numero>34</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070417</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Escuela de Educación, Facultad de Humanidades y Educación, Universidad Central de Venezuela </publisher>
+<title>Revista de Pedagogía</title>
+<issn>0798-9792</issn>
+<volume>27</volume>
+<numero>79</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070416</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad Central de Venezuela. Facultad de Humanidades</publisher>
+<title>Núcleo</title>
+<issn>0798-9784</issn>
+<volume>18</volume>
+<numero>23</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070414</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Facultad de Agronomía. Universidad del Zulia </publisher>
+<title>Revista de la Facultad de Agronomía</title>
+<issn>0378-7818</issn>
+<volume>23</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070410</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Universidad del Zulia</publisher>
+<title>Investigación Clínica</title>
+<issn>0535-5133</issn>
+<volume>48</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070410</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Facultad de Agronomía. Universidad del Zulia </publisher>
+<title>Revista de la Facultad de Agronomía</title>
+<issn>0378-7818</issn>
+<volume>23</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070329</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>INSTITUTO DE FILOSOFIA UCV</publisher>
+<title>REVISTA DEL INSTITUTO DE FILOSOFIA  (EPISTEME)</title>
+<issn>0798-4324</issn>
+<volume>26</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070328</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad de los Andes</publisher>
+<title>Educere </title>
+<issn>1316-4910</issn>
+<volume>10</volume>
+<numero>33</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070328</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>FACES - UCV</publisher>
+<title>Boletin de Linguistica</title>
+<issn>0798-9709</issn>
+<volume>18</volume>
+<numero>26</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070326</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad de los Andes</publisher>
+<title>Educere </title>
+<issn>1316-4910</issn>
+<volume>10</volume>
+<numero>32</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070321</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad de los Andes</publisher>
+<title>Educere</title>
+<issn>1316-4910</issn>
+<volume>9</volume>
+<numero>30</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070316</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad de los Andes</publisher>
+<title>Educere</title>
+<issn>1316-4910</issn>
+<volume>9</volume>
+<numero>31</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070316</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Centro de Estudios Filosóficos Adolfo García Díaz</publisher>
+<title>Revista de Filosofía</title>
+<issn>0798-1171</issn>
+<volume>24</volume>
+<numero>53</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070314</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Facultad de Ingeniería, Universidad del Zulia</publisher>
+<title>Revista Técnica de la Facultad de Ingeniería Universidad del Zulia</title>
+<issn>0254-0770</issn>
+<volume>29</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070312</updateDate>
+</record>
+<record mfn="1">
+   <database>/scielo/web/bases/issue/issue</database>
+   <count>50</count>
+   <server>
+      <d>20070817</d>
+      <t>160414</t>
+   </server>
+   <v2010>GIZMO_XML</v2010>
+   <v1>20070312</v1>
+   <v3>
+      <i>1</i>
+      <m>106</m>
+      <t>5</t>
+      <o>1</o>
+      <c>1</c>
+   </v3>
+   <v2>1</v2>
+</record>
+</wxis-modules></collection></SciELOWebService>

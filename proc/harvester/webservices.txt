@@ -1,0 +1,3 @@
+new_issues
+new_titles
+get_titles

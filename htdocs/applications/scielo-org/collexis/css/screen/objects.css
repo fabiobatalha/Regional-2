@@ -1,0 +1,325 @@
+
+#search FORM {
+	margin-left: 5px;
+	float: left;
+}
+
+#search FORM DIV{
+	padding: 2px;
+}
+
+
+#highlightBox{
+	margin-top: 5px;
+	width: 20%;
+	float: left;
+}
+
+
+#highlightBox #content{
+	font-weight: bold;
+}
+
+#highlightBox UL{
+	padding: 0px;
+}	
+#highlightBox LI{
+	margin-bottom: 5px;
+	
+}
+
+#highlightBox #content #info{
+	font-size: 85%;
+	margin-bottom: 5px;	
+}
+
+#highlightBox #content #item{
+	margin-bottom: 12px;
+	margin-left: 5px;
+	width: 100%;
+	float: left;
+}
+
+
+#restrict, #filter{
+	margin-top: 5px;
+	margin-right: 10px;
+	vertical-align: top;	
+	float: left;
+	white-space : nowrap;	
+}
+
+
+#navigationBar{
+	width: 50%;
+	float: right;
+	font-size: 90%;
+	text-align: right;	
+}
+
+
+#newSearch{
+	width: 100%;
+	text-align: right;
+	float: left;
+}
+
+#collection-info{
+	margin-bottom: 5px;	
+}
+
+#collection-info #name{	
+	font-weight: bold;		
+}
+
+
+#documentBox{
+	width: 95%;
+	float: left;
+	padding: 5px;
+
+}
+
+#documentBox #line{
+	width: 100%;	
+	float: left;	
+}
+
+#documentBox #pos{
+	width: 10%;
+	font-size: 90%;
+	float: left;
+	
+}
+
+#documentBox #authors{
+	font-size: 95%;	
+	padding: 0px;
+}
+
+#documentBox #publish{
+	color: green;
+
+}
+
+HTML>BODY #documentBox #pos{
+	font-size: 90%;
+}
+
+#documentBox #db{
+	width: 25%;
+	float: right;
+	text-align: right;
+	font-size: 90%;	
+	border-bottom: 1px dotted #bf8660;
+}
+
+HTML>BODY #documentBox #db{
+	font-size: 85%;
+}
+
+#document {
+	margin: 0px;
+	padding: 0px;
+}
+
+#document #links UL{
+	list-style-type: none;
+	padding: 0px;	
+	margin: 0px;
+}	
+
+#document #links LI{
+	padding-right: 15px;
+	display: inline;	
+}
+
+#document #links LI A {
+	border-bottom: 1px dotted #999;
+}
+
+#document #links LI A:hover {
+	border-bottom: none;
+	text-decoration: none;
+	color: #600;
+}
+
+#documentBox .title{	
+	color: #bc0812;
+	font-weight: bold;		
+}
+
+
+#resultBlock{
+	width: 95%;	
+	float: left;	
+}
+
+#resultBlock DIV{
+	margin-left: 1px;
+}
+#resultBlock #title{
+	color: #252724;
+	font-weight: bold;	
+	
+}
+
+#resultBlock #total{
+	width: 49%;	
+	font-size: 95%;
+	float: left;
+	
+}
+
+#error{
+	font-weight: bold;	
+	color: #cc0000;
+	margin-top: 20px;
+	margin-left: 10px;	
+}
+
+#expression_required{
+	font-weight: bold;	
+	color: #cc0000;
+	float: left;
+}
+
+
+#resultBlock #noresult{
+	font-weight: bold;	
+	color: #cc0000;
+	margin-top: 10px;
+	margin-bottom: 10px;	
+}
+
+#resultBlock IMG{
+	margin-right: 5px;
+	vertical-align: absmiddle;
+}	
+
+#conceptBox{
+	width: 100%;
+	float: left;	
+}
+
+
+#conceptBox #thesaurus{	
+	color: #000099;
+	font-weight: bold;	
+	width: 100%;
+}	
+
+#conceptBox #header{
+	margin-top: 5px;
+	padding-left: 120px;
+	font-size: 90%;
+	white-space: nowrap; 
+	border-bottom: dotted 1px #cccccc;
+}
+
+#conceptBox #required_mark{
+	margin-left: 5px;
+	font-weight: bold;
+	color: red;
+}
+
+.required_yes{
+	color: red;
+}
+
+#conceptBox #item{
+	margin-top: 5px;
+	border-bottom: dotted 1px #cccccc;		
+	float: left;	
+	width: 100%;
+}
+
+#conceptBox #item #check{
+	float: left;
+	margin-top: 1px;
+}	
+
+#conceptBox #item #concept{
+	width: 35%;
+	margin-top: 2px;
+	float: left;	
+}	
+
+#conceptBox #rankAdjust{
+	white-space: nowrap; 
+	margin: 1px;	
+	float: left;
+}
+
+#conceptBox #item #rankValue{
+	font-size: 40%;
+	margin-top: 2px;
+	float: right;
+}
+
+#fingerprintBox{
+	width: 97%;	
+	padding: 5px;	
+	margin-botton: 10px;
+	float: left;
+}	
+
+#fingerprintBox UL{
+	list-style-type: none;
+	margin-left: 2px;
+	padding: 0px;	
+}	
+
+#fingerprintBox TABLE{
+	margin: 0px;
+	padding: 0px;
+}
+
+#fingerprintBox #line{
+	float: left;	
+}
+
+#fingerprintBox #name{		
+	float: left;	
+}
+
+#fingerprintBox #rank{
+	width: 30px;
+	float: left;
+}
+#cooccurrence{
+	width: 100%;	
+	border-top: 1px dotted #880000;
+	margin-top: 20px;
+	float: left;
+}
+
+#cooccurrence UL{
+	margin-left: 2px;
+	padding: 1px;	
+}
+
+#cooccurrence BLOCKQUOTE{
+	padding: 0px;
+	margin: 5px 0px 1px 10px;
+}
+
+#cooccurrence LI{
+	list-style-type: none;
+	color:#252724;
+	margin-top: 5px;
+}
+
+#cooccurrence #title{
+	color: #880000;
+	margin-bottom: 5px;
+}
+
+
+.navigationBottom{
+	margin: 10px 0px 10px 0px;
+	padding-top: 5px;
+	border-top: 1px solid #91bfd9;
+	width: 95%;
+	float: left;
+}

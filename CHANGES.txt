@@ -1,0 +1,9 @@
+[5.2]
+- Adição de subportais (EXPERIMENTAL)
+
+[5.1]
+- Atualização do FCKEditor
+- Adição de novos tipos de conteúdo: Ticker, RSS Highlight
+
+[4.0.2]
+- Versão para PHP5

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Brasil" uri="http://www.scielo.br" flagName="BR" homologado="true">
+<wxis-modules IsisScript="listNewIssues.xis" version="0.1">
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Brasileira de Otorrinolaringologia</publisher>
+<title>Revista Brasileira de Otorrinolaringologia</title>
+<issn>0034-7299</issn>
+<volume>73</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070619</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Faculdade De Odontologia De Bauru - USP</publisher>
+<title>Journal of Applied Oral Science</title>
+<issn>1678-7757</issn>
+<volume>15</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070619</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Conselho Brasileiro de Oftalmologia</publisher>
+<title>Arquivos Brasileiros de Oftalmologia</title>
+<issn>0004-2749</issn>
+<volume>70</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070618</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Faculdade de Saúde Pública da Universidade de São Paulo</publisher>
+<title>Revista de Saúde Pública</title>
+<issn>0034-8910</issn>
+<volume>41</volume>
+<numero>4</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070618</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Colégio Brasileiro de Patologia Animal - CBPA</publisher>
+<title>Pesquisa Veterinária Brasileira</title>
+<issn>0100-736X</issn>
+<volume>27</volume>
+<numero>3</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070618</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Divulgação Científica</publisher>
+<title>Brazilian Journal of Medical and Biological Research</title>
+<issn>0100-879X</issn>
+<volume>40</volume>
+<numero>6</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070618</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject><subject>Biological Sciences</subject>
+<publisher>Sociedade de Olericultura do Brasil</publisher>
+<title>Horticultura Brasileira</title>
+<issn>0102-0536</issn>
+<volume>24</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070618</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject><subject>Biological Sciences</subject>
+<publisher>Centro de Estudos de Venenos e Animais Peçonhentos - CEVAP, Universidade Estadual Paulista - UNESP</publisher>
+<title>Journal of Venomous Animals and Toxins including Tropical Diseases</title>
+<issn>1678-9199</issn>
+<volume>13</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070618</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Brasileira de Pesquisa Odontológica </publisher>
+<title>Brazilian Oral Research</title>
+<issn>1806-8324</issn>
+<volume>21</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070618</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Instituto Oswaldo Cruz, Ministério da Saúde</publisher>
+<title>Memórias do Instituto Oswaldo Cruz</title>
+<issn>0074-0276</issn>
+<volume>21</volume>
+<numero>50</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070615</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Divulgação Científica</publisher>
+<title>Brazilian Journal of Medical and Biological Research</title>
+<issn>0100-879X</issn>
+<volume>21</volume>
+<numero>50</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070615</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Brasileira de Cardiologia - SBC</publisher>
+<title>Arquivos Brasileiros de Cardiologia</title>
+<issn>0066-782X</issn>
+<volume>88</volume>
+<numero>5</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070614</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Sociedade Brasileira de Fitopatologia</publisher>
+<title>Fitopatologia Brasileira</title>
+<issn>0100-4158</issn>
+<volume>32</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070613</updateDate>
+</record>
+<record>
+<subject>Exact and Earth Sciences</subject>
+<publisher>Sociedade Brasileira de Química</publisher>
+<title>Journal of the Brazilian Chemical Society</title>
+<issn>0103-5053</issn>
+<volume>18</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070613</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Universidade Federal de Santa Maria</publisher>
+<title>Ciência Rural</title>
+<issn>0103-8478</issn>
+<volume>37</volume>
+<numero>4</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070613</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós-Graduação em Saúde Coletiva</publisher>
+<title>Ciência &amp; Saúde Coletiva</title>
+<issn>1413-8123</issn>
+<volume>12</volume>
+<numero>4</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070613</updateDate>
+</record>
+<record>
+<subject>Exact and Earth Sciences</subject>
+<publisher>Sociedade Brasileira de Física</publisher>
+<title>Revista Brasileira de Ensino de Física</title>
+<issn>0102-4744</issn>
+<volume>29</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Editora da Universidade Federal de Lavras</publisher>
+<title>Ciência e Agrotecnologia</title>
+<issn>1413-7054</issn>
+<volume>31</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Editora da Universidade Federal de Lavras</publisher>
+<title>Ciência e Agrotecnologia</title>
+<issn>1413-7054</issn>
+<volume>31</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Faculdade de Medicina / USP</publisher>
+<title>Clinics</title>
+<issn>1807-5932</issn>
+<volume>62</volume>
+<numero>3</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Brasileira de Pneumologia e Tisiologia</publisher>
+<title>Jornal Brasileiro de Pneumologia</title>
+<issn>1806-3713</issn>
+<volume>33</volume>
+<numero>7</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070611</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Tecpar</publisher>
+<title>Brazilian Archives of Biology and Technology</title>
+<issn>1516-8913</issn>
+<volume>50</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070606</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Redprint</publisher>
+<title>Revista Brasileira de Medicina do Esporte</title>
+<issn>1517-8692</issn>
+<volume>12</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070606</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Academia Brasileira de Neurologia - ABNEURO</publisher>
+<title>Arquivos de Neuro-Psiquiatria</title>
+<issn>0004-282X</issn>
+<volume>65</volume>
+<numero>7</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070605</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Faculdade de Saúde Pública da Universidade de São Paulo</publisher>
+<title>Revista de Saúde Pública</title>
+<issn>0034-8910</issn>
+<volume>65</volume>
+<numero>50</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070605</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Instituto Oswaldo Cruz, Ministério da Saúde</publisher>
+<title>Memórias do Instituto Oswaldo Cruz</title>
+<issn>0074-0276</issn>
+<volume>102</volume>
+<numero>3</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070605</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Fundação Editora da UNESP</publisher>
+<title>História (São Paulo)</title>
+<issn>0101-9074</issn>
+<volume>22</volume>
+<numero>1</numero>
+<pubYear>2003</pubYear>
+<updateDate>20070605</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós-Graduação em Saúde Coletiva</publisher>
+<title>Ciência &amp; Saúde Coletiva</title>
+<issn>1413-8123</issn>
+<volume>10</volume>
+<numero>1</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070605</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós-Graduação em Saúde Coletiva</publisher>
+<title>Ciência &amp; Saúde Coletiva</title>
+<issn>1413-8123</issn>
+<volume>10</volume>
+<numero>2</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070605</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós-Graduação em Saúde Coletiva</publisher>
+<title>Ciência &amp; Saúde Coletiva</title>
+<issn>1413-8123</issn>
+<volume>10</volume>
+<numero>3</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070605</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós-Graduação em Saúde Coletiva</publisher>
+<title>Ciência &amp; Saúde Coletiva</title>
+<issn>1413-8123</issn>
+<volume>11</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070605</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Associação Brasileira de Engenharia Agrícola</publisher>
+<title>Engenharia Agrícola</title>
+<issn>0100-6916</issn>
+<volume>27</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070604</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Rede Latino-Americana de Materiais</publisher>
+<title>Matéria (Rio de Janeiro)</title>
+<issn>1517-7076</issn>
+<volume>12</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070604</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Redprint</publisher>
+<title>Revista Brasileira de Medicina do Esporte</title>
+<issn>1517-8692</issn>
+<volume>12</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070604</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Liga Brasileira de Epilepsia (LBE)</publisher>
+<title>Journal of Epilepsy and Clinical Neurophysiology</title>
+<issn>1676-2649</issn>
+<volume>12</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070604</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Colégio Brasileiro de Patologia Animal - CBPA</publisher>
+<title>Pesquisa Veterinária Brasileira</title>
+<issn>0100-736X</issn>
+<volume>27</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070601</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Médica Brasileira</publisher>
+<title>Revista da Associação Médica Brasileira</title>
+<issn>0104-4230</issn>
+<volume>53</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070601</updateDate>
+</record>
+<record>
+<subject>Applied Social Sciences</subject>
+<publisher>Escola de Ciência da Informação da UFMG</publisher>
+<title>Perspectivas em Ciência da Informação</title>
+<issn>1413-9936</issn>
+<volume>12</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070601</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Brasileira de Endocrinologia e Metabologia</publisher>
+<title>Arquivos Brasileiros de Endocrinologia &amp; Metabologia</title>
+<issn>0004-2730</issn>
+<volume>51</volume>
+<numero>3</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070531</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Fundação Carlos Chagas</publisher>
+<title>Cadernos de Pesquisa</title>
+<issn>0100-1574</issn>
+<volume>37</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070531</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz</publisher>
+<title>Cadernos de Saúde Pública</title>
+<issn>0102-311X</issn>
+<volume>23</volume>
+<numero>7</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070531</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Associação Brasileira de Cerâmica</publisher>
+<title>Cerâmica</title>
+<issn>0366-6913</issn>
+<volume>53</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070531</updateDate>
+</record>
+<record>
+<subject>Applied Social Sciences</subject>
+<publisher>Departamento de Serviço Social da Universidade Federal de Santa Catarina</publisher>
+<title>Revista Katálysis</title>
+<issn>1414-4980</issn>
+<volume>9</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070531</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Departamento de Sociologia da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo</publisher>
+<title>Tempo Social</title>
+<issn>0103-2070</issn>
+<volume>15</volume>
+<numero>2</numero>
+<pubYear>2003</pubYear>
+<updateDate>20070530</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Departamento de Sociologia da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo</publisher>
+<title>Tempo Social</title>
+<issn>0103-2070</issn>
+<volume>16</volume>
+<numero>1</numero>
+<pubYear>2004</pubYear>
+<updateDate>20070530</updateDate>
+</record>
+<record>
+<subject>Applied Social Sciences</subject>
+<publisher>Departamento de Serviço Social da Universidade Federal de Santa Catarina</publisher>
+<title>Revista Katálysis</title>
+<issn>1414-4980</issn>
+<volume>10</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070530</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Pontifícia Universidade Católica de Campinas</publisher>
+<title>Revista de Nutrição</title>
+<issn>1415-5273</issn>
+<volume>20</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070530</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedade Brasileira de Fisiologia Vegetal</publisher>
+<title>Brazilian Journal of Plant Physiology</title>
+<issn>1677-0420</issn>
+<volume>18</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070530</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Redprint</publisher>
+<title>Revista Brasileira de Medicina do Esporte</title>
+<issn>1517-8692</issn>
+<volume>12</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070529</updateDate>
+</record>
+<record>
+<subject>Exact and Earth Sciences</subject>
+<publisher>Fundação Editora da Universidade Estadual Paulista Júlio de Mesquita Filho - UNESP</publisher>
+<title>Eclética Química</title>
+<issn>0100-4670</issn>
+<volume>32</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070528</updateDate>
+</record>
+<index mfn="1">
+   <server>
+      <occ date="20070919" time="131957"></occ>
+   </server>
+   <database>
+      <occ>/home/scielo/www/bases/issue/issue</occ>
+   </database>
+   <from/>
+   <to/>
+   <posttag/>
+   <posting/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+</index>
+</wxis-modules></collection></SciELOWebService>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<labels lang="pt">
+		<general>
+			<journal>Periódico</journal>
+			<journals>Periódicos</journals>
+			<collection>Coleções</collection>
+			<development>em desenvolvimento</development>
+			<all>todos</all>
+			<issueFrom>periódicos de </issueFrom>
+			<onemorewords>Entre com uma ou mais palavras</onemorewords>
+			<issueTo> até </issueTo>
+			<titleFrom>títulos de </titleFrom>
+			<titleTo> até </titleTo>
+			<title>Título</title>
+			<titles>Títulos</titles>
+			<issue>Fascículo</issue>
+			<issues>Fascículos</issues>
+			<article>Artigo</article>
+			<articles>Artigos</articles><last-articles>Últimos artigos depositados</last-articles>
+			<citation>Citação</citation>
+			<citations>Citações</citations>
+			<usage>Uso do site</usage>
+			<co-authors>Co-autoria</co-authors>
+			<lastUpdate>Última atualização</lastUpdate>
+			<searchFormTitle>Pesquisa periódicos</searchFormTitle>
+			<searchFormSubTitle> </searchFormSubTitle>
+			<submitSearchButton>pesquisar</submitSearchButton>
+			<date>
+				<format>dmy</format>
+				<separator>/</separator>
+				<months>
+					<month name="jan" value="01"/>
+					<month name="fev" value="02"/>
+					<month name="mar" value="03"/>
+					<month name="abr" value="04"/>
+					<month name="mai" value="05"/>
+					<month name="Jun" value="06"/>
+					<month name="jul" value="07"/>
+					<month name="ago" value="08"/>
+					<month name="set" value="09"/>
+					<month name="out" value="10"/>
+					<month name="nov" value="11"/>
+					<month name="dez" value="12"/>
+				</months>
+			</date>
+			<collections>
+				<collection name="Argentina">Argentina</collection>
+				<collection name="Brasil">Brasil</collection>
+                                <collection name="Bolivia">Bolivia</collection>
+                                <collection name="South Africa">África do Sul</collection>
+				<collection name="Chile">Chile</collection>
+				<collection name="Colombia">Colômbia</collection>
+				<collection name="Cuba">Cuba</collection>
+				<collection name="Saúde Pública">Saúde Pública</collection>
+				<collection name="Ciências Sociais">Social Sciences</collection>
+				<collection name="Espanha">Espanha</collection>
+				<collection name="Venezuela">Venezuela</collection>
+				<collection name="Brasil Teses">Brasil Teses</collection>
+				<collection name="SciELO Proceedings">Brasil Proceedings</collection>
+				<collection name="Costa Rica">Costa Rica</collection>
+				<collection name="Mexico">México</collection>
+				<collection name="Peru">Peru</collection>
+				<collection name="Portugal">Portugal</collection>
+				<collection name="Uruguai">Uruguai</collection>
+				<collection name="Paraguai">Paraguai</collection>
+				<collection name="West Indian Medical Journal">West Indian Medical Journal</collection>
+				<collection name="Ciência e Cultura">Ciência e Cultura</collection>
+				<collection name="Inovação Uniemp">Inovação Uniemp</collection>
+				<collection name="Pesquisa FAPESP">Pesquisa FAPESP</collection>
+                                <collection name="Revista Virtual de Química">Revista Virtual de Química</collection>
+				<collection name="UNIFESP">UNIFESP</collection>
+				<collection name="UNICAMP">UNICAMP</collection>
+				<collection name="USP">USP</collection>
+				<collection name="UNESP">UNESP</collection>
+                <collection name="ComCiência">ComCiência</collection>
+			</collections>
+			<networkGroups>
+				<group name="developed">coleções</group>
+				<group name="underdevelopment">em desenvolvimento</group>
+				<group name="disclosing">divulgação científica</group>
+			</networkGroups>
+			<subjectListName>
+				<subject name="Architecture">
+					<title>Arquitetura</title>
+				</subject>
+				<subject name="Agricultural Sciences">
+					<title>Ciências Agrárias</title>
+				</subject>
+				<subject name="Applied Social Sciences">
+					<title>Ciências Sociais Aplicadas</title>
+				</subject>
+				<subject name="Biological Sciences">
+					<title>Ciências Biológicas</title>
+				</subject>
+				<subject name="Ciencias Jurídicas">
+					<title>Ciências Jurídicas</title>
+				</subject>
+				<subject name="Chemistry">
+					<title>Química</title>
+				</subject>
+				<subject name="Earth Sciences">
+					<title>Ciências da Terra</title>
+				</subject>
+				<subject name="Exact and Earth Sciences">
+					<title>Ciências Exatas e da Terra</title>
+				</subject>
+				<subject name="Engineering">
+					<title>Engenharias</title>
+				</subject>
+				<subject name="Engeneering">
+					<title>Engenharias</title>
+				</subject>
+				<subject name="Geosciences">
+					<title>Geo Ciências</title>
+				</subject>
+				<subject name="Health Sciences">
+					<title>Ciências da Saúde</title>
+				</subject>
+				<subject name="Human Sciences">
+					<title>Ciências Humanas</title>
+				</subject>
+				<subject name="Linguistics, Letters and Arts">
+					<title>Lingüística, Letras e Artes</title>
+				</subject>
+				<subject name="Mathematics">
+					<title>Matemática</title>
+				</subject>
+				<subject name="Oceanography">
+					<title>Oceanografia</title>
+				</subject>
+				<subject name="Social Sciences">
+					<title>Ciências Sociais</title>
+				</subject>
+				<subject name="Others">
+					<title>Outras</title>
+				</subject>
+			</subjectListName>
+		</general>
+		<journalAlphabeticList>
+			<title>Por ordem alfabética</title>
+		</journalAlphabeticList>
+		<collectionList>
+			<title>Por coleção</title>
+		</collectionList>
+		<subjectList>
+			<title>Por assunto</title>
+		</subjectList>
+		<publisherAlphabeticList>
+			<title>Por publicador</title>
+		</publisherAlphabeticList>
+		<reports>Relatórios</reports>
+		<metaSearch>
+			<index>Índices</index>
+			<method>método</method>
+                        <iahx>integrada</iahx>
+			<iah>por palavra</iah>
+			<lexical_proximity>proximidade léxica</lexical_proximity>
+			<google_scholar>Google Acadêmico</google_scholar>
+			<similarity>relevância</similarity>
+			<where>onde</where>
+		</metaSearch>
+	</labels>
+	<labels lang="es">
+		<general>
+			<collection>Colecciones</collection>
+			<development>en desarrollo</development>
+			<onemorewords>Entre con una o más palavras</onemorewords>
+			<journal>Revista</journal>
+			<journals>Revistas</journals>
+			<title>Título</title>
+			<titles>Títulos</titles>
+			<issue>Número</issue>
+			<issues>Números</issues>
+			<lastUpdate>Última atualización</lastUpdate>
+			<all>todos</all>
+			<issueFrom>números de </issueFrom>
+			<issueTo> hasta </issueTo>
+			<titleFrom>títulos de </titleFrom>
+			<titleTo> hasta </titleTo>
+			<article>Artículo</article>
+			<articles>Artículos</articles><last-articles>Últimos artículos depositados</last-articles>
+			<citation>Cita</citation>
+			<citations>Citas</citations>
+			<usage>Uso del sitio</usage>
+			<co-authors>Co-autoria</co-authors>
+			<searchFormTitle>Búsqueda por Revistas</searchFormTitle>
+			<searchFormSubTitle> </searchFormSubTitle>
+			<submitSearchButton>buscar</submitSearchButton>
+			<date>
+				<format>dmy</format>
+				<separator>/</separator>
+				<months>
+					<month name="ene" value="01"/>
+					<month name="feb" value="02"/>
+					<month name="mar" value="03"/>
+					<month name="abr" value="04"/>
+					<month name="may" value="05"/>
+					<month name="jun" value="06"/>
+					<month name="jul" value="07"/>
+					<month name="ago" value="08"/>
+					<month name="sep" value="09"/>
+					<month name="oct" value="10"/>
+					<month name="nov" value="11"/>
+					<month name="dic" value="12"/>
+				</months>
+			</date>
+			<collections>
+				<collection name="Argentina">Argentina</collection>
+				<collection name="Brasil">Brasil</collection>
+                                <collection name="Bolivia">Bolivia</collection>
+                                <collection name="South Africa">África del Sul</collection>
+				<collection name="Chile">Chile</collection>
+				<collection name="Colombia">Colombia</collection>
+				<collection name="Cuba">Cuba</collection>
+				<collection name="Saúde Pública">Salud Pública</collection>
+				<collection name="Ciências Sociais">Social Sciences</collection>
+				<collection name="Espanha">España</collection>
+				<collection name="Venezuela">Venezuela</collection>
+				<collection name="Brasil Teses">Brasil Teses</collection>
+				<collection name="SciELO Proceedings">Brasil Proceedings</collection>
+				<collection name="Costa Rica">Costa Rica</collection>
+				<collection name="Mexico">México</collection>
+				<collection name="Peru">Perú</collection>
+				<collection name="Portugal">Portugal</collection>
+				<collection name="Uruguai">Uruguai</collection>
+				<collection name="West Indian Medical Journal">West Indian Medical Journal</collection>
+				<collection name="Paraguai">Paraguai</collection>
+				<collection name="Ciência e Cultura">Ciência e Cultura</collection>
+				<collection name="Inovação Uniemp">Inovação Uniemp</collection>
+				<collection name="Pesquisa FAPESP">Pesquisa FAPESP</collection>
+                                <collection name="Revista Virtual de Química">Revista Virtual de Química</collection>
+				<collection name="UNIFESP">UNIFESP</collection>
+				<collection name="UNICAMP">UNICAMP</collection>
+				<collection name="USP">USP</collection>
+				<collection name="UNESP">UNESP</collection>
+                <collection name="ComCiência">ComCiência</collection>
+			</collections>
+			<networkGroups>
+				<group name="developed">colecciones</group>
+				<group name="underdevelopment">en desarrollo</group>
+				<group name="disclosing">divulgación científica</group>
+			</networkGroups>
+			<subjectListName>
+				<subject name="Architecture">
+					<title>Arquitectura</title>
+				</subject>
+				<subject name="Agricultural Sciences">
+					<title>Ciencias Agrícolas</title>
+				</subject>
+				<subject name="Applied Social Sciences">
+					<title>Ciencias Sociales Aplicadas</title>
+				</subject>
+				<subject name="Biological Sciences">
+					<title>Ciencias Biológicas</title>
+				</subject>
+				<subject name="Ciencias Jurídicas">
+					<title>Ciencias Jurídicas</title>
+				</subject>
+				<subject name="Chemistry">
+					<title>Química</title>
+				</subject>
+				<subject name="Earth Sciences">
+					<title>Ciencias de la Tierra</title>
+				</subject>
+				<subject name="Exact and Earth Sciences">
+					<title>Ciencias Exactas y de la Tierra</title>
+				</subject>
+				<subject name="Engineering">
+					<title>Ingenierias</title>
+				</subject>
+				<subject name="Engeneering">
+					<title>Ingenierias</title>
+				</subject>
+				<subject name="Geosciences">
+					<title>Geo Ciencias</title>
+				</subject>
+				<subject name="Health Sciences">
+					<title>Ciencias de la Salud</title>
+				</subject>
+				<subject name="Human Sciences">
+					<title>Humanidades</title>
+				</subject>
+				<subject name="Linguistics, Letters and Arts">
+					<title>Lingüistica, Letras y Artes</title>
+				</subject>
+				<subject name="Mathematics">
+					<title>Matemática</title>
+				</subject>
+				<subject name="Oceanography">
+					<title>Oceanografia</title>
+				</subject>
+				<subject name="Social Sciences">
+					<title>Ciencias Sociais</title>
+				</subject>
+				<subject name="Others">
+					<title>Otras</title>
+				</subject>
+			</subjectListName>
+		</general>
+		<journalAlphabeticList>
+			<title>Por lista alfabética</title>
+		</journalAlphabeticList>
+		<collectionList>
+			<title>Por colección</title>
+		</collectionList>
+		<subjectList>
+			<title>Por tema</title>
+		</subjectList>
+		<publisherAlphabeticList>
+			<title>Por entidad editora</title>
+		</publisherAlphabeticList>
+		<reports>Informes</reports>
+		<metaSearch>
+			<index>Índices</index>
+			<method>método</method>
+                        <iahx>integrada</iahx>
+                        <iah>por palabra</iah>
+			<lexical_proximity>proximidad léxica</lexical_proximity>
+			<google_scholar>Google Académico</google_scholar>
+			<similarity>relevancia</similarity>
+			<where>donde</where>
+		</metaSearch>
+	</labels>
+	<labels lang="en">
+		<general>
+			<collection>Collections</collection>
+			<development>in development</development>
+			<onemorewords>Entry one or more words</onemorewords>
+			<journal>Journal</journal>
+			<journals>Journals</journals>
+			<title>Title</title>
+			<titles>Titles</titles>
+			<issue>Issue</issue>
+			<issues>Issues</issues>
+			<all>all</all>
+			<issueFrom>issues from </issueFrom>
+			<issueTo> until </issueTo>
+			<titleFrom>titles from </titleFrom>
+			<titleTo> until </titleTo>
+			<article>Article</article>
+			<articles>Articles</articles><last-articles>Last deposited articles</last-articles>
+			<citation>Citation</citation>
+			<citations>Citations</citations>
+			<usage>Site usage</usage>
+			<co-authors>Co-authors</co-authors>
+			<searchFormTitle>Search by journals</searchFormTitle>
+			<searchFormSubTitle> </searchFormSubTitle>
+			<submitSearchButton>search</submitSearchButton>
+			<lastUpdate>Last Update</lastUpdate>
+			<date>
+				<format>mdy</format>
+				<separator>-</separator>
+				<months>
+					<month name="jan" value="01"/>
+					<month name="feb" value="02"/>
+					<month name="mar" value="03"/>
+					<month name="apr" value="04"/>
+					<month name="may" value="05"/>
+					<month name="jun" value="06"/>
+					<month name="jul" value="07"/>
+					<month name="aug" value="08"/>
+					<month name="sep" value="09"/>
+					<month name="oct" value="10"/>
+					<month name="nov" value="11"/>
+					<month name="dec" value="12"/>
+				</months>
+			</date>
+			<collections>
+				<collection name="Argentina">Argentina</collection>
+				<collection name="Brasil">Brazil</collection>
+                                <collection name="Bolivia">Bolivia</collection>
+                                <collection name="South Africa">África do Sul</collection>
+				<collection name="Chile">Chile</collection>
+				<collection name="Colombia">Colombia</collection>
+				<collection name="Cuba">Cuba</collection>
+				<collection name="Saúde Pública">Public Health</collection>
+				<collection name="Ciências Sociais">Social Sciences</collection>
+				<collection name="Espanha">Spain</collection>
+				<collection name="Venezuela">Venezuela</collection>
+				<collection name="Brasil Teses">Brazil Thesis</collection>
+				<collection name="SciELO Proceedings">Brazil Proceedings</collection>
+				<collection name="Costa Rica">Costa Rica</collection>
+				<collection name="Mexico">Mexico</collection>
+				<collection name="Peru">Peru</collection>
+				<collection name="Portugal">Portugal</collection>
+				<collection name="Uruguai">Uruguay</collection>
+				<collection name="West Indian Medical Journal">West Indian Medical Journal</collection>
+				<collection name="Paraguai">Paraguay</collection>
+				<collection name="Ciência e Cultura">Ciência e Cultura</collection>
+				<collection name="Inovação Uniemp">Inovação Uniemp</collection>
+				<collection name="Pesquisa FAPESP">Pesquisa FAPESP</collection>
+                                <collection name="Revista Virtual de Química">Revista Virtual de Química</collection>
+		                <collection name="ComCiência">ComCiência</collection>
+			</collections>
+			<networkGroups>
+				<group name="developed">collections</group>
+				<group name="underdevelopment">in development</group>
+				<group name="disclosing">scientific diffusion</group>
+			</networkGroups>
+			<subjectListName>
+				<subject name="Architecture">
+					<title>Architecture</title>
+				</subject>
+				<subject name="Agricultural Sciences">
+					<title>Agricultural Sciences</title>
+				</subject>
+				<subject name="Applied Social Sciences">
+					<title>Applied Social Sciences</title>
+				</subject>
+				<subject name="Biological Sciences">
+					<title>Biological Sciences</title>
+				</subject>
+				<subject name="Ciencias Jurídicas">
+					<title>Legal Sciences</title>
+				</subject>
+				<subject name="Chemistry">
+					<title>Chemistry</title>
+				</subject>
+				<subject name="Earth Sciences">
+					<title>Earth Sciences</title>
+				</subject>
+				<subject name="Exact and Earth Sciences">
+					<title>Exact and Earth Sciences</title>
+				</subject>
+				<subject name="Engineering">
+					<title>Engineering</title>
+				</subject>
+				<subject name="Engeneering">
+					<title>Engineering</title>
+				</subject>
+				<subject name="Geosciences">
+					<title>Geosciences</title>
+				</subject>
+				<subject name="Health Sciences">
+					<title>Health Sciences</title>
+				</subject>
+				<subject name="Human Sciences">
+					<title>Humanities</title>
+				</subject>
+				<subject name="Linguistics, Letters and Arts">
+					<title>Linguistics, Letters and Arts</title>
+				</subject>
+				<subject name="Mathematics">
+					<title>Mathematics</title>
+				</subject>
+				<subject name="Oceanography">
+					<title>Oceanography</title>
+				</subject>
+				<subject name="Social Sciences">
+					<title>Social Sciences</title>
+				</subject>
+				<subject name="Others">
+					<title>Others</title>
+				</subject>
+			</subjectListName>
+		</general>
+		<journalAlphabeticList>
+			<title>By alphabetic list</title>
+		</journalAlphabeticList>
+		<collectionList>
+			<title>By collection</title>
+		</collectionList>
+		<subjectList>
+			<title>By subject</title>
+		</subjectList>
+		<publisherAlphabeticList>
+			<title>By publisher</title>
+		</publisherAlphabeticList>
+		<reports>Reports</reports>
+		<metaSearch>
+			<index>Indexes</index>
+			<method>method</method>
+                        <iahx>integrated</iahx>
+                        <iah>by word</iah>
+			<lexical_proximity>lexical proximity</lexical_proximity>
+			<google_scholar>Google Scholar</google_scholar>
+			<similarity>relevance</similarity>
+			<where>where</where>
+		</metaSearch>
+	</labels>
+</root>

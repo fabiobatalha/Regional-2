@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Saúde Pública" uri="http://www.scielosp.org" flagName="XX" homologado="true"><indicators><journalTotal>19</journalTotal><articleTotal>12691</articleTotal><issueTotal>735</issueTotal><citationTotal>208664</citationTotal></indicators>
+<wxis-modules IsisScript="list.xis" version="0.2">
+<record>
+<title>Revista Cubana de Salud Pública</title>
+<processDate>20070517</processDate>
+<issn>0864-3466</issn>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Epidemiologia</title>
+<processDate>20050112</processDate>
+<issn>1415-790X</issn>
+<publisher>Associação Brasileira de Pós -Graduação em Saúde Coletiva </publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Salud Pública</title>
+<processDate>20040521</processDate>
+<issn>0124-0064</issn>
+<publisher>Instituto de Salud Publica, Faculdad de Medicina -Universidad Nacional de Colombia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Gaceta Sanitaria</title>
+<processDate>20020716</processDate>
+<issn>0213-9111</issn>
+<publisher>Ediciones Doyma, S.L.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ciência &amp; Saúde Coletiva</title>
+<processDate>20020111</processDate>
+<issn>1413-8123</issn>
+<publisher>Associação Brasileira de Pós-Graduação em Saúde Coletiva</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>World Health Forum</title>
+<processDate>20010912</processDate>
+<issn>0251-2432</issn>
+<publisher></publisher>
+<subject></subject>
+<publicationStatus>R</publicationStatus>
+</record><record>
+<title>World Health Statistics Quarterly</title>
+<processDate>20010912</processDate>
+<issn>0379-8070</issn>
+<publisher></publisher>
+<subject></subject>
+<publicationStatus>R</publicationStatus>
+</record><record>
+<title>Bulletin of the World Health Organization</title>
+<processDate>20010828</processDate>
+<issn>0042-9686</issn>
+<publisher>World Health Organization</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Arquivos da Faculdade de Higiene e Saúde Pública da Universidade de São Paulo</title>
+<processDate>20001127</processDate>
+<issn>0365-2203</issn>
+<publisher></publisher>
+<subject></subject>
+<publicationStatus>R</publicationStatus>
+</record><record>
+<title>Boletín Panamericano de Sanidad de la Oficina Sanitaria Internacional</title>
+<processDate>20001127</processDate>
+<issn>1014-4390</issn>
+<publisher></publisher>
+<subject></subject>
+<publicationStatus>R</publicationStatus>
+</record><record>
+<title>Boletín de la Oficina Sanitaria Panamericana</title>
+<processDate>20001127</processDate>
+<issn>0030-0632</issn>
+<publisher></publisher>
+<subject></subject>
+<publicationStatus>R</publicationStatus>
+</record><record>
+<title>Boletín de la Oficina Sanitaria Panamericana. Suplemento</title>
+<processDate>20001127</processDate>
+<issn>0479-3420</issn>
+<publisher></publisher>
+<subject></subject>
+<publicationStatus>R</publicationStatus>
+</record><record>
+<title>Bulletin of the Pan American Health Organization</title>
+<processDate>20001127</processDate>
+<issn>0301-5750</issn>
+<publisher></publisher>
+<subject></subject>
+<publicationStatus>R</publicationStatus>
+</record><record>
+<title>Revista de Sanidad e Higiene Publica</title>
+<processDate>20001127</processDate>
+<issn>0034-8899</issn>
+<publisher></publisher>
+<subject></subject>
+<publicationStatus>R</publicationStatus>
+</record><record>
+<title>Revista Española de Salud Pública</title>
+<processDate>19991020</processDate>
+<issn>1135-5727</issn>
+<publisher>Ministerio de Sanidad y Consumo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cadernos de Saúde Pública</title>
+<processDate>19990702</processDate>
+<issn>0102-311X</issn>
+<publisher>Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Salud Pública de México</title>
+<processDate>19990608</processDate>
+<issn>0036-3634</issn>
+<publisher>Instituto Nacional de Salud Pública</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Saúde Pública</title>
+<processDate>19980430</processDate>
+<issn>0034-8910</issn>
+<publisher>Faculdade de Saúde Pública da Universidade de São Paulo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Panamericana de Salud Pública</title>
+<processDate>19980127</processDate>
+<issn>1020-4989</issn>
+<publisher>Organización Panamericana de la Salud</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><list mfn="1">
+   <server>
+      <occ date="20070919" time="131957"></occ>
+   </server>
+   <database>
+      <occ>/home/scielosp/www/bases/title/title</occ>
+   </database>
+   <from/>
+   <to/>
+   <count/>
+   <reverse/>
+   <Isis_Current>
+      <occ>19</occ>
+   </Isis_Current>
+   <Isis_Total>
+      <occ>19</occ>
+   </Isis_Total>
+   <previous/>
+   <next/>
+</list>
+</wxis-modules></collection></SciELOWebService>

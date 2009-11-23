@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Brasil" uri="http://www.scielo.br" flagName="BR" grupo="developed">
+<wxis-modules IsisScript="listNewIssues.xis" version="0.1">
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Brasileira de Pediatria</publisher>
+<title>Jornal de Pediatria</title>
+<issn>0021-7557</issn>
+<volume>85</volume>
+<numero>4</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090908</updateDate>
+<pid>0021-755720090004</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Brasileira de Farmacognosia</publisher>
+<title>Revista Brasileira de Farmacognosia</title>
+<issn>0102-695X</issn>
+<volume>13</volume>
+<numero>1</numero>
+<pubYear>2003</pubYear>
+<updateDate>20090908</updateDate>
+<pid>0102-695X20030001</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós-Graduação em Saúde Coletiva</publisher>
+<title>Ciência &amp; Saúde Coletiva</title>
+<issn>1413-8123</issn>
+<volume>14</volume>
+<suplemento>1</suplemento>
+<pubYear>2009</pubYear>
+<updateDate>20090908</updateDate>
+<pid>1413-812320090008</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Faculdade de Saúde Pública da Universidade de São Paulo</publisher>
+<title>Revista de Saúde Pública</title>
+<issn>0034-8910</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090904</updateDate>
+<pid>0034-891020090050</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Divulgação Científica</publisher>
+<title>Brazilian Journal of Medical and Biological Research</title>
+<issn>0100-879X</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090904</updateDate>
+<pid>0100-879X20090050</pid>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Universidade Federal de Santa Maria</publisher>
+<title>Ciência Rural</title>
+<issn>0103-8478</issn>
+<volume>39</volume>
+<numero>6</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090904</updateDate>
+<pid>0103-847820090006</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pesquisa e Pós-Graduação em Fisioterapia  </publisher>
+<title>Revista Brasileira de Fisioterapia</title>
+<issn>1413-3555</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090904</updateDate>
+<pid>1413-355520090050</pid>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Instituto Agronômico de Campinas</publisher>
+<title>Bragantia</title>
+<issn>0006-8705</issn>
+<volume>68</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090903</updateDate>
+<pid>0006-870520090002</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz</publisher>
+<title>Cadernos de Saúde Pública</title>
+<issn>0102-311X</issn>
+<volume>25</volume>
+<numero>9</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090903</updateDate>
+<pid>0102-311X20090009</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Hematologia e Hemoterapia e da</publisher><publisher>Sociedade Brasileira de Transplante de Medula Óssea</publisher>
+<title>Revista Brasileira de Hematologia e Hemoterapia</title>
+<issn>1516-8484</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090903</updateDate>
+<pid>1516-848420090050</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Brasileira de Angiologia e de Cirurgia Vascular (SBACV)</publisher>
+<title>Jornal Vascular Brasileiro</title>
+<issn>1677-5449</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090903</updateDate>
+<pid>1677-544920090050</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Brasileira de Pneumologia e Tisiologia</publisher>
+<title>Jornal Brasileiro de Pneumologia</title>
+<issn>1806-3713</issn>
+<volume>35</volume>
+<numero>8</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090903</updateDate>
+<pid>1806-371320090008</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Instituto Oswaldo Cruz, Ministério da Saúde</publisher>
+<title>Memórias do Instituto Oswaldo Cruz</title>
+<issn>0074-0276</issn>
+<volume>61</volume>
+<numero>1</numero>
+<pubYear>1963</pubYear>
+<updateDate>20090902</updateDate>
+<pid>0074-027619630001</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Brasileira de Farmacognosia</publisher>
+<title>Revista Brasileira de Farmacognosia</title>
+<issn>0102-695X</issn>
+<volume>13</volume>
+<numero>2</numero>
+<pubYear>2003</pubYear>
+<updateDate>20090902</updateDate>
+<pid>0102-695X20030002</pid>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Universidade Federal de Santa Maria</publisher>
+<title>Ciência Rural</title>
+<issn>0103-8478</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090902</updateDate>
+<pid>0103-847820090050</pid>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Fundação CESGRANRIO</publisher>
+<title>Ensaio: Avaliação e Políticas Públicas em Educação</title>
+<issn>0104-4036</issn>
+<volume>17</volume>
+<numero>63</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090902</updateDate>
+<pid>0104-403620090101</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Instituto Oswaldo Cruz, Ministério da Saúde</publisher>
+<title>Memórias do Instituto Oswaldo Cruz</title>
+<issn>0074-0276</issn>
+<volume>69</volume>
+<numero>1</numero>
+<pubYear>1971</pubYear>
+<updateDate>20090901</updateDate>
+<pid>0074-027619710001</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Instituto Oswaldo Cruz, Ministério da Saúde</publisher>
+<title>Memórias do Instituto Oswaldo Cruz</title>
+<issn>0074-0276</issn>
+<volume>70</volume>
+<numero>4</numero>
+<pubYear>1972</pubYear>
+<updateDate>20090901</updateDate>
+<pid>0074-027619720004</pid>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto de Psicologia, Universidade de Brasília</publisher>
+<title>Psicologia: Teoria e Pesquisa</title>
+<issn>0102-3772</issn>
+<volume>25</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090901</updateDate>
+<pid>0102-377220090002</pid>
+</record>
+<record>
+<subject>Applied Social Sciences</subject>
+<publisher>Pontifícia Universidade Católica do Rio de Janeiro, Instituto de Relações Internacionais</publisher>
+<title>Contexto Internacional</title>
+<issn>0102-8529</issn>
+<volume>31</volume>
+<numero>1</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090901</updateDate>
+<pid>0102-852920090001</pid>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>PPgPsi-UFRN</publisher>
+<title>Estudos de Psicologia (Natal)</title>
+<issn>1413-294X</issn>
+<volume>14</volume>
+<numero>1</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090901</updateDate>
+<pid>1413-294X20090001</pid>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Museu Paulista, Universidade de São Paulo</publisher>
+<title>Anais do Museu Paulista: História e Cultura Material</title>
+<issn>0101-4714</issn>
+<volume>6-7</volume>
+<numero>1</numero>
+<pubYear>1999</pubYear>
+<updateDate>20090831</updateDate>
+<pid>0101-471419990001</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedade Brasileira de Zoologia</publisher>
+<title>Revista Brasileira de Zoologia</title>
+<issn>0101-8175</issn>
+<volume>2</volume>
+<numero>1</numero>
+<pubYear>1983</pubYear>
+<updateDate>20090831</updateDate>
+<pid>0101-817519830001</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Cidade Editora Científica Ltda</publisher>
+<title>Revista Brasileira de Coloproctologia</title>
+<issn>0101-9880</issn>
+<volume>29</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090831</updateDate>
+<pid>0101-988020090002</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Brasileira de Ortopedia e Traumatologia</publisher>
+<title>Revista Brasileira de Ortopedia</title>
+<issn>0102-3616</issn>
+<volume>44</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090831</updateDate>
+<pid>0102-361620090003</pid>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Fundação CESGRANRIO</publisher>
+<title>Ensaio: Avaliação e Políticas Públicas em Educação</title>
+<issn>0104-4036</issn>
+<volume>17</volume>
+<numero>63</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090831</updateDate>
+<pid>0104-403620090002</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedade Brasileira de Genética</publisher>
+<title>Genetics and Molecular Biology</title>
+<issn>1415-4757</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090831</updateDate>
+<pid>1415-475720090050</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós -Graduação em Saúde Coletiva </publisher>
+<title>Revista Brasileira de Epidemiologia</title>
+<issn>1415-790X</issn>
+<volume>12</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090831</updateDate>
+<pid>1415-790X20090003</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>CEFAC Saúde e Educação</publisher>
+<title>Revista CEFAC</title>
+<issn>1516-1846</issn>
+<volume>11</volume>
+<suplemento>2</suplemento>
+<pubYear>2009</pubYear>
+<updateDate>20090831</updateDate>
+<pid>1516-184620090006</pid>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Programa de Pós-Graduação em Educação para a Ciência, Bauru: Faculdade de Ciências, UNESP</publisher>
+<title>Ciência &amp; Educação (Bauru)</title>
+<issn>1516-7313</issn>
+<volume>10</volume>
+<numero>2</numero>
+<pubYear>2004</pubYear>
+<updateDate>20090831</updateDate>
+<pid>1516-731320040002</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedade Brasileira de Zoologia</publisher>
+<title>Zoologia (Curitiba, Impresso)</title>
+<issn>1984-4670</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090831</updateDate>
+<pid>1984-467020090050</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedade Brasileira de Zoologia</publisher>
+<title>Revista Brasileira de Zoologia</title>
+<issn>0101-8175</issn>
+<volume>1</volume>
+<numero>4</numero>
+<pubYear>1982</pubYear>
+<updateDate>20090828</updateDate>
+<pid>0101-817519820004</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedade Brasileira de Zoologia</publisher>
+<title>Revista Brasileira de Zoologia</title>
+<issn>0101-8175</issn>
+<volume>2</volume>
+<numero>2</numero>
+<pubYear>1983</pubYear>
+<updateDate>20090828</updateDate>
+<pid>0101-817519830002</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedade Brasileira de Zoologia</publisher>
+<title>Revista Brasileira de Zoologia</title>
+<issn>0101-8175</issn>
+<volume>2</volume>
+<numero>3</numero>
+<pubYear>1983</pubYear>
+<updateDate>20090828</updateDate>
+<pid>0101-817519830003</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedade Brasileira de Zoologia</publisher>
+<title>Revista Brasileira de Zoologia</title>
+<issn>0101-8175</issn>
+<volume>2</volume>
+<numero>6</numero>
+<pubYear>1984</pubYear>
+<updateDate>20090828</updateDate>
+<pid>0101-817519840002</pid>
+</record>
+<record>
+<subject>Applied Social Sciences</subject><subject>Human Sciences</subject>
+<publisher>Universidade Federal da Bahia - Faculdade de Filosofia e Ciências Humanas - Centro de Recursos Humanos</publisher>
+<title>Caderno CRH</title>
+<issn>0103-4979</issn>
+<volume>22</volume>
+<numero>55</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090828</updateDate>
+<pid>0103-497920090001</pid>
+</record>
+<record>
+<subject>Applied Social Sciences</subject><subject>Human Sciences</subject>
+<publisher>Universidade Federal da Bahia - Faculdade de Filosofia e Ciências Humanas - Centro de Recursos Humanos</publisher>
+<title>Caderno CRH</title>
+<issn>0103-4979</issn>
+<volume>22</volume>
+<numero>55</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090828</updateDate>
+<pid>0103-497920090101</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Dental Foundation of Ribeirão Preto</publisher>
+<title>Brazilian Dental Journal </title>
+<issn>0103-6440</issn>
+<volume>20</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090828</updateDate>
+<pid>0103-644020090002</pid>
+</record>
+<record>
+<subject>Exact and Earth Sciences</subject>
+<publisher>Sociedade Brasileira de Computação</publisher>
+<title>Journal of the Brazilian Computer Society</title>
+<issn>0104-6500</issn>
+<volume>15</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090828</updateDate>
+<pid>0104-650020090002</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pesquisa e Pós-Graduação em Fisioterapia  </publisher>
+<title>Revista Brasileira de Fisioterapia</title>
+<issn>1413-3555</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090828</updateDate>
+<pid>1413-355520090101</pid>
+</record>
+<record>
+<subject>Engineering</subject><subject>Exact and Earth Sciences</subject>
+<publisher>Rede Latino-Americana de Materiais</publisher>
+<title>Matéria (Rio de Janeiro)</title>
+<issn>1517-7076</issn>
+<volume>14</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090828</updateDate>
+<pid>1517-707620090002</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedade Brasileira de Ictiologia</publisher>
+<title>Neotropical Ichthyology</title>
+<issn>1679-6225</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090828</updateDate>
+<pid>1679-622520090050</pid>
+</record>
+<record>
+<subject>Agricultural Sciences</subject><subject>Biological Sciences</subject><subject>Engineering</subject><subject>Exact and Earth Sciences</subject><subject>Health Sciences</subject><subject>Human Sciences</subject>
+<publisher>Academia Brasileira de Ciências</publisher>
+<title>Anais da Academia Brasileira de Ciências</title>
+<issn>0001-3765</issn>
+<volume>81</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090827</updateDate>
+<pid>0001-376520090003</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Instituto Oswaldo Cruz, Ministério da Saúde</publisher>
+<title>Memórias do Instituto Oswaldo Cruz</title>
+<issn>0074-0276</issn>
+<volume>63</volume>
+<pubYear>1965</pubYear>
+<updateDate>20090827</updateDate>
+<pid>0074-027619650001</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Instituto Oswaldo Cruz, Ministério da Saúde</publisher>
+<title>Memórias do Instituto Oswaldo Cruz</title>
+<issn>0074-0276</issn>
+<volume>64</volume>
+<pubYear>1966</pubYear>
+<updateDate>20090827</updateDate>
+<pid>0074-027619660001</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Educação Médica</publisher>
+<title>Revista Brasileira de Educação Médica</title>
+<issn>0100-5502</issn>
+<volume>33</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090827</updateDate>
+<pid>0100-550220090002</pid>
+</record>
+<record>
+<subject>Biological Sciences</subject><subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Divulgação Científica</publisher>
+<title>Brazilian Journal of Medical and Biological Research</title>
+<issn>0100-879X</issn>
+<volume>42</volume>
+<numero>9</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090827</updateDate>
+<pid>0100-879X20090009</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Faculdade de Medicina da Universidade de São Paulo</publisher>
+<title>Revista de Psiquiatria Clínica</title>
+<issn>0101-6083</issn>
+<volume>36</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090827</updateDate>
+<pid>0101-608320090003</pid>
+</record>
+<record>
+<subject>Engineering</subject><subject>Exact and Earth Sciences</subject>
+<publisher>Brazilian Society of Chemical Engineering</publisher>
+<title>Brazilian Journal of Chemical Engineering</title>
+<issn>0104-6632</issn>
+<volume>26</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090827</updateDate>
+<pid>0104-663220090003</pid>
+</record>
+<record>
+<subject>Health Sciences</subject><subject>Human Sciences</subject>
+<publisher>Fundação UNI/UNESP</publisher>
+<title>Interface - Comunicação, Saúde, Educação</title>
+<issn>1414-3283</issn>
+<volume>13</volume>
+<suplemento>1</suplemento>
+<pubYear>2009</pubYear>
+<updateDate>20090827</updateDate>
+<pid>1414-328320090005</pid>
+</record>
+<index mfn="1">
+   <server>
+      <occ date="20090917" time="144505"></occ>
+   </server>
+   <database>
+      <occ>/home/scielo/www/bases/issue/issue</occ>
+   </database>
+   <from/>
+   <to/>
+   <posttag/>
+   <posting/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+</index>
+</wxis-modules></collection></SciELOWebService>

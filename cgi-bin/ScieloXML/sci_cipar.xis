@@ -1,0 +1,167 @@
+<field action="replace" tag="7011"><pft>'/home/scieloorg/www/bases/'</pft></field>
+<field action="replace" tag="7014"><pft>'/home/scieloorg/www/htdocs/'</pft></field>
+
+<parm name="cipar">
+	<pft>
+            'search_org.*=',v7011,'iah/art.org/search.*',/
+            'search_org.mst=',v7011,'iah/art.org/artigo.mst',/
+            'search_org.xrf=',v7011,'iah/art.org/artigo.xrf',/
+	    'searchp_org.*=',v7011,'iah/art.org/searchp.*',/
+      	    'searchp_org.mst=',v7011,'iah/art.org/artigo.mst',/
+	    'searchp_org.xrf=',v7011,'iah/art.org/artigo.xrf',/
+            
+            'search_arg.*=',v7011,'iah/art.arg/search.*',/
+            'search_arg.mst=',v7011,'iah/art.arg/artigo.mst',/
+            'search_arg.xrf=',v7011,'iah/art.arg/artigo.xrf',/
+	    'searchp_arg.*=',v7011,'iah/art.arg/searchp.*',/
+      	    'searchp_arg.mst=',v7011,'iah/art.arg/artigo.mst',/
+	    'searchp_arg.xrf=',v7011,'iah/art.arg/artigo.xrf',/
+
+            'search_cec.*=',v7011,'iah/art.cec/search.*',/
+            'search_cec.mst=',v7011,'iah/art.cec/artigo.mst',/
+            'search_cec.xrf=',v7011,'iah/art.cec/artigo.xrf',/
+	    'searchp_cec.*=',v7011,'iah/art.cec/searchp.*',/
+      	    'searchp_cec.mst=',v7011,'iah/art.cec/artigo.mst',/
+	    'searchp_cec.xrf=',v7011,'iah/art.cec/artigo.xrf',/
+
+            'search_chl.*=',v7011,'iah/art.chl/search.*',/
+            'search_chl.mst=',v7011,'iah/art.chl/artigo.mst',/
+            'search_chl.xrf=',v7011,'iah/art.chl/artigo.xrf',/
+	    'searchp_chl.*=',v7011,'iah/art.chl/searchp.*',/
+      	    'searchp_chl.mst=',v7011,'iah/art.chl/artigo.mst',/
+	    'searchp_chl.xrf=',v7011,'iah/art.chl/artigo.xrf',/
+
+            'search_col.*=',v7011,'iah/art.col/search.*',/
+            'search_col.mst=',v7011,'iah/art.col/artigo.mst',/
+            'search_col.xrf=',v7011,'iah/art.col/artigo.xrf',/
+	    'searchp_col.*=',v7011,'iah/art.col/searchp.*',/
+      	    'searchp_col.mst=',v7011,'iah/art.col/artigo.mst',/
+	    'searchp_col.xrf=',v7011,'iah/art.col/artigo.xrf',/
+	    
+            'search_cri.*=',v7011,'iah/art.cri/search.*',/
+            'search_cri.mst=',v7011,'iah/art.cri/artigo.mst',/
+            'search_cri.xrf=',v7011,'iah/art.cri/artigo.xrf',/
+	    'searchp_cri.*=',v7011,'iah/art.cri/searchp.*',/
+      	    'searchp_cri.mst=',v7011,'iah/art.cri/artigo.mst',/
+	    'searchp_cri.xrf=',v7011,'iah/art.cri/artigo.xrf',/
+
+            'search_cub.*=',v7011,'iah/art.cub/search.*',/
+            'search_cub.mst=',v7011,'iah/art.cub/artigo.mst',/
+            'search_cub.xrf=',v7011,'iah/art.cub/artigo.xrf',/
+	    'searchp_cub.*=',v7011,'iah/art.cub/searchp.*',/
+      	    'searchp_cub.mst=',v7011,'iah/art.cub/artigo.mst',/
+	    'searchp_cub.xrf=',v7011,'iah/art.cub/artigo.xrf',/
+
+            'search_ens.*=',v7011,'iah/art.ens/search.*',/
+            'search_ens.mst=',v7011,'iah/art.ens/artigo.mst',/
+            'search_ens.xrf=',v7011,'iah/art.ens/artigo.xrf',/
+	    'searchp_ens.*=',v7011,'iah/art.ens/searchp.*',/
+      	    'searchp_ens.mst=',v7011,'iah/art.ens/artigo.mst',/
+	    'searchp_ens.xrf=',v7011,'iah/art.ens/artigo.xrf',/
+
+            'search_esp.*=',v7011,'iah/art.esp/search.*',/
+            'search_esp.mst=',v7011,'iah/art.esp/artigo.mst',/
+            'search_esp.xrf=',v7011,'iah/art.esp/artigo.xrf',/
+	    'searchp_esp.*=',v7011,'iah/art.esp/searchp.*',/
+      	    'searchp_esp.mst=',v7011,'iah/art.esp/artigo.mst',/
+	    'searchp_esp.xrf=',v7011,'iah/art.esp/artigo.xrf',/
+
+            'search_iec.*=',v7011,'iah/art.iec/search.*',/
+            'search_iec.mst=',v7011,'iah/art.iec/artigo.mst',/
+            'search_iec.xrf=',v7011,'iah/art.iec/artigo.xrf',/
+	    'searchp_iec.*=',v7011,'iah/art.iec/searchp.*',/
+      	    'searchp_iec.mst=',v7011,'iah/art.iec/artigo.mst',/
+	    'searchp_iec.xrf=',v7011,'iah/art.iec/artigo.xrf',/
+
+            'search_int.*=',v7011,'iah/art.int/search.*',/
+            'search_int.mst=',v7011,'iah/art.int/artigo.mst',/
+            'search_int.xrf=',v7011,'iah/art.int/artigo.xrf',/
+	    'searchp_int.*=',v7011,'iah/art.int/searchp.*',/
+      	    'searchp_int.mst=',v7011,'iah/art.int/artigo.mst',/
+	    'searchp_int.xrf=',v7011,'iah/art.int/artigo.xrf',/
+
+            'search_mex.*=',v7011,'iah/art.mex/search.*',/
+            'search_mex.mst=',v7011,'iah/art.mex/artigo.mst',/
+            'search_mex.xrf=',v7011,'iah/art.mex/artigo.xrf',/
+	    'searchp_mex.*=',v7011,'iah/art.mex/searchp.*',/
+      	    'searchp_mex.mst=',v7011,'iah/art.mex/artigo.mst',/
+	    'searchp_mex.xrf=',v7011,'iah/art.mex/artigo.xrf',/
+
+            'search_per.*=',v7011,'iah/art.per/search.*',/
+            'search_per.mst=',v7011,'iah/art.per/artigo.mst',/
+            'search_per.xrf=',v7011,'iah/art.per/artigo.xrf',/
+	    'searchp_per.*=',v7011,'iah/art.per/searchp.*',/
+      	    'searchp_per.mst=',v7011,'iah/art.per/artigo.mst',/
+	    'searchp_per.xrf=',v7011,'iah/art.per/artigo.xrf',/
+
+            'search_pro.*=',v7011,'iah/art.pro/search.*',/
+            'search_pro.mst=',v7011,'iah/art.pro/artigo.mst',/
+            'search_pro.xrf=',v7011,'iah/art.pro/artigo.xrf',/
+	    'searchp_pro.*=',v7011,'iah/art.pro/searchp.*',/
+      	    'searchp_pro.mst=',v7011,'iah/art.pro/artigo.mst',/
+	    'searchp_pro.xrf=',v7011,'iah/art.pro/artigo.xrf',/
+
+            'search_prt.*=',v7011,'iah/art.prt/search.*',/
+            'search_prt.mst=',v7011,'iah/art.prt/artigo.mst',/
+            'search_prt.xrf=',v7011,'iah/art.prt/artigo.xrf',/
+	    'searchp_prt.*=',v7011,'iah/art.prt/searchp.*',/
+      	    'searchp_prt.mst=',v7011,'iah/art.prt/artigo.mst',/
+	    'searchp_prt.xrf=',v7011,'iah/art.prt/artigo.xrf',/
+
+            'search_ral.*=',v7011,'iah/art.ral/search.*',/
+            'search_ral.mst=',v7011,'iah/art.ral/artigo.mst',/
+            'search_ral.xrf=',v7011,'iah/art.ral/artigo.xrf',/
+	    'searchp_ral.*=',v7011,'iah/art.ral/searchp.*',/
+      	    'searchp_ral.mst=',v7011,'iah/art.ral/artigo.mst',/
+	    'searchp_ral.xrf=',v7011,'iah/art.ral/artigo.xrf',/
+
+            'search_scl.*=',v7011,'iah/art.scl/search.*',/
+            'search_scl.mst=',v7011,'iah/art.scl/artigo.mst',/
+            'search_scl.xrf=',v7011,'iah/art.scl/artigo.xrf',/
+	    'searchp_scl.*=',v7011,'iah/art.scl/searchp.*',/
+      	    'searchp_scl.mst=',v7011,'iah/art.scl/artigo.mst',/
+	    'searchp_scl.xrf=',v7011,'iah/art.scl/artigo.xrf',/
+
+            'search_spa.*=',v7011,'iah/art.spa/search.*',/
+            'search_spa.mst=',v7011,'iah/art.spa/artigo.mst',/
+            'search_spa.xrf=',v7011,'iah/art.spa/artigo.xrf',/
+	    'searchp_spa.*=',v7011,'iah/art.spa/searchp.*',/
+      	    'searchp_spa.mst=',v7011,'iah/art.spa/artigo.mst',/
+	    'searchp_spa.xrf=',v7011,'iah/art.spa/artigo.xrf',/
+
+            'search_sss.*=',v7011,'iah/art.sss/search.*',/
+            'search_sss.mst=',v7011,'iah/art.sss/artigo.mst',/
+            'search_sss.xrf=',v7011,'iah/art.sss/artigo.xrf',/
+	    'searchp_sss.*=',v7011,'iah/art.sss/searchp.*',/
+      	    'searchp_sss.mst=',v7011,'iah/art.sss/artigo.mst',/
+	    'searchp_sss.xrf=',v7011,'iah/art.sss/artigo.xrf',/
+
+            'search_ury.*=',v7011,'iah/art.ury/search.*',/
+            'search_ury.mst=',v7011,'iah/art.ury/artigo.mst',/
+            'search_ury.xrf=',v7011,'iah/art.ury/artigo.xrf',/
+	    'searchp_ury.*=',v7011,'iah/art.ury/searchp.*',/
+      	    'searchp_ury.mst=',v7011,'iah/art.ury/artigo.mst',/
+	    'searchp_ury.xrf=',v7011,'iah/art.ury/artigo.xrf',/
+
+            'search_ven.*=',v7011,'iah/art.ven/search.*',/
+            'search_ven.mst=',v7011,'iah/art.ven/artigo.mst',/
+            'search_ven.xrf=',v7011,'iah/art.ven/artigo.xrf',/
+	    'searchp_ven.*=',v7011,'iah/art.ven/searchp.*',/
+      	    'searchp_ven.mst=',v7011,'iah/art.ven/artigo.mst',/
+	    'searchp_ven.xrf=',v7011,'iah/art.ven/artigo.xrf',/
+
+            'search_wid.*=',v7011,'iah/art.wid/search.*',/
+            'search_wid.mst=',v7011,'iah/art.wid/artigo.mst',/
+            'search_wid.xrf=',v7011,'iah/art.wid/artigo.xrf',/
+	    'searchp_wid.*=',v7011,'iah/art.wid/searchp.*',/
+      	    'searchp_wid.mst=',v7011,'iah/art.wid/artigo.mst',/
+	    'searchp_wid.xrf=',v7011,'iah/art.wid/artigo.xrf',/
+
+	    
+	    'FI_BVS_SEARCH.PFT=',v7014,'applications/scielo-org/webservices/wxis/fi_bvs_search.pft',/
+	    'FI_BVS_SEARCH_HG.PFT=',v7014,'applications/scielo-org/webservices/wxis/fi_bvs_search_hg.pft',/
+	    'GIZMO_COLLECTION_URL.*=',v7011,'iah/gizmo/collections_pt.*',/
+	    'GIZMO_COLLECTION_URL.mst=',v7011,'iah/gizmo/collections_pt.mst',/
+	    'GIZMO_COLLECTION_URL.xrf=',v7011,'iah/gizmo/collections_pt.xrf',/
+	</pft>
+</parm>

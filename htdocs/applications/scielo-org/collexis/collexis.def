@@ -1,0 +1,18 @@
+[CONFIGURATION]
+
+DEFAULT_LANGUAGE=pt
+BVS_URL=http://vm.scieloorg5.org/
+
+[SERVER INFO]
+
+SERVERNAME=vm.scieloorg5.org/
+PATH_DATA=/applications/scielo-org/collexis/
+DOCUMENT_ROOT=/home/app/scieloorg5/www/htdocs/applications/scielo-org/collexis/
+DIRECTORY=/
+
+[COLLEXIS]
+
+COLLEXIS_SERVER=collexis1.bireme.br
+DOCUMENTS_PER_PAGE=20
+SEARCH_ALGORITHM=basic
+RELATED_CONCEPT=true

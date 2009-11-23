@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Cuba" uri="http://scielo.sld.cu" flagName="CU" homologado="true">
+<wxis-modules IsisScript="listNewIssues.xis" version="0.1">
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>ACIMED</title>
+<issn>1024-9435</issn>
+<volume>15</volume>
+<numero>5</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070913</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>ACIMED</title>
+<issn>1024-9435</issn>
+<volume>15</volume>
+<numero>4</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070905</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Pediatría</title>
+<issn>0034-7531</issn>
+<volume>79</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070904</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Estomatología</title>
+<issn>0034-7507</issn>
+<volume>44</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070724</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Medicina Militar</title>
+<issn>0138-6557</issn>
+<volume>36</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070724</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>ACIMED</title>
+<issn>1024-9435</issn>
+<volume>15</volume>
+<numero>3</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070719</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Medicina</title>
+<issn>0034-7523</issn>
+<volume>46</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070704</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Hematología, Inmunología y Hemoterapia</title>
+<issn>0864-0289</issn>
+<volume>23</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070629</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Investigaciones Biomédicas</title>
+<issn>0864-0300</issn>
+<volume>26</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070626</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Medicina General Integral</title>
+<issn>0864-2125</issn>
+<volume>23</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070620</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Cirugía</title>
+<issn>0034-7493</issn>
+<volume>46</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070618</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Medicina General Integral</title>
+<issn>0864-2125</issn>
+<volume>23</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070618</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Endocrinología</title>
+<issn>0188-9796</issn>
+<volume>14</volume>
+<numero>1</numero>
+<pubYear>2003</pubYear>
+<updateDate>20070614</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Endocrinología</title>
+<issn>0188-9796</issn>
+<volume>14</volume>
+<numero>2</numero>
+<pubYear>2003</pubYear>
+<updateDate>20070614</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Endocrinología</title>
+<issn>0188-9796</issn>
+<volume>14</volume>
+<numero>3</numero>
+<pubYear>2003</pubYear>
+<updateDate>20070614</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editoria Ciencias Médicas</publisher>
+<title>Revista Cubana de Educación Médica Superior</title>
+<issn>0864-2141</issn>
+<volume>20</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editoria Ciencias Médicas</publisher>
+<title>Revista Cubana de Educación Médica Superior</title>
+<issn>0864-2141</issn>
+<volume>20</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editoria Ciencias Médicas</publisher>
+<title>Revista Cubana de Educación Médica Superior</title>
+<issn>0864-2141</issn>
+<volume>20</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>ACIMED</title>
+<issn>1024-9435</issn>
+<volume>15</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>ACIMED</title>
+<issn>1024-9435</issn>
+<volume>15</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>Revista Cubana de Endocrinología</title>
+<issn>0188-9796</issn>
+<volume>17</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070611</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Higiene y Epidemiología</title>
+<issn>1561-3003</issn>
+<volume>45</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070611</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Estomatología</title>
+<issn>0034-7507</issn>
+<volume>43</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070608</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Oftalmología</title>
+<issn>0864-2176</issn>
+<volume>19</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070607</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Farmacia</title>
+<issn>0034-7515</issn>
+<volume>41</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070604</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Estomatología</title>
+<issn>0034-7507</issn>
+<volume>43</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070601</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>Revista Cubana de Salud Pública</title>
+<issn>0864-3466</issn>
+<volume>33</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070531</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Medicina</title>
+<issn>0034-7523</issn>
+<volume>45</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070525</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Medicina</title>
+<issn>0034-7523</issn>
+<volume>45</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070525</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Medicina</title>
+<issn>0034-7523</issn>
+<volume>45</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070525</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Medicina</title>
+<issn>0034-7523</issn>
+<volume>45</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070525</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>ACIMED</title>
+<issn>1024-9435</issn>
+<volume>14</volume>
+<numero>6</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070524</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Medicina General Integral</title>
+<issn>0864-2125</issn>
+<volume>22</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070522</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Medicina General Integral</title>
+<issn>0864-2125</issn>
+<volume>22</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070522</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Farmacia</title>
+<issn>0034-7515</issn>
+<volume>40</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070521</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Cirugía</title>
+<issn>0034-7493</issn>
+<volume>45</volume>
+<numero>3-4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070518</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Pediatría</title>
+<issn>0034-7531</issn>
+<volume>78</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070517</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Hematología, Inmunología y Hemoterapia</title>
+<issn>0864-0289</issn>
+<volume>22</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070510</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Obstetricia y Ginecología</title>
+<issn>0138-600X</issn>
+<volume>32</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070508</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Pediatría</title>
+<issn>0034-7531</issn>
+<volume>78</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070503</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Plantas Medicinales</title>
+<issn>1028-4796</issn>
+<volume>11</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070503</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Plantas Medicinales</title>
+<issn>1028-4796</issn>
+<volume>11</volume>
+<numero>3-4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070503</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>Revista Cubana de Medicina Tropical</title>
+<issn>0375-0760</issn>
+<volume>58</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070502</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>ACIMED</title>
+<issn>1024-9435</issn>
+<volume>14</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070406</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>ACIMED</title>
+<issn>1024-9435</issn>
+<volume>14</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070406</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Higiene y Epidemiología</title>
+<issn>1561-3003</issn>
+<volume>44</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070323</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Medicina Militar</title>
+<issn>0138-6557</issn>
+<volume>35</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070313</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Enfermería</title>
+<issn>0864-0319</issn>
+<volume>22</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070309</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>ECIMED</publisher>
+<title>Revista Cubana de Investigaciones Biomédicas</title>
+<issn>0864-0300</issn>
+<volume>25</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070228</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Ciencias Médicas</publisher>
+<title>Revista Cubana de Obstetricia y Ginecología</title>
+<issn>0138-600X</issn>
+<volume>32</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070220</updateDate>
+</record>
+<index mfn="1">
+   <server>
+      <occ date="20070919" time="122147"></occ>
+   </server>
+   <database>
+      <occ>/var/www/webhosting/scielo/bases/issue/issue</occ>
+   </database>
+   <from/>
+   <to/>
+   <posttag/>
+   <posting/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+</index>
+</wxis-modules></collection></SciELOWebService>

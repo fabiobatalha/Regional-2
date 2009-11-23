@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Mexico" uri="http://www.scielo.org.mx" flagName="MX" homologado="false">
+<wxis-modules IsisScript="listNewIssues.xis" version="0.1">
+<record>
+<subject>Exact and Earth Sciences</subject>
+<publisher>Instituto de Geofísica, UNAM</publisher>
+<title>Geofísica internacional</title>
+<issn>0016-7169</issn>
+<volume>46</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070912</updateDate>
+</record>
+<record>
+<subject>Exact and Earth Sciences</subject>
+<publisher>Instituto de Geofísica, UNAM</publisher>
+<title>Geofísica internacional</title>
+<issn>0016-7169</issn>
+<volume>45</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070905</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud Pública</publisher>
+<title>Salud Pública de México</title>
+<issn>0036-3634</issn>
+<volume>48</volume>
+<numero>6</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070904</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud Pública</publisher>
+<title>Salud Pública de México</title>
+<issn>0036-3634</issn>
+<volume>48</volume>
+<numero>6</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070904</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Facultad de Ingeniería, UNAM</publisher>
+<title>Ingeniería, investigación y tecnología</title>
+<issn>1405-7743</issn>
+<volume>8</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070904</updateDate>
+</record>
+<record>
+<subject>Exact and Earth Sciences</subject>
+<publisher>Sociedad Mexicana de Física</publisher>
+<title>Revista mexicana de física</title>
+<issn>0035-001X</issn>
+<volume>52</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070903</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Enfermedades Respiratorias</publisher>
+<title>Revista del Instituto Nacional de Enfermedades Respiratorias</title>
+<issn>0187-7585</issn>
+<volume>18</volume>
+<numero>3</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070903</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Enfermedades Respiratorias</publisher>
+<title>Revista del Instituto Nacional de Enfermedades Respiratorias</title>
+<issn>0187-7585</issn>
+<volume>19</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070903</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Enfermedades Respiratorias</publisher>
+<title>Revista del Instituto Nacional de Enfermedades Respiratorias</title>
+<issn>0187-7585</issn>
+<volume>19</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070903</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Academia Nacional de Medicina de México</publisher>
+<title>Gaceta médica de México</title>
+<issn>0016-3813</issn>
+<volume>141</volume>
+<numero>1</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070829</updateDate>
+</record>
+<record>
+<subject>Exact and Earth Sciences</subject>
+<publisher>Sociedad Mexicana de Física</publisher>
+<title>Revista mexicana de física</title>
+<issn>0035-001X</issn>
+<volume>52</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Perinatología</publisher>
+<title>Perinatología y reproducción humana</title>
+<issn>0187-5337</issn>
+<volume>20</volume>
+<numero>1-3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Facultad de Ingeniería, UNAM</publisher>
+<title>Ingeniería, investigación y tecnología</title>
+<issn>1405-7743</issn>
+<volume>7</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Facultad de Ingeniería, UNAM</publisher>
+<title>Ingeniería, investigación y tecnología</title>
+<issn>1405-7743</issn>
+<volume>7</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Facultad de Ingeniería, UNAM</publisher>
+<title>Ingeniería, investigación y tecnología</title>
+<issn>1405-7743</issn>
+<volume>7</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Facultad de Ingeniería, UNAM</publisher>
+<title>Ingeniería, investigación y tecnología</title>
+<issn>1405-7743</issn>
+<volume>7</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Facultad de Ingeniería, UNAM</publisher>
+<title>Ingeniería, investigación y tecnología</title>
+<issn>1405-7743</issn>
+<volume>8</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud, Hospital Infantil de México Federico Gómez</publisher>
+<title>Boletín médico del Hospital Infantil de México</title>
+<issn>1665-1146</issn>
+<volume>64</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud Pública</publisher>
+<title>Salud Pública de México</title>
+<issn>0036-3634</issn>
+<volume>49</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070803</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Enfermedades Respiratorias</publisher>
+<title>Revista del Instituto Nacional de Enfermedades Respiratorias</title>
+<issn>0187-7585</issn>
+<volume>18</volume>
+<numero>4</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070731</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Enfermedades Respiratorias</publisher>
+<title>Revista del Instituto Nacional de Enfermedades Respiratorias</title>
+<issn>0187-7585</issn>
+<volume>18</volume>
+<numero>2</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070614</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>76</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070613</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Perinatología</publisher>
+<title>Perinatología y reproducción humana</title>
+<issn>0187-5337</issn>
+<volume>19</volume>
+<numero>3-4</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Enfermedades Respiratorias</publisher>
+<title>Revista del Instituto Nacional de Enfermedades Respiratorias</title>
+<issn>0187-7585</issn>
+<volume>18</volume>
+<numero>1</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>75</volume>
+<numero>1</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>75</volume>
+<numero>1</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>76</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud, Hospital Infantil de México Federico Gómez</publisher>
+<title>Boletín médico del Hospital Infantil de México</title>
+<issn>1665-1146</issn>
+<volume>63</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Neurología y Neurocirugía</publisher>
+<title>Archivos de neurociencias (México, D.F.)</title>
+<issn>0187-4705</issn>
+<volume>10</volume>
+<numero>1</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070524</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Perinatología</publisher>
+<title>Perinatología y reproducción humana</title>
+<issn>0187-5337</issn>
+<volume>19</volume>
+<numero>1</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070523</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud, Hospital Infantil de México Federico Gómez</publisher>
+<title>Boletín médico del Hospital Infantil de México</title>
+<issn>1665-1146</issn>
+<volume>63</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070511</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>75</volume>
+<numero>3</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070508</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud, Hospital Infantil de México Federico Gómez</publisher>
+<title>Boletín médico del Hospital Infantil de México</title>
+<issn>1665-1146</issn>
+<volume>63</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070503</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud, Hospital Infantil de México Federico Gómez</publisher>
+<title>Boletín médico del Hospital Infantil de México</title>
+<issn>1665-1146</issn>
+<volume>63</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070503</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud, Hospital Infantil de México Federico Gómez</publisher>
+<title>Boletín médico del Hospital Infantil de México</title>
+<issn>1665-1146</issn>
+<volume>63</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070503</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Neurología y Neurocirugía</publisher>
+<title>Archivos de neurociencias (México, D.F.)</title>
+<issn>0187-4705</issn>
+<volume>10</volume>
+<numero>2</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070430</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>76</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070425</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Perinatología</publisher>
+<title>Perinatología y reproducción humana</title>
+<issn>0187-5337</issn>
+<volume>19</volume>
+<numero>2</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070420</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>75</volume>
+<numero>2</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070419</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>76</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070419</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>76</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070419</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>75</volume>
+<numero>1</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070416</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>75</volume>
+<numero>2</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070416</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<title>Archivos de cardiología de México</title>
+<issn>1405-9940</issn>
+<volume>75</volume>
+<numero>4</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070411</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Neurología y Neurocirugía</publisher>
+<title>Archivos de neurociencias (México, D.F.)</title>
+<issn>0187-4705</issn>
+<volume>10</volume>
+<numero>3</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070323</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Neurología y Neurocirugía</publisher>
+<title>Archivos de neurociencias (México, D.F.)</title>
+<issn>0187-4705</issn>
+<volume>10</volume>
+<numero>4</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070323</updateDate>
+</record>
+<record>
+<subject>Applied Social Sciences</subject>
+<publisher>Centro de Estudios sobre la Universidad, UNAM</publisher>
+<title>Perfiles educativos</title>
+<issn>0185-2698</issn>
+<volume>28</volume>
+<numero>113</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070320</updateDate>
+</record>
+<record>
+<subject>Applied Social Sciences</subject>
+<publisher>Centro de Estudios sobre la Universidad, UNAM</publisher>
+<title>Perfiles educativos</title>
+<issn>0185-2698</issn>
+<volume>27</volume>
+<numero>109-110</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070316</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Instituto de Biología</publisher>
+<title>Revista mexicana de biodiversidad</title>
+<issn>1870-3453</issn>
+<volume>76</volume>
+<numero>1</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070305</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Instituto de Biología</publisher>
+<title>Revista mexicana de biodiversidad</title>
+<issn>1870-3453</issn>
+<volume>76</volume>
+<numero>2</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070305</updateDate>
+</record>
+<index mfn="1">
+   <server>
+      <occ date="20070919" time="112621"></occ>
+   </server>
+   <database>
+      <occ>/srv/www/scielo/bases/issue/issue</occ>
+   </database>
+   <from/>
+   <to/>
+   <posttag/>
+   <posting/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+</index>
+</wxis-modules></collection></SciELOWebService>

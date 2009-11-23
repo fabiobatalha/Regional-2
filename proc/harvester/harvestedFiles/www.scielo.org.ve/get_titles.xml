@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Venezuela" uri="http://www.scielo.org.ve" flagName="VE"><indicators><journalTotal>34</journalTotal><articleTotal>5217</articleTotal><issueTotal>492</issueTotal><citationTotal>107455</citationTotal></indicators>
+<wxis-modules IsisScript="/webservices/wxis/list.xis" version="0.2">
+<record>
+<title>Educere</title>
+<processDate>20061107</processDate>
+<issn>1316-4910</issn>
+<publisher>Universidad de los Andes</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Letras</title>
+<processDate>20060905</processDate>
+<issn>0459-1283</issn>
+<publisher>Universidad Pedagógica  experimental Libertador</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista del Instituto de Filosofía  (EPISTEME)</title>
+<processDate>20060905</processDate>
+<issn>0798-4324</issn>
+<publisher>INSTITUTO DE FILOSOFIA UCV</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Paradìgma</title>
+<processDate>20060810</processDate>
+<issn>1011-2251</issn>
+<publisher>Universidad Pedagogica Experimental Libertador</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Gaceta Laboral </title>
+<processDate>20060808</processDate>
+<issn>1315-8597</issn>
+<publisher>Publicación del</publisher>
+<publisher>Universidad del Zulia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Núcleo</title>
+<processDate>20060719</processDate>
+<issn>0798-9784</issn>
+<publisher>Universidad Central de Venezuela. Facultad de Humanidades</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Ciencias Sociales</title>
+<processDate>20060628</processDate>
+<issn>1315-9518</issn>
+<publisher>Instituto de Investigaciones Universidad del Zulia (LUZ)</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Utopìa y Praxis Latinoamericana</title>
+<processDate>20060608</processDate>
+<issn>1315-5216</issn>
+<publisher>Universidad del Zulia, Facultad de Ciencias Econòmicas y Sociales. </publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Venezolana de Oncología</title>
+<processDate>20060406</processDate>
+<issn>0798-0582</issn>
+<publisher> Casa publicadora Ateproca C.A</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Kasmera</title>
+<processDate>20060302</processDate>
+<issn>0075-5222</issn>
+<publisher>Universidad del Zulia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Boletin de Linguistica</title>
+<processDate>20050510</processDate>
+<issn>0798-9709</issn>
+<publisher>FACES - UCV</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Bioagro</title>
+<processDate>20050310</processDate>
+<issn>1316-3361</issn>
+<publisher>Decanato de Agronomía de la Universidad Centroccidental &quot;Lisandro Alvarado&quot; (UCLA)</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Zootecnia Tropical</title>
+<processDate>20041115</processDate>
+<issn>0798-7269</issn>
+<publisher>Instituto Nacional de Investigaciones Agricolas INIA, Maracay, Venezuela. </publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Filosofía</title>
+<processDate>20040804</processDate>
+<issn>0798-1171</issn>
+<publisher>Centro de Estudios Filosóficos Adolfo García Díaz</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Frónesis</title>
+<processDate>20040712</processDate>
+<issn>1315-6268</issn>
+<publisher>Instituto de Filosofía del Derecho &quot;Dr. José M. Delgado Ocando&quot; Facultad de Ciencias Jurídicas y Políticas - Universidad del Zulia - Maracaibo - Venezuela.</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Opción</title>
+<processDate>20040614</processDate>
+<issn>1012-1587</issn>
+<publisher>Universidad del Zulia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Boletín Técnico </title>
+<processDate>20031124</processDate>
+<issn>0376-723X</issn>
+<publisher>Instituto de Materiales y Modelos Estructurales.Facultad de Ingenieria. Universidad Central de Venezuela.</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cuadernos del Cendes</title>
+<processDate>20030715</processDate>
+<issn>1012-2508</issn>
+<publisher>Universidad Central de Venezuela, Centro de Estudios del Desarrollo.</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de la Facultad de Agronomía</title>
+<processDate>20030715</processDate>
+<issn>0378-7818</issn>
+<publisher>Facultad de Agronomía. Universidad del Zulia </publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta Botánica Venezuelica</title>
+<processDate>20030704</processDate>
+<issn>0084-5906</issn>
+<publisher>Fundación Instituto Botánico de Venezuela Dr. Tobías Lasser</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Pedagogía</title>
+<processDate>20030512</processDate>
+<issn>0798-9792</issn>
+<publisher>Escuela de Educación, Facultad de Humanidades y Educación, Universidad Central de Venezuela </publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Técnica de la Facultad de Ingeniería Universidad del Zulia</title>
+<processDate>20030507</processDate>
+<issn>0254-0770</issn>
+<publisher>Facultad de Ingeniería, Universidad del Zulia</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Agroalimentaria</title>
+<processDate>20030407</processDate>
+<issn>1316-0354</issn>
+<publisher>Centro de Investiagciones Agroalimentarias (CIAAL), Facultad de Ciencias Económicas y Sociales, Universidad de los Andes</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Gaceta Médica de Caracas</title>
+<processDate>20030306</processDate>
+<issn>0367-4762</issn>
+<publisher>ATEPROCA</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Espacios</title>
+<processDate>20030222</processDate>
+<issn>0798-1015</issn>
+<publisher>Talleres de Impresos Omar</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Interciencia</title>
+<processDate>20020605</processDate>
+<issn>0378-1844</issn>
+<publisher>ASOCIACIÓN INTERCIENCIA</publisher>
+<subject>Agricultural Sciences</subject>
+<subject>Biological Sciences</subject>
+<subject>Chemistry</subject>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Anales Venezolanos de Nutrición</title>
+<processDate>20020430</processDate>
+<issn>0798-0752</issn>
+<publisher>Fundación Bengoa</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de la Sociedad Venezolana de Microbiología</title>
+<processDate>20020211</processDate>
+<issn>1315-2556</issn>
+<publisher>Organo Oficial de la Sociedad Venezolana de Microbiología.</publisher>
+<subject>Biological Sciences</subject>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Archivos Latinoamericanos de Nutrición</title>
+<processDate>20020108</processDate>
+<issn>0004-0622</issn>
+<publisher>Sociedad Latinoamericana de Nutrición</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Archivos Venezolanos de Farmacología y Terapéutica</title>
+<processDate>20011207</processDate>
+<issn>0798-0264</issn>
+<publisher>Sociedad Venezolana de Farmacológia  y Farmacológia Clínica y Terapéutica. Escuela de Medicina</publisher>
+<publisher>José Maria Vargas. Cátedra de Farmacológia, piso 3, esquina san jacinto, San José Caracas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de la Facultad de Medicina</title>
+<processDate>20011127</processDate>
+<issn>0798-0469</issn>
+<publisher>Universidad Central de Venezuela. Facultad de Medicina. Comisión de Publicaciones de la Facultad de Medicina</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Obstetricia y Ginecología de Venezuela</title>
+<processDate>20011126</processDate>
+<issn>0048-7732</issn>
+<publisher>Sociedad de Obstetricia y Ginecología de Venezuela</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta Odontológica Venezolana</title>
+<processDate>20010731</processDate>
+<issn>0001-6365</issn>
+<publisher>Facultad de Odontología -UCV</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Investigación Clínica</title>
+<processDate>20010731</processDate>
+<issn>0535-5133</issn>
+<publisher>Universidad del Zulia</publisher>
+<subject>Biological Sciences</subject>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record mfn="1">
+   <v2>/webservices/wxis/list.xis</v2>
+   <v3>20070817 160415 5 228</v3>
+   <server>
+      <d>20070817</d>
+      <t>160415</t>
+   </server>
+   <database>/scielo/web/bases/title/title</database>
+   <v2007>GIZMO_XML</v2007>
+   <Isis_Current>34</Isis_Current>
+   <v1>0</v1>
+   <Isis_Total>34</Isis_Total>
+   <v2103>34</v2103>
+   <v2104>35</v2104>
+</record>
+</wxis-modules></collection></SciELOWebService>

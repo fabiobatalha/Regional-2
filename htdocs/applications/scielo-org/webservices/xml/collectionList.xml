@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<collectionList>
+   <collection uri="http://www.scielo.org.ar" flagName="AR" grupo="developed">
+      <name>Argentina</name>
+      <journalTotal current="56">62</journalTotal>
+      <articleTotal>7564</articleTotal>
+      <issueTotal>581</issueTotal>
+      <citationTotal>175545</citationTotal>
+   </collection>
+   <collection uri="http://www.scielo.br" flagName="BR" grupo="developed">
+      <name>Brasil</name>
+      <journalTotal current="224">229</journalTotal>
+      <articleTotal>138915</articleTotal>
+      <issueTotal>8040</issueTotal>
+      <citationTotal>2965362</citationTotal>
+   </collection>
+   <collection uri="http://www.scielo.cl" flagName="CL" grupo="developed">
+      <name>Chile</name>
+      <journalTotal current="85">85</journalTotal>
+      <articleTotal>24503</articleTotal>
+      <issueTotal>1885</issueTotal>
+      <citationTotal>448512</citationTotal>
+   </collection>
+   <collection uri="http://www.scielo.org.co" flagName="CO" grupo="developed">
+      <name>Colombia</name>
+      <journalTotal current="68">72</journalTotal>
+      <articleTotal>8971</articleTotal>
+      <issueTotal>766</issueTotal>
+      <citationTotal>219436</citationTotal>
+   </collection>
+   <collection uri="http://scielo.sld.cu" flagName="CU" grupo="developed">
+      <name>Cuba</name>
+      <journalTotal current="30">33</journalTotal>
+      <articleTotal>10990</articleTotal>
+      <issueTotal>933</issueTotal>
+      <citationTotal>150594</citationTotal>
+   </collection>
+   <collection uri="http://scielo.isciii.es" flagName="ES" grupo="developed">
+      <name>Espanha</name>
+      <journalTotal current="41">41</journalTotal>
+      <articleTotal>14195</articleTotal>
+      <issueTotal>1123</issueTotal>
+      <citationTotal>230276</citationTotal>
+   </collection>
+   <collection uri="http://www.scielo.org.mx" flagName="MX" grupo="underdevelopment">
+      <name>Mexico</name>
+      <journalTotal current="37">37</journalTotal>
+      <articleTotal>4643</articleTotal>
+      <issueTotal>397</issueTotal>
+      <citationTotal>111395</citationTotal>
+   </collection>
+   <collection uri="http://www.scielo.oces.mctes.pt" flagName="PT" grupo="developed">
+      <name>Portugal</name>
+      <journalTotal current="27">32</journalTotal>
+      <articleTotal>3898</articleTotal>
+      <issueTotal>358</issueTotal>
+      <citationTotal>20938</citationTotal>
+   </collection>
+   <collection uri="http://www.scielo.org.ve" flagName="VE" grupo="developed">
+      <name>Venezuela</name>
+      <journalTotal current="49">49</journalTotal>
+      <articleTotal>10035</articleTotal>
+      <issueTotal>915</issueTotal>
+      <citationTotal>205384</citationTotal>
+   </collection>
+   <collection uri="http://www.scielosp.org" flagName="XX" grupo="developed">
+      <name>Saude Publica</name>
+      <journalTotal current="11">20</journalTotal>
+      <articleTotal>18195</articleTotal>
+      <issueTotal>1036</issueTotal>
+      <citationTotal>329493</citationTotal>
+   </collection>
+   <collection uri="http://socialsciences.scielo.org" flagName="XX" grupo="developed">
+      <name>Ciências Sociais</name>
+      <journalTotal current="29">29</journalTotal>
+      <articleTotal>396</articleTotal>
+      <issueTotal>80</issueTotal>
+      <citationTotal>13371</citationTotal>
+   </collection>
+   <collection uri="http://caribbean.scielo.org" flagName="XX" grupo="underdevelopment">
+      <name>West Indian Medical Journal</name>
+      <journalTotal current="1">1</journalTotal>
+      <articleTotal>453</articleTotal>
+      <issueTotal>24</issueTotal>
+      <citationTotal>5864</citationTotal>
+   </collection>
+</collectionList>

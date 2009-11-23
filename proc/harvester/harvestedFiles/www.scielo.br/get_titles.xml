@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Brasil" uri="http://www.scielo.br" flagName="BR" homologado="true"><indicators><journalTotal>183</journalTotal><articleTotal>84751</articleTotal><issueTotal>4897</issueTotal><citationTotal>1781405</citationTotal></indicators>
+<wxis-modules IsisScript="list.xis" version="0.2">
+<record>
+<title>Neotropical Ichthyology</title>
+<processDate>20070611</processDate>
+<issn>1679-6225</issn>
+<publisher>Sociedade Brasileira de Ictiologia</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Educar em Revista</title>
+<processDate>20070521</processDate>
+<issn>0104-4060</issn>
+<publisher>Setor de Educação da Universidade Federal do Paraná</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Ciência e Agrotecnologia</title>
+<processDate>20070517</processDate>
+<issn>1413-7054</issn>
+<publisher>Editora da Universidade Federal de Lavras</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista CEFAC</title>
+<processDate>20070517</processDate>
+<issn>1516-1846</issn>
+<publisher>CEFAC Saúde e Educação</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista Katálysis</title>
+<processDate>20070517</processDate>
+<issn>1414-4980</issn>
+<publisher>Departamento de Serviço Social da Universidade Federal de Santa Catarina</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Farmacognosia</title>
+<processDate>20070423</processDate>
+<issn>0102-695X</issn>
+<publisher>Sociedade Brasileira de Farmacognosia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Varia história</title>
+<processDate>20070423</processDate>
+<issn>0104-8775</issn>
+<publisher>Universidade Federal de Minas Gerais, Faculdade de Filosofia e Ciências Humanas, Departamento de História</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Matéria (Rio de Janeiro)</title>
+<processDate>20070301</processDate>
+<issn>1517-7076</issn>
+<publisher>Rede Latino-Americana de Materiais</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Educação Médica</title>
+<processDate>20061211</processDate>
+<issn>0100-5502</issn>
+<publisher>Associação Brasileira de Educação Médica</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Perspectivas em Ciência da Informação</title>
+<processDate>20061205</processDate>
+<issn>1413-9936</issn>
+<publisher>Escola de Ciência da Informação da UFMG</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Psicologia Clínica</title>
+<processDate>20061005</processDate>
+<issn>0103-5665</issn>
+<publisher>Departamento de Psicologia da Pontifícia Universidade Católica do Rio de Janeiro</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Summa Phytopathologica</title>
+<processDate>20061011</processDate>
+<issn>0100-5405</issn>
+<publisher>Grupo Paulista de Fitopatologia</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Nova Economia</title>
+<processDate>20061002</processDate>
+<issn>0103-6351</issn>
+<publisher>Departamento de Ciências Econômicas da Universidade Federal de Minas Gerais</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Sociedade e Estado</title>
+<processDate>20060927</processDate>
+<issn>0102-6992</issn>
+<publisher>Departamento de Sociologia da Universidade de Brasília </publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Tempo</title>
+<processDate>20060919</processDate>
+<issn>1413-7704</issn>
+<publisher>EdUFF - Editora da UFF</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Coloproctologia</title>
+<processDate>20060828</processDate>
+<issn>0101-9880</issn>
+<publisher>Cidade Editora Científica Ltda</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Estudos Econômicos (São Paulo)</title>
+<processDate>20060825</processDate>
+<issn>0101-4161</issn>
+<publisher>Instituto de Pesquisas Econômicas da FEA-USP</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Estudos de População</title>
+<processDate>20060807</processDate>
+<issn>0102-3098</issn>
+<publisher>Associação Brasileira de Estudos Populacionais</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Fisioterapia</title>
+<processDate>20060803</processDate>
+<issn>1413-3555</issn>
+<publisher>Associação Brasileira de Pesquisa e Pós-Graduação em Fisioterapia  </publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Journal of Epilepsy and Clinical Neurophysiology</title>
+<processDate>20060731</processDate>
+<issn>1676-2649</issn>
+<publisher>Liga Brasileira de Epilepsia (LBE)</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista do Departamento de Psicologia. UFF</title>
+<processDate>20060711</processDate>
+<issn>0104-8023</issn>
+<publisher>Universidade Federal Fluminense, Departamento de Psicologia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Economia Contemporânea</title>
+<processDate>20060623</processDate>
+<issn>1415-9848</issn>
+<publisher>Instituto de Economa da Universidade Federal do Rio de Janeiro</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Educação Especial</title>
+<processDate>20060608</processDate>
+<issn>1413-6538</issn>
+<publisher>Associação Brasileira de Pesquisadores em Educação Especial - ABPEE</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Administração Pública</title>
+<processDate>20060608</processDate>
+<issn>0034-7612</issn>
+<publisher>Fundação Getúlio Vargas</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Trans/Form/Ação</title>
+<processDate>20060518</processDate>
+<issn>0101-3173</issn>
+<publisher>Universidade Estadual Paulista, Departamento de Filosofia </publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Biota Neotropica</title>
+<processDate>20060413</processDate>
+<issn>1676-0603</issn>
+<publisher>Centro de Referência em Informação Ambiental/CRIA</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Jornal Vascular Brasileiro</title>
+<processDate>20060417</processDate>
+<issn>1677-5449</issn>
+<publisher>Sociedade Brasileira de Angiologia e de Cirurgia Vascular (SBACV)</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Produção</title>
+<processDate>20060313</processDate>
+<issn>0103-6513</issn>
+<publisher>Associação Brasileira de Engenharia de Produção</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Pró-Fono Revista de Atualização Científica</title>
+<processDate>20060307</processDate>
+<issn>0104-5687</issn>
+<publisher>Pró-Fono Produtos Especializados para Fonoaudiologia Ltda.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Kriterion: Revista de Filosofia</title>
+<processDate>20060203</processDate>
+<issn>0100-512X</issn>
+<publisher>Faculdade de Filosofia e Ciências Humanas da UFMG</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Novos Estudos - CEBRAP</title>
+<processDate>20060210</processDate>
+<issn>0101-3300</issn>
+<publisher>Centro Brasileiro de Análise e Planejamento</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>RAE eletrônica</title>
+<processDate>20060208</processDate>
+<issn>1676-5648</issn>
+<publisher>Fundação Getulio Vargas/Escola de Administração de Empresas de São Paulo</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>História (São Paulo)</title>
+<processDate>20060202</processDate>
+<issn>0101-9074</issn>
+<publisher>Fundação Editora da UNESP</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Economia Aplicada</title>
+<processDate>20060127</processDate>
+<issn>1413-8050</issn>
+<publisher>Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto da Universidade de São Paulo</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Dental Press de Ortodontia e Ortopedia Facial</title>
+<processDate>20060127</processDate>
+<issn>1415-5419</issn>
+<publisher>Dental Press Editora</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Reumatologia</title>
+<processDate>20051130</processDate>
+<issn>0482-5004</issn>
+<publisher>Congress Update - Aquaprint Gráfica e Editora Ltda - Magali A. Luiz Martins</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Anais da Sociedade Entomológica do Brasil</title>
+<processDate>20051125</processDate>
+<issn>0301-8059</issn>
+<publisher>Sociedade Entomológica do Brasil</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Ciências Farmacêuticas</title>
+<processDate>20051123</processDate>
+<issn>1516-9332</issn>
+<publisher>Divisão de Biblioteca e Documentação do Conjunto das Químicas da Universidade de São Paulo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Physis: Revista de Saúde Coletiva</title>
+<processDate>20051020</processDate>
+<issn>0103-7331</issn>
+<publisher>IMS-UERJ</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista do Colégio Brasileiro de Cirurgiões</title>
+<processDate>20051021</processDate>
+<issn>0100-6991</issn>
+<publisher>Colégio Brasileiro de Cirurgiões</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Entomología y Vectores</title>
+<processDate>20051014</processDate>
+<issn>0328-0381</issn>
+<publisher>Editora Gama Filho</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cadernos Pagu</title>
+<processDate>20051005</processDate>
+<issn>0104-8333</issn>
+<publisher>Núcleo de Estudos de Gênero - Pagu</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Educação</title>
+<processDate>20051003</processDate>
+<issn>1413-2478</issn>
+<publisher>Editora Autores Associados</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ágora: Estudos em Teoria Psicanalítica</title>
+<processDate>20050927</processDate>
+<issn>1516-1498</issn>
+<publisher>Programa de Pós-graduação em Teoria Psicanalítica do Instituto de Psicologia da Universidade Federal do Rio de Janeiro - UFRJ</publisher>
+<subject>Applied Social Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Tempo Social</title>
+<processDate>20050920</processDate>
+<issn>0103-2070</issn>
+<publisher>Departamento de Sociologia da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Interface - Comunicação, Saúde, Educação</title>
+<processDate>20050830</processDate>
+<issn>1414-3283</issn>
+<publisher>Fundação UNI/UNESP</publisher>
+<subject>Health Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Economia Política</title>
+<processDate>20050822</processDate>
+<issn>0101-3157</issn>
+<publisher>Editora 34</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ensaio: Avaliação e Políticas Públicas em Educação</title>
+<processDate>20050818</processDate>
+<issn>0104-4036</issn>
+<publisher>Fundação CESGRANRIO</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Engenharia Sanitaria e Ambiental </title>
+<processDate>20050715</processDate>
+<issn>1413-4152</issn>
+<publisher>ABES </publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Clinics</title>
+<processDate>20050215</processDate>
+<issn>1807-5932</issn>
+<publisher>Faculdade de Medicina / USP</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Engenharia Agrícola</title>
+<processDate>20050128</processDate>
+<issn>0100-6916</issn>
+<publisher>Associação Brasileira de Engenharia Agrícola</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Epidemiologia</title>
+<processDate>20050112</processDate>
+<issn>1415-790X</issn>
+<publisher>Associação Brasileira de Pós -Graduação em Saúde Coletiva </publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Journal of Cardiovascular Surgery</title>
+<processDate>20040920</processDate>
+<issn>1678-9741</issn>
+<publisher>Sociedade Brasileira de Cirurgia Cardiovascular</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Oral Research</title>
+<processDate>20040920</processDate>
+<issn>1806-8324</issn>
+<publisher>Sociedade Brasileira de Pesquisa Odontológica </publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta Amazonica</title>
+<processDate>20040817</processDate>
+<issn>0044-5967</issn>
+<publisher>Instituto Nacional de Pesquisas da Amazônia</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Engenharia Agrícola e Ambiental</title>
+<processDate>20040817</processDate>
+<issn>1415-4366</issn>
+<publisher>Departamento de Engenharia Agrícola  - UFCG</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Computational &amp; Applied Mathematics </title>
+<processDate>20040713</processDate>
+<issn>0101-8205</issn>
+<publisher>Sociedade Brasileira de Matemática Aplicada e Computacional</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Alea : Estudos Neolatinos</title>
+<processDate>20040630</processDate>
+<issn>1517-106X</issn>
+<publisher>Programa de Pos-Graduação em Letras Neolatinas, Faculdade de Letras -UFRJ</publisher>
+<subject>Linguistics, Letters and Arts</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Sementes</title>
+<processDate>20040623</processDate>
+<issn>0101-3122</issn>
+<publisher>Associação Brasileira de Tecnologia de Sementes</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Journal of Applied Oral Science</title>
+<processDate>20040604</processDate>
+<issn>1678-7757</issn>
+<publisher>Faculdade De Odontologia De Bauru - USP</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Jornal Brasileiro de Pneumologia</title>
+<processDate>20040503</processDate>
+<issn>1806-3713</issn>
+<publisher>Sociedade Brasileira de Pneumologia e Tisiologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Planta Daninha</title>
+<processDate>20040420</processDate>
+<issn>0100-8358</issn>
+<publisher>Sociedade Brasileira da Ciência das Plantas Daninhas </publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Journal of the Brazilian Society of Mechanical Sciences and Engineering</title>
+<processDate>20040318</processDate>
+<issn>1678-5878</issn>
+<publisher>The Brazilian Society of Mechanical Sciences and Engineering</publisher>
+<subject>Engineering</subject>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Estudos Avançados</title>
+<processDate>20040205</processDate>
+<issn>0103-4014</issn>
+<publisher>Instituto de Estudos Avançados da Universidade de São Paulo</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Horizontes Antropológicos</title>
+<processDate>20040128</processDate>
+<issn>0104-7183</issn>
+<publisher>Programa de Pós-Graduação em Antropologia Social - IFCH-UFRGS</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Psicologia em Estudo</title>
+<processDate>20040108</processDate>
+<issn>1413-7372</issn>
+<publisher>Departamento de Psicologia - Universidade Estadual de Maringá</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Psiquiatria Clínica</title>
+<processDate>20040108</processDate>
+<issn>0101-6083</issn>
+<publisher>Faculdade de Medicina da Universidade de São Paulo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Psiquiatria do Rio Grande do Sul</title>
+<processDate>20040108</processDate>
+<issn>0101-8108</issn>
+<publisher>Sociedade de Psiquiatria do Rio Grande do Sul</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Journal of Venomous Animals and Toxins including Tropical Diseases</title>
+<processDate>20031203</processDate>
+<issn>1678-9199</issn>
+<publisher>Centro de Estudos de Venenos e Animais Peçonhentos - CEVAP, Universidade Estadual Paulista - UNESP</publisher>
+<subject>Agricultural Sciences</subject>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ambiente &amp; sociedade</title>
+<processDate>20030930</processDate>
+<issn>1414-753X</issn>
+<publisher>ANPPAS - UNICAMP</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>International braz j urol</title>
+<processDate>20030905</processDate>
+<issn>1677-5538</issn>
+<publisher>Sociedade Brasileira de Urologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Saúde Materno Infantil </title>
+<processDate>20030903</processDate>
+<issn>1519-3829</issn>
+<publisher>Instituto Materno Infantil de Pernambuco</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Psicologia &amp; Sociedade</title>
+<processDate>20030805</processDate>
+<issn>0102-7182</issn>
+<publisher>Associação Brasileira de Psicologia Social</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Ciência do Solo</title>
+<processDate>20030805</processDate>
+<issn>0100-0683</issn>
+<publisher>Sociedade Brasileira de Ciência do Solo</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Entomologia</title>
+<processDate>20030801</processDate>
+<issn>0085-5626</issn>
+<publisher>Sociedade Brasileira De Entomologia</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Zoologia</title>
+<processDate>20030805</processDate>
+<issn>0101-8175</issn>
+<publisher>Sociedade Brasileira de Zoologia</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Anais Brasileiros de Dermatologia</title>
+<processDate>20030731</processDate>
+<issn>0365-0596</issn>
+<publisher>Sociedade Brasileira de Dermatologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Medicina do Esporte</title>
+<processDate>20030714</processDate>
+<issn>1517-8692</issn>
+<publisher>Redprint</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Economia e Sociologia Rural</title>
+<processDate>20030703</processDate>
+<issn>0103-2003</issn>
+<publisher>Sociedade Brasileira de Economia e Sociologia Rural</publisher>
+<subject>Applied Social Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Sociologias</title>
+<processDate>20030623</processDate>
+<issn>1517-4522</issn>
+<publisher>Programa de Pós-Graduação em Sociologia - UFRGS</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Horticultura Brasileira</title>
+<processDate>20030402</processDate>
+<issn>0102-0536</issn>
+<publisher>Sociedade de Olericultura do Brasil</publisher>
+<subject>Agricultural Sciences</subject>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Anestesiologia</title>
+<processDate>20030331</processDate>
+<issn>0034-7094</issn>
+<publisher>Sociedade Brasileira de Anestesiologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Dental Journal </title>
+<processDate>20030319</processDate>
+<issn>0103-6440</issn>
+<publisher>Dental Foundation of Ribeirão Preto</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Opinião Pública</title>
+<processDate>20030317</processDate>
+<issn>0104-6276</issn>
+<publisher> Centro de Estudos de Opiniao Publica da Universidade Estadual de Campinas</publisher>
+<subject>Applied Social Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cadernos de Pesquisa</title>
+<processDate>20030220</processDate>
+<issn>0100-1574</issn>
+<publisher>Fundação Carlos Chagas</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta Ortopédica Brasileira</title>
+<processDate>20030131</processDate>
+<issn>1413-7852</issn>
+<publisher>Atha Comunicação &amp; Editora</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Papéis Avulsos de Zoologia (São Paulo)</title>
+<processDate>20030108</processDate>
+<issn>0031-1049</issn>
+<publisher>USP</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Gestão &amp; Produção</title>
+<processDate>20021219</processDate>
+<issn>0104-530X</issn>
+<publisher>Universidade Federal de São Carlos</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Árvore</title>
+<processDate>20021209</processDate>
+<issn>0100-6762</issn>
+<publisher>Sociedade de Investigações Florestais</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Journal of Plant Physiology</title>
+<processDate>20021023</processDate>
+<issn>1677-0420</issn>
+<publisher>Sociedade Brasileira de Fisiologia Vegetal</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Sba: Controle &amp; Automação Sociedade Brasileira de Automatica</title>
+<processDate>20021025</processDate>
+<issn>0103-1759</issn>
+<publisher>Sociedade Brasileira de Automática</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Jornal Brasileiro de Patologia e Medicina Laboratorial</title>
+<processDate>20020715</processDate>
+<issn>1676-2444</issn>
+<publisher>Sociedade Brasileira de Patologia Clínica</publisher>
+<publisher>Sociedade Brasileira de Patologia</publisher>
+<publisher>Sociedade Brasileira de Citopatologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Jornal de Pediatria</title>
+<processDate>20020719</processDate>
+<issn>0021-7557</issn>
+<publisher>Sociedade Brasileira de Pediatria</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Lua Nova: Revista de Cultura e Política</title>
+<processDate>20020719</processDate>
+<issn>0102-6445</issn>
+<publisher>CEDEC</publisher>
+<subject>Applied Social Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Ciência Avícola</title>
+<processDate>20020715</processDate>
+<issn>1516-635X</issn>
+<publisher>Fundação APINCO de Ciência e Tecnologia Avícolas</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Economia</title>
+<processDate>20020719</processDate>
+<issn>0034-7140</issn>
+<publisher>Fundação Getúlio Vargas</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Ensino de Física</title>
+<processDate>20020719</processDate>
+<issn>0102-4744</issn>
+<publisher>Sociedade Brasileira de Física</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Hematologia e Hemoterapia</title>
+<processDate>20020719</processDate>
+<issn>1516-8484</issn>
+<publisher>Sociedade Brasileira de Hematologia e Hemoterapia</publisher>
+<publisher>Sociedade Brasileira de Transplante de Medula Óssea</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Arquivos Brasileiros de Oftalmologia</title>
+<processDate>20020702</processDate>
+<issn>0004-2749</issn>
+<publisher>Conselho Brasileiro de Oftalmologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Iheringia. Série Zoologia</title>
+<processDate>20020624</processDate>
+<issn>0073-4721</issn>
+<publisher>Fundação Zoobotânica do Rio Grande do Sul</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Rem: Revista Escola de Minas</title>
+<processDate>20020624</processDate>
+<issn>0370-4467</issn>
+<publisher>Escola de Minas</publisher>
+<subject>Engineering</subject>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Fisiologia Vegetal</title>
+<processDate>20020627</processDate>
+<issn>0103-3131</issn>
+<publisher>Sociedade Brasileira de Fisiologia Vegetal</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Ginecologia e Obstetrícia</title>
+<processDate>20020612</processDate>
+<issn>0100-7203</issn>
+<publisher>Federação Brasileira das Sociedades de Ginecologia e Obstetrícia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Otorrinolaringologia</title>
+<processDate>20020510</processDate>
+<issn>0034-7299</issn>
+<publisher>Sociedade Brasileira de Otorrinolaringologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Neotropical Entomology</title>
+<processDate>20020506</processDate>
+<issn>1519-566X</issn>
+<publisher>Sociedade Entomológica do Brasil</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Jornal de Pneumologia</title>
+<processDate>20020429</processDate>
+<issn>0102-3586</issn>
+<publisher>Sociedade Brasileira de Pneumologia e Tisiologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ciência Rural</title>
+<processDate>20020425</processDate>
+<issn>0103-8478</issn>
+<publisher>Universidade Federal de Santa Maria</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>São Paulo em Perspectiva</title>
+<processDate>20020423</processDate>
+<issn>0102-8839</issn>
+<publisher>Fundação SEADE</publisher>
+<subject>Applied Social Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Pesquisa Operacional</title>
+<processDate>20020409</processDate>
+<issn>0101-7438</issn>
+<publisher>Sociedade Brasileira de Pesquisa Operacional</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Fruticultura</title>
+<processDate>20020409</processDate>
+<issn>0100-2945</issn>
+<publisher>Sociedade Brasileira de Fruticultura</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Estudos Feministas</title>
+<processDate>20020408</processDate>
+<issn>0104-026X</issn>
+<publisher>Centro de Filosofia e Ciências Humanas e Centro de Comunicação e Expressão da Universidade Federal de Santa Catarina</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Radiologia Brasileira</title>
+<processDate>20020214</processDate>
+<issn>0100-3984</issn>
+<publisher>Colégio Brasileiro de Radiologia e Diagnóstico por Imagem</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Latino-Americana de Enfermagem</title>
+<processDate>20020214</processDate>
+<issn>0104-1169</issn>
+<publisher>Escola de Enfermagem de Ribeirão Preto / Universidade de São Paulo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Nutrição</title>
+<processDate>20020207</processDate>
+<issn>1415-5273</issn>
+<publisher>Pontifícia Universidade Católica de Campinas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Sociologia e Política</title>
+<processDate>20020208</processDate>
+<issn>0104-4478</issn>
+<publisher>Universidade Federal do Paraná</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ciência &amp; Saúde Coletiva</title>
+<processDate>20020111</processDate>
+<issn>1413-8123</issn>
+<publisher>Associação Brasileira de Pós-Graduação em Saúde Coletiva</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Estudos Afro-Asiáticos</title>
+<processDate>20020114</processDate>
+<issn>0101-546X</issn>
+<publisher>Universidade Cândido Mendes</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Arquivos de Gastroenterologia</title>
+<processDate>20011120</processDate>
+<issn>0004-2803</issn>
+<publisher>Instituto Brasileiro de Estudos e Pesquisas de Gastroenterologia - IBEPEGE </publisher>
+<publisher>Colégio Brasileiro de Cirurgia Digestiva - CBCD </publisher>
+<publisher>Sociedade Brasileira de Motilidade Digestiva - SBMD </publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Educação e Pesquisa</title>
+<processDate>20011105</processDate>
+<issn>1517-9702</issn>
+<publisher>Faculdade de Educação da Universidade de São Paulo</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Journal of Biology</title>
+<processDate>20011024</processDate>
+<issn>1519-6984</issn>
+<publisher>Instituto Internacional de Ecologia</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Archives of Biology and Technology</title>
+<processDate>20010913</processDate>
+<issn>1516-8913</issn>
+<publisher>Tecpar</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Fitopatologia Brasileira</title>
+<processDate>20010824</processDate>
+<issn>0100-4158</issn>
+<publisher>Sociedade Brasileira de Fitopatologia</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Zootecnia</title>
+<processDate>20010817</processDate>
+<issn>1516-3598</issn>
+<publisher>Sociedade Brasileira de Zootecnia</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta Botanica Brasilica</title>
+<processDate>20010803</processDate>
+<issn>0102-3306</issn>
+<publisher>Sociedade Botânica do Brasil</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Journal of Infectious Diseases</title>
+<processDate>20010730</processDate>
+<issn>1413-8670</issn>
+<publisher>Brazilian Society of Infectious Diseases</publisher>
+<subject>Biological Sciences</subject>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Arquivos Brasileiros de Endocrinologia &amp; Metabologia</title>
+<processDate>20010625</processDate>
+<issn>0004-2730</issn>
+<publisher>Sociedade Brasileira de Endocrinologia e Metabologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Psicologia: Teoria e Pesquisa</title>
+<processDate>20010510</processDate>
+<issn>0102-3772</issn>
+<publisher>Instituto de Psicologia, Universidade de Brasília</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Estudos de Psicologia (Natal)</title>
+<processDate>20010330</processDate>
+<issn>1413-294X</issn>
+<publisher>EDUFRN</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Pesquisa Agropecuária Brasileira</title>
+<processDate>20010213</processDate>
+<issn>0100-204X</issn>
+<publisher>Embrapa Informação Tecnológica</publisher>
+<publisher>Pesquisa Agropecuária Brasileira</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Journal of the Brazilian Society of Mechanical Sciences</title>
+<processDate>20001204</processDate>
+<issn>0100-7386</issn>
+<publisher>The Brazilian Society of Mechanical Sciences</publisher>
+<subject>Engineering</subject>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Polímeros</title>
+<processDate>20001026</processDate>
+<issn>0104-1428</issn>
+<publisher>Associação Brasileira de Polímeros</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Journal of Microbiology</title>
+<processDate>20000811</processDate>
+<issn>1517-8382</issn>
+<publisher>Sociedade Brasileira de Microbiologia</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Pesquisa Odontológica Brasileira</title>
+<processDate>20000811</processDate>
+<issn>1517-7491</issn>
+<publisher>Sociedade Brasileira de Pesquisa Odontológica e Faculdade de Odontologia da Universidade de São Paulo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Biologia</title>
+<processDate>20000811</processDate>
+<issn>0034-7108</issn>
+<publisher>Instituto Internacional de Ecologia</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Journal of Veterinary Research and Animal Science</title>
+<processDate>20000804</processDate>
+<issn>1413-9596</issn>
+<publisher>Faculdade de Medicina Veterinária e Zootecnia / Universidade de São Paulo</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Anais da Academia Brasileira de Ciências</title>
+<processDate>20000721</processDate>
+<issn>0001-3765</issn>
+<publisher>Academia Brasileira de Ciências</publisher>
+<subject>Agricultural Sciences</subject>
+<subject>Biological Sciences</subject>
+<subject>Engineering</subject>
+<subject>Exact and Earth Sciences</subject>
+<subject>Health Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>História, Ciências, Saúde-Manguinhos</title>
+<processDate>20000627</processDate>
+<issn>0104-5970</issn>
+<publisher>Casa de Oswaldo Cruz, Fundação Oswaldo Cruz</publisher>
+<subject>Health Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Arquivo Brasileiro de Medicina Veterinária e Zootecnia</title>
+<processDate>20000609</processDate>
+<issn>0102-0935</issn>
+<publisher>Universidade Federal de Minas Gerais, Escola de Veterinária</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Mana</title>
+<processDate>20000526</processDate>
+<issn>0104-9313</issn>
+<publisher>Programa de Pós-Graduação em Antropologia Social - PPGAS-Museu Nacional, da Universidade Federal do Rio de Janeiro - UFRJ</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Eclética Química</title>
+<processDate>20000414</processDate>
+<issn>0100-4670</issn>
+<publisher>Fundação Editora da Universidade Estadual Paulista Júlio de Mesquita Filho - UNESP</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista da Associação Médica Brasileira</title>
+<processDate>20000407</processDate>
+<issn>0104-4230</issn>
+<publisher>Associação Médica Brasileira</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Arquivos Brasileiros de Cardiologia</title>
+<processDate>20000321</processDate>
+<issn>0066-782X</issn>
+<publisher>Sociedade Brasileira de Cardiologia - SBC</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Arquivos de Neuro-Psiquiatria</title>
+<processDate>20000321</processDate>
+<issn>0004-282X</issn>
+<publisher>Academia Brasileira de Neurologia - ABNEURO</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Psiquiatria</title>
+<processDate>20000315</processDate>
+<issn>1516-4446</issn>
+<publisher>Associação Brasileira de Psiquiatria - ABP</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista do Hospital das Clínicas</title>
+<processDate>20000317</processDate>
+<issn>0041-8781</issn>
+<publisher>Faculdade de Medicina / Universidade de São Paulo - FM/USP</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Antropologia</title>
+<processDate>20000213</processDate>
+<issn>0034-7701</issn>
+<publisher>Departamento de Antropologia, Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo - FFLCH/USP</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Química Nova</title>
+<processDate>20000126</processDate>
+<issn>0100-4042</issn>
+<publisher>Sociedade Brasileira de Química</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Materials Research</title>
+<processDate>20000117</processDate>
+<issn>1516-1439</issn>
+<publisher>ABM, ABC, ABPol, SBCC, SBCr, SBMM, SBPMat</publisher>
+<subject>Engineering</subject>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Geofísica</title>
+<processDate>19991216</processDate>
+<issn>0102-261X</issn>
+<publisher>Sociedade Brasileira de Geofísica</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cerâmica</title>
+<processDate>19990901</processDate>
+<issn>0366-6913</issn>
+<publisher>Associação Brasileira de Cerâmica</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista da Sociedade Brasileira de Medicina Tropical</title>
+<processDate>19990901</processDate>
+<issn>0037-8682</issn>
+<publisher>Sociedade Brasileira de Medicina Tropical - SBMT</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Sao Paulo Medical Journal</title>
+<processDate>19990901</processDate>
+<issn>1516-3180</issn>
+<publisher>Associação Paulista de Medicina - APM</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cadernos de Saúde Pública</title>
+<processDate>19990702</processDate>
+<issn>0102-311X</issn>
+<publisher>Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Psicologia: Reflexão e Crítica</title>
+<processDate>19990622</processDate>
+<issn>0102-7972</issn>
+<publisher>Curso de Pós-Graduação em Psicologia da Universidade Federal do Rio Grande do Sul</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cadernos CEDES</title>
+<processDate>19990419</processDate>
+<issn>0101-3262</issn>
+<publisher>Centro de Estudos Educação e Sociedade</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Educação &amp; Sociedade</title>
+<processDate>19990414</processDate>
+<issn>0101-7330</issn>
+<publisher>Centro de Estudos Educação e Sociedade - Cedes</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Microbiologia</title>
+<processDate>19990128</processDate>
+<issn>0001-3714</issn>
+<publisher>Sociedade Brasileira de Microbiologia</publisher>
+<subject>Agricultural Sciences</subject>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista da Faculdade de Educação</title>
+<processDate>19990115</processDate>
+<issn>0102-2555</issn>
+<publisher>Faculdade de Educação da Universidade de São Paulo</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Genetics and Molecular Biology</title>
+<processDate>19981216</processDate>
+<issn>1415-4757</issn>
+<publisher>Sociedade Brasileira de Genética</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Bragantia</title>
+<processDate>19981207</processDate>
+<issn>0006-8705</issn>
+<publisher>Instituto Agronômico de Campinas</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Botânica</title>
+<processDate>19981207</processDate>
+<issn>0100-8404</issn>
+<publisher>Sociedade Botânica de São Paulo</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Journal of Venomous Animals and Toxins</title>
+<processDate>19981126</processDate>
+<issn>0104-7930</issn>
+<publisher>Centro de Estudos de Venenos e Animais Peçonhentos - CEVAP, Universidade Estadual Paulista - UNESP</publisher>
+<subject>Agricultural Sciences</subject>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ciência e Tecnologia de Alimentos</title>
+<processDate>19981016</processDate>
+<issn>0101-2061</issn>
+<publisher>Sociedade Brasileira de Ciência e Tecnologia de Alimentos</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>DELTA: Documentação de Estudos em Lingüística Teórica e Aplicada</title>
+<processDate>19981016</processDate>
+<issn>0102-4450</issn>
+<publisher>Pontifícia Universidade Católica de São Paulo - PUC-SP</publisher>
+<subject>Linguistics, Letters and Arts</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Pesquisa Veterinária Brasileira</title>
+<processDate>19981016</processDate>
+<issn>0100-736X</issn>
+<publisher>Colégio Brasileiro de Patologia Animal - CBPA</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Psicologia USP</title>
+<processDate>19981016</processDate>
+<issn>0103-6564</issn>
+<publisher>Instituto de Psicologia da Universidade de São Paulo</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Cirurgia Cardiovascular</title>
+<processDate>19981016</processDate>
+<issn>0102-7638</issn>
+<publisher>Sociedade Brasileira de Cirurgia Cardiovascular</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Ciências Sociais</title>
+<processDate>19981016</processDate>
+<issn>0102-6909</issn>
+<publisher>Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais - ANPOCS</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de História</title>
+<processDate>19981016</processDate>
+<issn>0102-0188</issn>
+<publisher>Associação Nacional de História - ANPUH</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Scientia Agricola</title>
+<processDate>19981016</processDate>
+<issn>0103-9016</issn>
+<publisher>Escola Superior de Agricultura &quot;Luiz de Queiroz&quot;, USP</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Odontologia da Universidade de São Paulo</title>
+<processDate>19980504</processDate>
+<issn>0103-0663</issn>
+<publisher>Universidade de São Paulo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta Cirurgica Brasileira</title>
+<processDate>19980428</processDate>
+<issn>0102-8650</issn>
+<publisher>Sociedade Brasileira  para o Desenvolvimento da Pesquisa em Cirurgia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ciência da Informação</title>
+<processDate>19980430</processDate>
+<issn>0100-1965</issn>
+<publisher>IBICT</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Saúde Pública</title>
+<processDate>19980430</processDate>
+<issn>0034-8910</issn>
+<publisher>Faculdade de Saúde Pública da Universidade de São Paulo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Journal of Chemical Engineering</title>
+<processDate>19970425</processDate>
+<issn>0104-6632</issn>
+<publisher>Brazilian Society of Chemical Engineering</publisher>
+<subject>Engineering</subject>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Journal of Genetics</title>
+<processDate>19970424</processDate>
+<issn>0100-8455</issn>
+<publisher>Sociedade Brasileira de Genética</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Journal of Medical and Biological Research</title>
+<processDate>19970424</processDate>
+<issn>0100-879X</issn>
+<publisher>Associação Brasileira de Divulgação Científica</publisher>
+<subject>Biological Sciences</subject>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Brazilian Journal of Physics</title>
+<processDate>19970425</processDate>
+<issn>0103-9733</issn>
+<publisher>Sociedade Brasileira de Física</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Dados</title>
+<processDate>19970425</processDate>
+<issn>0011-5258</issn>
+<publisher>IUPERJ - Instituto Universitário de Pesquisas do Rio de Janeiro</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Journal of the Brazilian Chemical Society</title>
+<processDate>19970425</processDate>
+<issn>0103-5053</issn>
+<publisher>Sociedade Brasileira de Química</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Journal of the Brazilian Computer Society</title>
+<processDate>19970425</processDate>
+<issn>0104-6500</issn>
+<publisher>Sociedade Brasileira de Computação</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Memórias do Instituto Oswaldo Cruz</title>
+<processDate>19970424</processDate>
+<issn>0074-0276</issn>
+<publisher>Instituto Oswaldo Cruz, Ministério da Saúde</publisher>
+<subject>Biological Sciences</subject>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista do Instituto de Medicina Tropical de São Paulo</title>
+<processDate>19970424</processDate>
+<issn>0036-4665</issn>
+<publisher>Instituto de Medicina Tropical</publisher>
+<subject>Biological Sciences</subject>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><list mfn="1">
+   <server>
+      <occ date="20070919" time="131957"></occ>
+   </server>
+   <database>
+      <occ>/home/scielo/www/bases/title/title</occ>
+   </database>
+   <from/>
+   <to/>
+   <count/>
+   <reverse/>
+   <Isis_Current>
+      <occ>183</occ>
+   </Isis_Current>
+   <Isis_Total>
+      <occ>183</occ>
+   </Isis_Total>
+   <previous/>
+   <next/>
+</list>
+</wxis-modules></collection></SciELOWebService>

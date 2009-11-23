@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<collection id="31" lang="pt" available="">
+  <item id="2" available="yes" href="http://diretorios.bvs.br/xml2html/xmlListT.php?xml[]=http://diretorios.bvs.br/cgi-bin/wxis.exe/?IsisScript=direve/main.xis|lang=pt&amp;xsl=http://diretorios.bvs.br/direve/xsl/direve-main.xsl&amp;lang=pt&amp;xml[]=GET">Diretório de eventos                                                                                                                                                                                                                                                                                                                                                                            <description>                                        </description>
+    <portal>                                                               </portal>
+    <meta-search base-search-url="http://diretorios.bvs.br/webservices/?service=search&amp;count=1" search-parameters="expression=" base-browse-url="http://diretorios.bvs.br/webservices/?service=search&amp;output=html&amp;lang=pt"/>
+  </item>
+  <item id="8" available="yes" href="http://centros.bvsalud.org/">Diretório da rede BVS                                                                                           <description>Diretório de instituições cooperantes da Améria Látina e Caribe.                       </description>
+    <portal>                                     </portal>
+    <meta-search base-search-url="http://centros.bvsalud.org/webservices/?service=search&amp;count=1" search-parameters="expression=" base-browse-url="http://centros.bvsalud.org/webservices/?service=search&amp;output=html"/>
+  </item>
+  <item id="4" available="yes" href="http://lis.bvs.br/xml2html/xmlListT.php?xml%5B%5D=http://lis.bvs.br/lis-Regional/P/define.xml&amp;xsl=http://lis.bvs.br/lis-Regional/home.xsl">LIS- Catálogo de sites em saúde                                                                                                                                                                                                                                                                                                                                              <description>Catálogo de fontes de informação em saúde disponíveis na Internet e selecionadas segundo critérios de qualidade. Descreve o conteúdo destas fontes e oferece links para as mesmas na Internet.                                 </description>
+    <portal>                                                              </portal>
+    <meta-search base-search-url="http://lis.bvs.br/webservices/index.php?service=search&amp;count=1" search-parameters="expression=" base-browse-url="http://lis.bvs.br/webservices/index.php?service=search&amp;output=html"/>
+  </item>
+  <item id="5" available="yes" href="http://decs.bvs.br/">DeCS- Terminologia em Saúde                                                                                                                                                                                                                                                                                              <description>DeCS é um vocabulário controlado da áera de Ciências da Saúde, desenvolvido a partir do MeSH (Medical Subject Headings da U.S. National Library of Medicine) com o objetivo de permitir o uso de terminologia comum para pesquisa nos idiomas inglês, portugês e espanhol, proporcionando um meio consistente e único para a recuperação da informação independentemente do idioma.                                            </description>
+    <portal>                                                   </portal>
+    <meta-search/>
+  </item>
+  <item id="3" available="yes" href="http://ccs.bvsalud.org/html/pt/home.html">Comunicação científica em saúde                                                                                                                                                                                                                                                                                              <description>Fontes de informação dirigidas aos editores científicos e gestores de ciência e tecnologia em saúde, com o objetivo de contribuir para a construção e operação de indicadores de acompanhamento do fluxo da comunicação científica na América Latina e Caribe.                                       </description>
+    <portal>                                                      </portal>
+    <meta-search/>
+  </item>
+</collection>

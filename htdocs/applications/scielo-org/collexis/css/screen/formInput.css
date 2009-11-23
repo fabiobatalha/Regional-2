@@ -1,0 +1,25 @@
+INPUT, TEXTAREA, SELECT {
+	font-family: Arial, Verdana;
+	font-size: 9pt;
+}
+
+TEXTAREA.search {
+    border : 1px solid #595959;
+    background-color: #ffffff; 	
+	float: left;
+	margin-bottom: 0px;
+	width: 85%;
+}
+
+INPUT.concept {
+    border : 1px solid #cccccc;
+    background-color: #ecfafb; 	
+	margin-left: 0px;
+	font-size: 9pt;
+}
+
+
+INPUT.set {
+	font-size: 8pt;
+}
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lastIssues>
+   <collection uri="http://www.scielo.br">
+      <name>Brasil</name>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Biological Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Agricultural Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Agricultural Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Biological Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Agricultural Sciences</subject>
+      <subject>Human Sciences</subject>
+      <subject>Biological Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Biological Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Human Sciences</subject>
+      <subject>Applied Social Sciences</subject>
+      <subject>Human Sciences</subject>
+      <lastDate>20090901</lastDate>
+      <processingDate>20090917</processingDate>
+      <total>21</total>
+   </collection>
+   <collection uri="http://www.scielosp.org">
+      <name>Saude Publica</name>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <lastDate>20090908</lastDate>
+      <processingDate>20090917</processingDate>
+      <total>5</total>
+   </collection>
+</lastIssues>

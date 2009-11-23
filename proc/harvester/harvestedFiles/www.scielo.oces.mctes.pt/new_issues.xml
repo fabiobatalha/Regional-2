@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Portugal" uri="http://www.scielo.oces.mctes.pt" flagName="PT" homologado="true">
+<wxis-modules IsisScript="listNewIssues.xis" version="0.1">
+<record>
+<subject>Health Sciences</subject><subject>Human Sciences</subject>
+<publisher>Faculdade de Ciências do Desporto e de Educação Física da Universidade do Porto</publisher>
+<title>Revista Portuguesa de Ciências do Desporto</title>
+<issn>1645-0523</issn>
+<volume>6</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070731</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>INETI - Instituto Nacional de Engenharia, Tecnologia e Inovação, I.P</publisher>
+<title>Corrosão e Protecção de Materiais</title>
+<issn>0870-1164</issn>
+<volume>26</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070713</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Centro de Estudos de Antropologia Social (CEAS)</publisher>
+<title>Etnográfica</title>
+<issn>0873-6561</issn>
+<volume>11</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070627</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Pneumologia</publisher>
+<title>Revista Portuguesa de Pneumologia</title>
+<issn>0873-2159</issn>
+<volume>13</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070625</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Gastrenterologia</publisher>
+<title>Jornal Português de Gastrenterologia </title>
+<issn>0872-8178</issn>
+<volume>14</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070511</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Pneumologia</publisher>
+<title>Revista Portuguesa de Pneumologia</title>
+<issn>0873-2159</issn>
+<volume>13</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070510</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Estação Vitivinícola Nacional</publisher><publisher>Instituto Nacional de Investigação Agrária e das Pescas</publisher>
+<title>Ciência e Técnica Vitivinícola</title>
+<issn>0254-0223</issn>
+<volume>21</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070509</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto de Ciências Sociais da Universidade de Lisboa</publisher>
+<title>Análise Social</title>
+<issn>0003-2573</issn>
+<volume>21</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070507</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Celta Editora</publisher>
+<title>Sociologia, Problemas e Práticas</title>
+<issn>0873-6529</issn>
+<volume>21</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070504</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Centro de Investigação em Educação. Instituto de Educação e Psicologia da Universidade do Minho</publisher>
+<title>Revista Portuguesa de Educação</title>
+<issn>0871-9187</issn>
+<volume>19</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070503</updateDate>
+</record>
+<record>
+<subject>Chemistry</subject>
+<publisher>Sociedade Portuguesa de Electroquímica</publisher>
+<title>Portugaliae Electrochimica Acta</title>
+<issn>0872-1904</issn>
+<volume>24</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070503</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Pneumologia</publisher>
+<title>Revista Portuguesa de Pneumologia</title>
+<issn>0873-2159</issn>
+<volume>12</volume>
+<numero>6</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070427</updateDate>
+</record>
+<record>
+<subject>Mathematics</subject>
+<publisher>APDIO - Associação Portuguesa de Investigação Operacional</publisher>
+<title>Investigação Operacional</title>
+<issn>0874-5161</issn>
+<volume>26</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070419</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject><subject>Human Sciences</subject>
+<publisher>Faculdade de Ciências do Desporto e de Educação Física da Universidade do Porto</publisher>
+<title>Revista Portuguesa de Ciências do Desporto</title>
+<issn>1645-0523</issn>
+<volume>6</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070417</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Sociedade Portuguesa de Materiais</publisher>
+<title>Ciência &amp; Tecnologia dos Materiais</title>
+<issn>0870-8312</issn>
+<volume>18</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070412</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Sociedade Portuguesa de Materiais</publisher>
+<title>Ciência &amp; Tecnologia dos Materiais</title>
+<issn>0870-8312</issn>
+<volume>18</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070412</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto Superior de Psicologia Aplicada</publisher>
+<title>Análise Psicológica</title>
+<issn>0870-8231</issn>
+<volume>24</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070409</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>INETI - Instituto Nacional de Engenharia, Tecnologia e Inovação, I.P</publisher>
+<title>Corrosão e Protecção de Materiais</title>
+<issn>0870-1164</issn>
+<volume>25</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070404</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Gastrenterologia</publisher>
+<title>Jornal Português de Gastrenterologia </title>
+<issn>0872-8178</issn>
+<volume>13</volume>
+<numero>6</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070403</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Estação Florestal Nacional</publisher>
+<title>Silva Lusitana</title>
+<issn>0870-6352</issn>
+<volume>14</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070402</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto Politécnico do  Cávado e do Ave</publisher>
+<title>Tékhne - Revista de Estudos Politécnicos</title>
+<issn>1654-9911</issn>
+<volume>3</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070326</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Celta Editora</publisher>
+<title>Sociologia, Problemas e Práticas</title>
+<issn>0873-6529</issn>
+<volume>3</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070309</updateDate>
+</record>
+<record>
+<subject>Chemistry</subject>
+<publisher>Sociedade Portuguesa de Electroquímica</publisher>
+<title>Portugaliae Electrochimica Acta</title>
+<issn>0872-1904</issn>
+<volume>21</volume>
+<numero>1</numero>
+<pubYear>2003</pubYear>
+<updateDate>20070125</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>INETI - Instituto Nacional de Engenharia, Tecnologia e Inovação, I.P</publisher>
+<title>Corrosão e Protecção de Materiais</title>
+<issn>0870-1164</issn>
+<volume>25</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070109</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Celta Editora</publisher>
+<title>Sociologia, Problemas e Práticas</title>
+<issn>0873-6529</issn>
+<volume>25</volume>
+<numero>1</numero>
+<pubYear>2002</pubYear>
+<updateDate>20061227</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Gastrenterologia</publisher>
+<title>Jornal Português de Gastrenterologia </title>
+<issn>0872-8178</issn>
+<volume>13</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061221</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Estação Vitivinícola Nacional</publisher><publisher>Instituto Nacional de Investigação Agrária e das Pescas</publisher>
+<title>Ciência e Técnica Vitivinícola</title>
+<issn>0254-0223</issn>
+<volume>21</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061218</updateDate>
+</record>
+<record>
+<subject>Chemistry</subject>
+<publisher>Sociedade Portuguesa de Electroquímica</publisher>
+<title>Portugaliae Electrochimica Acta</title>
+<issn>0872-1904</issn>
+<volume>24</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061214</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Centro de Estudos de Antropologia Social (CEAS)</publisher>
+<title>Etnográfica</title>
+<issn>0873-6561</issn>
+<volume>10</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061214</updateDate>
+</record>
+<record>
+<subject>Chemistry</subject>
+<publisher>Sociedade Portuguesa de Electroquímica</publisher>
+<title>Portugaliae Electrochimica Acta</title>
+<issn>0872-1904</issn>
+<volume>24</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061211</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Pneumologia</publisher>
+<title>Revista Portuguesa de Pneumologia</title>
+<issn>0873-2159</issn>
+<volume>12</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061204</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto Superior de Psicologia Aplicada</publisher>
+<title>Análise Psicológica</title>
+<issn>0870-8231</issn>
+<volume>24</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061129</updateDate>
+</record>
+<record>
+<subject>Mathematics</subject>
+<publisher>APDIO - Associação Portuguesa de Investigação Operacional</publisher>
+<title>Investigação Operacional</title>
+<issn>0874-5161</issn>
+<volume>25</volume>
+<numero>2</numero>
+<pubYear>2005</pubYear>
+<updateDate>20061129</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Gastrenterologia</publisher>
+<title>Jornal Português de Gastrenterologia </title>
+<issn>0872-8178</issn>
+<volume>13</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061031</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Pneumologia</publisher>
+<title>Revista Portuguesa de Pneumologia</title>
+<issn>0873-2159</issn>
+<volume>12</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061025</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Celta Editora</publisher>
+<title>Sociologia, Problemas e Práticas</title>
+<issn>0873-6529</issn>
+<volume>12</volume>
+<numero>3</numero>
+<pubYear>2002</pubYear>
+<updateDate>20061019</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Celta Editora</publisher>
+<title>Sociologia, Problemas e Práticas</title>
+<issn>0873-6529</issn>
+<volume>12</volume>
+<numero>2</numero>
+<pubYear>2003</pubYear>
+<updateDate>20061019</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Celta Editora</publisher>
+<title>Sociologia, Problemas e Práticas</title>
+<issn>0873-6529</issn>
+<volume>12</volume>
+<numero>3</numero>
+<pubYear>2003</pubYear>
+<updateDate>20061019</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Celta Editora</publisher>
+<title>Sociologia, Problemas e Práticas</title>
+<issn>0873-6529</issn>
+<volume>12</volume>
+<numero>1</numero>
+<pubYear>2004</pubYear>
+<updateDate>20061019</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Celta Editora</publisher>
+<title>Sociologia, Problemas e Práticas</title>
+<issn>0873-6529</issn>
+<volume>12</volume>
+<numero>2</numero>
+<pubYear>2004</pubYear>
+<updateDate>20061019</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Celta Editora</publisher>
+<title>Sociologia, Problemas e Práticas</title>
+<issn>0873-6529</issn>
+<volume>12</volume>
+<numero>3</numero>
+<pubYear>2004</pubYear>
+<updateDate>20061019</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Estação Florestal Nacional</publisher>
+<title>Silva Lusitana</title>
+<issn>0870-6352</issn>
+<volume>10</volume>
+<numero>1</numero>
+<pubYear>2002</pubYear>
+<updateDate>20061018</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Estação Florestal Nacional</publisher>
+<title>Silva Lusitana</title>
+<issn>0870-6352</issn>
+<volume>12</volume>
+<numero>3</numero>
+<pubYear>2004</pubYear>
+<updateDate>20061018</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Gastrenterologia</publisher>
+<title>Jornal Português de Gastrenterologia </title>
+<issn>0872-8178</issn>
+<volume>13</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061017</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Gastrenterologia</publisher>
+<title>Jornal Português de Gastrenterologia </title>
+<issn>0872-8178</issn>
+<volume>13</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061017</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedade Portuguesa de Gastrenterologia</publisher>
+<title>Jornal Português de Gastrenterologia </title>
+<issn>0872-8178</issn>
+<volume>13</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061017</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Estação Florestal Nacional</publisher>
+<title>Silva Lusitana</title>
+<issn>0870-6352</issn>
+<volume>11</volume>
+<numero>2</numero>
+<pubYear>2003</pubYear>
+<updateDate>20061010</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Estação Florestal Nacional</publisher>
+<title>Silva Lusitana</title>
+<issn>0870-6352</issn>
+<volume>12</volume>
+<numero>1</numero>
+<pubYear>2004</pubYear>
+<updateDate>20061010</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Estação Florestal Nacional</publisher>
+<title>Silva Lusitana</title>
+<issn>0870-6352</issn>
+<volume>12</volume>
+<numero>2</numero>
+<pubYear>2004</pubYear>
+<updateDate>20061010</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Centro de Investigação em Educação. Instituto de Educação e Psicologia da Universidade do Minho</publisher>
+<title>Revista Portuguesa de Educação</title>
+<issn>0871-9187</issn>
+<volume>19</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061010</updateDate>
+</record>
+<index mfn="1">
+   <server>
+      <occ date="20070919" time="165327"></occ>
+   </server>
+   <database>
+      <occ>/home/scielo/www/bases/issue/issue</occ>
+   </database>
+   <from/>
+   <to/>
+   <posttag/>
+   <posting/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+</index>
+</wxis-modules></collection></SciELOWebService>

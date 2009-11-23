@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Colombia" uri="http://www.scielo.org.co" flagName="CO" homologado="true">
+<wxis-modules IsisScript="listNewIssues.xis" version="0.1">
+<record>
+<subject>Health Sciences</subject>
+<publisher>Corporación Editora Médica del Valle</publisher>
+<title>Colombia Médica</title>
+<issn>1657-9534</issn>
+<volume>37</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070917</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Corporación Editora Médica del Valle</publisher>
+<title>Colombia Médica</title>
+<issn>1657-9534</issn>
+<volume>38</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070917</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud</publisher>
+<title>Biomédica</title>
+<issn>0120-4157</issn>
+<volume>26</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070911</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Centro de Publicaciones, Universidad Nacional de Colombia, Sede Medellín</publisher>
+<title>DYNA</title>
+<issn>0012-7353</issn>
+<volume>74</volume>
+<numero>152</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070910</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Escuela Interamericana de Bibliotecología</publisher>
+<title>Revista Interamericana de Bibliotecología</title>
+<issn>0120-0976</issn>
+<volume>29</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070910</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto de Estudios Políticos y Relaciones Internacionales (IEPRI), Universidad Nacional de Colombia</publisher>
+<title>Análisis Político</title>
+<issn>0121-4705</issn>
+<volume>20</volume>
+<numero>60</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070906</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad Icesi</publisher>
+<title>Estudios Gerenciales</title>
+<issn>0123-5923</issn>
+<volume>23</volume>
+<numero>102</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070906</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad Icesi</publisher>
+<title>Estudios Gerenciales</title>
+<issn>0123-5923</issn>
+<volume>23</volume>
+<numero>103</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070906</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Editorial Artes y Letras</publisher>
+<title>Iatreia</title>
+<issn>0121-0793</issn>
+<volume>20</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070905</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad Nacional de Colombia</publisher>
+<title>Cuadernos de Economía</title>
+<issn>0121-4772</issn>
+<volume>22</volume>
+<numero>39</numero>
+<pubYear>2003</pubYear>
+<updateDate>20070905</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Instituto Colombiano del Petróleo (ICP) - ECOPETROL S.A.</publisher>
+<title>CTyF - Ciencia, Tecnología y Futuro</title>
+<issn>0122-5383</issn>
+<volume>3</volume>
+<numero>1</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070904</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Colombiana de Cardiologia. Oficina de Publicaciones</publisher>
+<title>Revista Colombiana de Cardiología</title>
+<issn>0120-5633</issn>
+<volume>14</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070830</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Departamento de Lingüística, Universidad Nacional de Colombia.</publisher>
+<title>Forma y Función</title>
+<issn>0120-338X</issn>
+<volume>14</volume>
+<numero>19</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Asociacion Colombiana de Psiquiatria.</publisher>
+<title>Revista Colombiana de Psiquiatria</title>
+<issn>0034-7450</issn>
+<volume>34</volume>
+<numero>3</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070827</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Universidad Nacional de Colombia, Facultad de Agronomía</publisher>
+<title>Agronomía Colombiana</title>
+<issn>0120-9965</issn>
+<volume>24</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070824</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Facultad de Química Farmacéutica, Universidad de Antioquia</publisher>
+<title>Vitae</title>
+<issn>0121-4004</issn>
+<volume>13</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070823</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Colombiana de Cardiologia. Oficina de Publicaciones</publisher>
+<title>Revista Colombiana de Cardiología</title>
+<issn>0120-5633</issn>
+<volume>14</volume>
+<numero>3</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070822</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Imprenta Universidad de Antioquia</publisher>
+<title>Investigación y Educación en Enfermería</title>
+<issn>0120-5307</issn>
+<volume>25</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070821</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto de Filosofía, Universidad de Antioquia.</publisher>
+<title>Estudios de Filosofía</title>
+<issn>0121-3628</issn>
+<volume>25</volume>
+<numero>35</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070821</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Asociación Colombiana de Reumatología</publisher>
+<title>Revista Colombiana de Reumatología</title>
+<issn>0121-8123</issn>
+<volume>13</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070817</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Facultad de Ciencias Agrarias, Universidad de Antioquia</publisher>
+<title>Revista Colombiana de Ciencias Pecuarias</title>
+<issn>0120-0690</issn>
+<volume>19</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070814</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud</publisher>
+<title>Biomédica</title>
+<issn>0120-4157</issn>
+<volume>27</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070814</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Departamento de Historia, Facultad de Ciencias Sociales, Universidad de los Andes</publisher>
+<title>Historia Crítica</title>
+<issn>0121-1617</issn>
+<volume>27</volume>
+<numero>33</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070814</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Asociacion Colombiana de Psiquiatria.</publisher>
+<title>Revista Colombiana de Psiquiatria</title>
+<issn>0034-7450</issn>
+<volume>34</volume>
+<numero>4</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070813</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Asociacion Colombiana de Psiquiatria.</publisher>
+<title>Revista Colombiana de Psiquiatria</title>
+<issn>0034-7450</issn>
+<volume>35</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070813</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Asociación Colombiana de Reumatología</publisher>
+<title>Revista Colombiana de Reumatología</title>
+<issn>0121-8123</issn>
+<volume>13</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070813</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Facultad de Ciencias Económicas. Universidad Nacional de Colombia.</publisher>
+<title>Innovar</title>
+<issn>0121-5051</issn>
+<volume>17</volume>
+<numero>29</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070808</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Facultad de Ingeniería, Universidad Nacional de Colombia.</publisher>
+<title>Ingeniería e Investigación</title>
+<issn>0120-5609</issn>
+<volume>27</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070802</updateDate>
+</record>
+<record>
+<subject>Mathematics</subject>
+<publisher>Departamento de Estadística - Universidad Nacional de Colombia.</publisher>
+<title>Revista Colombiana de Estadística</title>
+<issn>0120-1751</issn>
+<volume>30</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070730</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>SCARE-Sociedad Colombiana de Anestesiología y Reanimación</publisher>
+<title>Revista Colombiana de Anestesiología</title>
+<issn>0120-3347</issn>
+<volume>33</volume>
+<numero>4</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070725</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Universidad Naciona de colombia</publisher>
+<title>Revista Facultad de Medicina de la Universidad Nacional de Colombia</title>
+<issn>0120-0011</issn>
+<volume>55</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070723</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Facultad de Ciencias Sociales, Universidad de los Andes</publisher>
+<title>Revista de Estudios Sociales</title>
+<issn>0123-885X</issn>
+<volume>55</volume>
+<numero>26</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070723</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Asociacion Colombiana de Medicina Interna</publisher>
+<title>Acta Médica Colombiana</title>
+<issn>0120-2448</issn>
+<volume>32</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070721</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Federación Colombiana de Asociaciones de Obstetricia y Ginecología</publisher>
+<title>Revista Colombiana de Obstetricia y Ginecología</title>
+<issn>0034-7434</issn>
+<volume>58</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070718</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto de Salud Publica, Facultad de Medicina - Universidad Nacional de Colombia</publisher>
+<title>Revista de Salud Pública</title>
+<issn>0124-0064</issn>
+<volume>9</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070717</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Asociacion Colombiana de Psiquiatria.</publisher>
+<title>Revista Colombiana de Psiquiatría</title>
+<issn>0034-7450</issn>
+<volume>35</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070716</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>SCARE-Sociedad Colombiana de Anestesiología y Reanimación</publisher>
+<title>Revista Colombiana de Anestesiología</title>
+<issn>0120-3347</issn>
+<volume>34</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070716</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Asociacion Colombiana de Psiquiatria.</publisher>
+<title>Revista Colombiana de Psiquiatria</title>
+<issn>0034-7450</issn>
+<volume>36</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070713</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Asociacion Colombiana de Psiquiatria.</publisher>
+<title>Revista Colombiana de Psiquiatria</title>
+<issn>0034-7450</issn>
+<volume>35</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070711</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Asociacion Colombiana de Psiquiatria.</publisher>
+<title>Revista Colombiana de Psiquiatria</title>
+<issn>0034-7450</issn>
+<volume>35</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070710</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Universidad Nacional de Colombia, Facultad de Ciencias, Departamento de Biología</publisher>
+<title>Acta Biológica Colombiana</title>
+<issn>0120-548X</issn>
+<volume>11</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070709</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Facultad de Ingeniería, Universidad Nacional de Colombia.</publisher>
+<title>Ingeniería e Investigación</title>
+<issn>0120-5609</issn>
+<volume>26</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070709</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Departamento de Historia, Facultad de Ciencias Sociales, Universidad de los Andes</publisher>
+<title>Historia Crítica</title>
+<issn>0121-1617</issn>
+<volume>26</volume>
+<numero>32</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070709</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Universidad de Córdoba – Facultad de Medicina Veterinaria y Zootecnia.</publisher>
+<title>Revista MVZ Córdoba</title>
+<issn>0122-0268</issn>
+<volume>11</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070709</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Pontificia Universidad Javeriana</publisher>
+<title>Cuadernos de Administración</title>
+<issn>0120-3592</issn>
+<volume>20</volume>
+<numero>33</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070708</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Facultad de Ciencias Agropecuarias - Universidad Nacional de Colombia, Sede Medellín</publisher>
+<title>Revista Facultad Nacional de Agronomía, Medellín</title>
+<issn>0304-2847</issn>
+<volume>59</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070708</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Pontificia Universidad Javeriana</publisher>
+<title>Universitas Psychologica</title>
+<issn>1657-9267</issn>
+<volume>4</volume>
+<numero>1</numero>
+<pubYear>2005</pubYear>
+<updateDate>20070706</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto de Filosofía, Universidad de Antioquia.</publisher>
+<title>Estudios de Filosofía</title>
+<issn>0121-3628</issn>
+<volume>4</volume>
+<numero>33</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070705</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Instituto de Filosofía, Universidad de Antioquia.</publisher>
+<title>Estudios de Filosofía</title>
+<issn>0121-3628</issn>
+<volume>4</volume>
+<numero>34</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070705</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad Icesi</publisher>
+<title>Estudios Gerenciales</title>
+<issn>0123-5923</issn>
+<volume>22</volume>
+<numero>101</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070703</updateDate>
+</record>
+<index mfn="1">
+   <server>
+      <occ date="20070919" time="113317"></occ>
+   </server>
+   <database>
+      <occ>/scielo/web/bases/issue/issue</occ>
+   </database>
+   <from/>
+   <to/>
+   <posttag/>
+   <posting/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+</index>
+</wxis-modules></collection></SciELOWebService>

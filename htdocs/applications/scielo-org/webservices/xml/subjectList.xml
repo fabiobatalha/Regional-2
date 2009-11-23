@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<subjectList>
+   <subject uri="">
+      <name>Agricultural Sciences</name>
+      <total>60</total>
+   </subject>
+   <subject uri="">
+      <name>Applied Social Sciences</name>
+      <total>64</total>
+   </subject>
+   <subject uri="">
+      <name>Biological Sciences</name>
+      <total>68</total>
+   </subject>
+   <subject uri="">
+      <name>Chemistry</name>
+      <total>8</total>
+   </subject>
+   <subject uri="">
+      <name>Engineering</name>
+      <total>39</total>
+   </subject>
+   <subject uri="">
+      <name>Exact and Earth Sciences</name>
+      <total>37</total>
+   </subject>
+   <subject uri="">
+      <name>Geosciences</name>
+      <total>7</total>
+   </subject>
+   <subject uri="">
+      <name>Linguistics, Letters and Arts</name>
+      <total>8</total>
+   </subject>
+   <subject uri="">
+      <name>Health Sciences</name>
+      <total>230</total>
+   </subject>
+   <subject uri="">
+      <name>Human Sciences</name>
+      <total>194</total>
+   </subject>
+   <subject uri="">
+      <name>Mathematics</name>
+      <total>4</total>
+   </subject>
+   <subject uri="">
+      <name>Social Sciences</name>
+      <total>49</total>
+   </subject>
+   <subject uri="">
+      <name>Others</name>
+      <total>5</total>
+   </subject>
+</subjectList>

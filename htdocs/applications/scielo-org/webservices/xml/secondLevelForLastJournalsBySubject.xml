@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<secondLevelForLastJournalsBySubject>
+   <journalList collection="Argentina" total="3">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <order by="Health Sciences" total="0">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1850-1532&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Revista Argentina de Neurocirugía</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-3123&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Revista Pilquen. Sección Ciencias Sociales</journal>
+      </order>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <order by="Human Sciences" total="0">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1852-4508&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Papeles de trabajo - Centro de Estudios Interdisciplinarios en Etnolingüística y Antropología Socio-Cultural</journal>
+      </order>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+      <order by="Social Sciences" total="0">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1852-4508&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Papeles de trabajo - Centro de Estudios Interdisciplinarios en Etnolingüística y Antropología Socio-Cultural</journal>
+      </order>
+   </journalList>
+   <journalList collection="Brasil" total="1">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <order by="Applied Social Sciences" total="0">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1807-7692&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090828">BAR. Brazilian Administration Review</journal>
+      </order>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+   </journalList>
+   <journalList collection="Chile" total="4">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <order by="Applied Social Sciences" total="2">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-8358&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091026">Revista INVI</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-8072&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090930">Revista chilena de derecho privado</journal>
+      </order>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <order by="Health Sciences" total="1">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-7105&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091109">Revista chilena de cardiología</journal>
+      </order>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <order by="Human Sciences" total="1">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-8471&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091105">Byzantion nea hellas</journal>
+      </order>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+   </journalList>
+   <journalList collection="Colombia" total="1">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <order by="Human Sciences" total="0">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=1692-8156&amp;nrm=iso"
+                  status="C"
+                  date="20090828">International Law</journal>
+      </order>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+   </journalList>
+   <journalList collection="Cuba" total="1">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <order by="Agropecuarias Sciences" total="0">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0258-5936&amp;nrm=iso"
+                  status="C"
+                  date="20090424">Cultivos Tropicales</journal>
+      </order>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+   </journalList>
+   <journalList collection="Espanha" total="1">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <order by="Health Sciences" total="1">
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1695-6141&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091105">Enfermería Global</journal>
+      </order>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+   </journalList>
+   <journalList collection="Mexico" total="1">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <order by="Human Sciences" total="0">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0185-2450&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090824">Diánoia</journal>
+      </order>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+   </journalList>
+   <journalList collection="Portugal" total="1">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <order by="Human Sciences" total="0">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0874-5560&amp;nrm=iso"
+                  status="C"
+                  date="20090708">Ex aequo</journal>
+      </order>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+      <order by="Social Sciences" total="0">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0874-5560&amp;nrm=iso"
+                  status="C"
+                  date="20090708">Ex aequo</journal>
+      </order>
+   </journalList>
+   <journalList collection="Venezuela" total="1">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <order by="Biological Sciences" total="0">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-0138&amp;nrm=iso"
+                  status="C"
+                  date="20080514">Salud de los Trabajadores</journal>
+      </order>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <order by="Engineering" total="0">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-0138&amp;nrm=iso"
+                  status="C"
+                  date="20080514">Salud de los Trabajadores</journal>
+      </order>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <order by="Health Sciences" total="0">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-0138&amp;nrm=iso"
+                  status="C"
+                  date="20080514">Salud de los Trabajadores</journal>
+      </order>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+   </journalList>
+   <journalList collection="Saude Publica" total="1">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <order by="Health Sciences" total="0">
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=0864-3466&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070517">Revista Cubana de Salud Pública</journal>
+      </order>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+   </journalList>
+   <journalList collection="Ciências Sociais" total="1">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <order by="Human Sciences" total="0">
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1981-3821&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070521">Brazilian Political Science Review (Online)</journal>
+      </order>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+   </journalList>
+   <journalList collection="West Indian Medical Journal" total="1">
+      <record>
+         <subject/>
+         <processDate>20030106</processDate>
+      </record>
+      <record>
+         <subject/>
+         <processDate>20060912</processDate>
+      </record>
+      <record>
+         <subject>Agricultural Sciences</subject>
+         <processDate>20071019</processDate>
+      </record>
+      <record>
+         <subject>Agropecuarias Sciences</subject>
+         <processDate>20090424</processDate>
+      </record>
+      <record>
+         <subject>Applied Social Sciences</subject>
+         <processDate>20090828</processDate>
+      </record>
+      <record>
+         <subject>Biological Sciences</subject>
+         <processDate>20091002</processDate>
+      </record>
+      <record>
+         <subject>Chemistry</subject>
+         <processDate>20061130</processDate>
+      </record>
+      <record>
+         <subject>Engineering</subject>
+         <processDate>20081104</processDate>
+      </record>
+      <record>
+         <subject>Exact and Earth Sciences</subject>
+         <processDate>20071106</processDate>
+      </record>
+      <record>
+         <subject>Geosciences</subject>
+         <processDate>20070627</processDate>
+      </record>
+      <record>
+         <subject>Health Sciences</subject>
+         <processDate>20081009</processDate>
+      </record>
+      <order by="Health Sciences" total="0">
+         <journal uri="http://caribbean.scielo.org/scielo.php?script=sci_serial&amp;pid=0043-3144&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061030">West Indian Medical Journal</journal>
+      </order>
+      <record>
+         <subject>Human Sciences</subject>
+         <processDate>20081219</processDate>
+      </record>
+      <record>
+         <subject>Linguistics, Letters and Arts</subject>
+         <processDate>20090327</processDate>
+      </record>
+      <record>
+         <subject>Mathematics</subject>
+         <processDate>20070621</processDate>
+      </record>
+      <record>
+         <subject>Social Sciences</subject>
+         <processDate>20071018</processDate>
+      </record>
+   </journalList>
+</secondLevelForLastJournalsBySubject>

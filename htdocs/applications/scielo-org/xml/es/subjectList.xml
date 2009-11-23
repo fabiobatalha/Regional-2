@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<subjectList>
+	<subject>
+		<name>Exact and Earth Sciences</name>
+		<translate>Ciencias exactas y de la tierra</translate>
+	</subject>
+	<subject>
+		<name>Biological Sciences</name>
+		<translate>Ciencias biológicas</translate>
+	</subject>
+	<subject>
+		<name>Engineering</name>
+		<translate>Ingeniería</translate>
+	</subject>
+	<subject>
+		<name>Health Sciences</name>
+		<translate>Ciencias de la Salud</translate>
+	</subject>
+	<subject>
+		<name>Agricultural Sciences</name>
+		<translate>Ciencias Agrárias</translate>
+	</subject>
+	<subject>
+		<name>Applied Social Sciences</name>
+		<translate>Ciencias Sociales Aplicadas</translate>
+	</subject>
+	<subject>
+		<name>Human Sciences</name>
+		<translate>Ciencias Humanas</translate>
+	</subject>
+	<subject>
+		<name>Linguistics, Letters and Arts</name>
+		<translate>Linguística, Letras y Artes</translate>
+	</subject>
+	<subject>
+		<name>Architecture</name>
+		<translate>Arquitetura</translate>
+	</subject>
+	<subject>
+		<name>Chemistry</name>
+		<translate>Química</translate>
+	</subject> 
+	<subject>
+		<name>Ciencias Jurídicas</name>
+		<translate>Ciencias Jurídicas</translate>
+	</subject> 
+	<subject>
+		<name>Earth Sciences</name>
+		<translate>Ciências da Terra</translate>
+	</subject> 
+	<subject>
+		<name>Geosciences</name>
+		<translate>Geo Ciencias</translate>
+	</subject> 
+	<subject>
+		<name>Mathematics</name>
+		<translate>Matematica</translate>
+	</subject> 
+	<subject>
+		<name>Oceanography</name>
+		<translate>Oceoanografia</translate>
+	</subject> 
+	<subject>
+		<name>Social Sciences</name>
+		<translate>Ciencias Sociales</translate>
+	</subject> 
+	<subject>
+		<name>Others</name>
+		<translate>Otros</translate>
+	</subject>
+</subjectList>

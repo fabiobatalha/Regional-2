@@ -1,0 +1,54 @@
+'Content-type: text/html'/#
+'
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>iAH Search interface ',v5000^v,
+		select s(mpu,v5001^s,mpl)			
+		    case 'SEARCH' 	: ' - Results of the search &lt;page  ',v6205^c[1],'&gt;'
+			case 'INDEX' 	: ' - Index 'v6100^i,			
+			case 'CONFIG'	: ' - Configuration',
+			case 'LIST'		: ' - List',
+			case 'SCAD'		: ' - Photocopy request',			 
+		endsel
+'
+	</title>
+<link rel="STYLESHEET" type="text/css" href="/applications/scielo-org/css/public/common/scielo.css">
+</head>
+<body bgcolor="'v5006^c'" text="'v5006^t'" link="'v5006^l'" vlink="'v5006^l'">
+<link rel="shortcut icon" href="favicon.ico"/>
+<link rel="stylesheet" href="/applications/scielo-org/css/public/general.css" type="text/css" media="print"/>
+<link rel="stylesheet" href="/applications/scielo-org/css/public/style-en.css" type="text/css" media="screen"/>
+
+<div class="container">
+	<div class="level2">	
+		<div class="bar">
+			<div id="otherVersions">
+				<span class="español">
+					<a class="frameless" href="/php/index.php?lang=pt">português</a>
+				</span> | <span class="english">
+					<a class="frameless" href="/php/index.php?lang=es">español</a>
+				</span>
+			</div>
+			<div id="contact">
+				<span>
+					<a class="frameless" href="/php/contact.php?lang=en">Contact</a>
+				</span>
+			</div>
+		</div> <!-- bar -->
+		<div class="top">
+			<div id="parent">
+				<img src="/applications/scielo-org/image/public/skins/classic/pt/banner.jpg" alt="SciELO - Scientific Electronic Librery Online"/>
+			</div>
+			<div id="identification">
+				<h1><span>SciELO.org - Scientific Electronic Library Online</span></h1>
+			</div>
+		</div>
+		<div id="breadCrumb">
+			<a href="/" target="_parent">home</a> &gt; iAH
+		</div>
+	</div> <!-- level2 -->
+</div> <!-- container -->
+'
+,@HEADER.IAH,

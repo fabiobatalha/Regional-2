@@ -1,0 +1,29 @@
+BODY {
+	color: #000000;
+}
+
+H1, H2, H3 {
+	font-family: Trebuchet MS, Arial;
+}
+
+FORM {
+	margin: 0px;
+}
+
+A IMG {
+	border: 0px;
+}
+
+UL {
+	list-style-type: square;	
+}
+
+
+SPAN A{
+	text-decoration: underline;
+}
+
+A.explicity{
+	color: #880000;
+	text-decoration: underline;
+}

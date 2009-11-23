@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<collection id="30" lang="pt" available="">
+  <item id="1" available="yes" href="http://scad.bvs.br/" img="http://regional.bvsalud.org/image/common/logo_scad.gif">SCAD-  serviço de cópia de documentos                                                                              <description>SCAD  - Serviço Cooperativo de Acesso ao Documento, provê o acesso a documentos da área de ciências da saúde.                           </description>
+    <portal>                                   </portal>
+    <meta-search/>
+  </item>
+  <item id="2" available="yes" href="http://portal.revistas.bvs.br/main.php?home=true&amp;lang=pt">Catálogo de revistas científicas                                                                              <description>Acesso ao catálogo de revistas científicas com informações: descrição bibliográfica dos títulos; acesso ao formato eletrônico e ao catálo das coleções de bibliotecas que cooperam com o Catálogo Coletivo (SeCS).                    </description>
+    <portal>                                </portal>
+    <meta-search base-search-url="http://portal.revistas.bvs.br/webservices/?service=search&amp;count=1" search-parameters="expression=" base-browse-url="http://portal.revistas.bvs.br/webservices/?service=search&amp;output=html&amp;lang=pt"/>
+  </item>
+</collection>

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Colombia" uri="http://www.scielo.org.co" flagName="CO" homologado="true"><indicators><journalTotal>47</journalTotal><articleTotal>2939</articleTotal><issueTotal>262</issueTotal><citationTotal>70615</citationTotal></indicators>
+<wxis-modules IsisScript="list.xis" version="0.2">
+<record>
+<title>CTyF - Ciencia, Tecnología y Futuro </title>
+<processDate>20070917</processDate>
+<issn>0122-5383</issn>
+<publisher>Instituto Colombiano del Petróleo (ICP) - ECOPETROL S.A.</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Interamericana de Bibliotecología</title>
+<processDate>20070904</processDate>
+<issn>0120-0976</issn>
+<publisher>Escuela Interamericana de Bibliotecología</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Iatreia</title>
+<processDate>20070828</processDate>
+<issn>0121-0793</issn>
+<publisher>Editorial Artes y Letras</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Agronomía Colombiana</title>
+<processDate>20070824</processDate>
+<issn>0120-9965</issn>
+<publisher>Universidad Nacional de Colombia, Facultad de Agronomía</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Facultad Nacional de Agronomía, Medellín</title>
+<processDate>20070814</processDate>
+<issn>0304-2847</issn>
+<publisher>Facultad de Ciencias Agropecuarias - Universidad Nacional de Colombia, Sede Medellín</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Estudios Gerenciales</title>
+<processDate>20070705</processDate>
+<issn>0123-5923</issn>
+<publisher>Universidad Icesi</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Historia Crítica</title>
+<processDate>20070705</processDate>
+<issn>0121-1617</issn>
+<publisher>Departamento de Historia, Facultad de Ciencias Sociales, Universidad de los Andes</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Estudios Sociales</title>
+<processDate>20070629</processDate>
+<issn>0123-885X</issn>
+<publisher>Facultad de Ciencias Sociales, Universidad de los Andes</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Estadística</title>
+<processDate>20070621</processDate>
+<issn>0120-1751</issn>
+<publisher>Departamento de Estadística - Universidad Nacional de Colombia.</publisher>
+<subject>Mathematics</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Matemáticas</title>
+<processDate>20070620</processDate>
+<issn>0034-7426</issn>
+<publisher>Universidad Nacional de Colombia y Sociedad Colombiana de Matemáticas</publisher>
+<subject>Mathematics</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista MVZ Córdoba</title>
+<processDate>20070607</processDate>
+<issn>0122-0268</issn>
+<publisher>Universidad de Córdoba – Facultad de Medicina Veterinaria y Zootecnia.</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Psiquiatría</title>
+<processDate>20070531</processDate>
+<issn>0034-7450</issn>
+<publisher>Asociacion Colombiana de Psiquiatria.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ingeniería e Investigación</title>
+<processDate>20070529</processDate>
+<issn>0120-5609</issn>
+<publisher>Facultad de Ingeniería, Universidad Nacional de Colombia.</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Ciencias Pecuarias</title>
+<processDate>20070502</processDate>
+<issn>0120-0690</issn>
+<publisher>Facultad de Ciencias Agrarias, Universidad de Antioquia</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Estudios de Filosofía</title>
+<processDate>20070430</processDate>
+<issn>0121-3628</issn>
+<publisher>Instituto de Filosofía, Universidad de Antioquia.</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Vitae</title>
+<processDate>20070430</processDate>
+<issn>0121-4004</issn>
+<publisher>Facultad de Química Farmacéutica, Universidad de Antioquia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Profile Issues in Teachers` Professional Development</title>
+<processDate>20070427</processDate>
+<issn>1657-0790</issn>
+<publisher>Departamento de Lenguas Extranjeras, Universidad Nacional de Colombia.</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Facultad de Ingeniería Universidad de Antioquia</title>
+<processDate>20070427</processDate>
+<issn>0120-6230</issn>
+<publisher>Facultad de Ingeniería, Universidad de Antioquia</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Forma y Función</title>
+<processDate>20070425</processDate>
+<issn>0120-338X</issn>
+<publisher>Departamento de Lingüística, Universidad Nacional de Colombia.</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Innovar</title>
+<processDate>20070419</processDate>
+<issn>0121-5051</issn>
+<publisher>Facultad de Ciencias Económicas. Universidad Nacional de Colombia.</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Boletín de Investigaciones Marinas y Costeras - INVEMAR</title>
+<processDate>20070307</processDate>
+<issn>0122-9761</issn>
+<publisher>INSTITUTO DE INVESTIGACIONES MARINAS Y COSTERAS &quot;JOSE BENITO VIVES DE ANDRÉIS&quot; (INVEMAR)</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Investigación y Educación en Enfermería</title>
+<processDate>20061222</processDate>
+<issn>0120-5307</issn>
+<publisher>Imprenta Universidad de Antioquia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>DYNA</title>
+<processDate>20061204</processDate>
+<issn>0012-7353</issn>
+<publisher>Centro de Publicaciones, Universidad Nacional de Colombia, Sede Medellín</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta Colombiana de Psicología</title>
+<processDate>20061130</processDate>
+<issn>0123-9155</issn>
+<publisher>Universidad Catolica de Colombia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Química</title>
+<processDate>20061130</processDate>
+<issn>0120-2804</issn>
+<publisher>Departamento de Química,  Universidad Nacional de Colombia.</publisher>
+<subject>Chemistry</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ideas y Valores</title>
+<processDate>20061124</processDate>
+<issn>0120-0062</issn>
+<publisher>Universidad Nacional de Colombia, Facultad de Ciencias Humanas, Departamento de Filosofía.</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Anestesiología</title>
+<processDate>20061123</processDate>
+<issn>0120-3347</issn>
+<publisher>SCARE-Sociedad Colombiana de Anestesiología y Reanimación</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Análisis Político</title>
+<processDate>20060929</processDate>
+<issn>0121-4705</issn>
+<publisher>Instituto de Estudios Políticos y Relaciones Internacionales (IEPRI), Universidad Nacional de Colombia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Reumatología</title>
+<processDate>20060921</processDate>
+<issn>0121-8123</issn>
+<publisher>Asociación Colombiana de Reumatología</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Facultad de Medicina de la Universidad Nacional de Colombia</title>
+<processDate>20060726</processDate>
+<issn>0120-0011</issn>
+<publisher>Universidad Naciona de colombia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta Biológica Colombiana</title>
+<processDate>20060725</processDate>
+<issn>0120-548X</issn>
+<publisher>Universidad Nacional de Colombia, Facultad de Ciencias, Departamento de Biología</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cuadernos de Economía</title>
+<processDate>20060526</processDate>
+<issn>0121-4772</issn>
+<publisher>Universidad Nacional de Colombia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Universitas Psychologica</title>
+<processDate>20060526</processDate>
+<issn>1657-9267</issn>
+<publisher>Pontificia Universidad Javeriana</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Universitas Psychologica</title>
+<processDate>20060328</processDate>
+<issn></issn>
+<publisher></publisher>
+<subject></subject>
+<publicationStatus></publicationStatus>
+</record><record>
+<title>Biomédica</title>
+<processDate>20060313</processDate>
+<issn>0120-4157</issn>
+<publisher>Instituto Nacional de Salud</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Caldasia</title>
+<processDate>20060302</processDate>
+<issn>0366-5232</issn>
+<publisher>Instituto de Ciencias Naturales, Facultad de Ciencias-Universidad Nacional de Colombia</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cuadernos de Administración</title>
+<processDate>20060223</processDate>
+<issn>0120-3592</issn>
+<publisher>Pontificia Universidad Javeriana</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Economía Institucional</title>
+<processDate>20060213</processDate>
+<issn>0124-5996</issn>
+<publisher>Universidad Externado de Colombia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Colombia Médica</title>
+<processDate>20050211</processDate>
+<issn>1657-9534</issn>
+<publisher>Corporación Editora Médica del Valle</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Neumología</title>
+<processDate>20041123</processDate>
+<issn>0121-5426</issn>
+<publisher>Sociedad Colombiana de Neumología, Tisiología y Enfermedades del Tórax</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Gastroenterologia</title>
+<processDate>20041019</processDate>
+<issn>0120-9957</issn>
+<publisher>Asociación Colombiana de Gastroenterología</publisher>
+<publisher>  </publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Salud Pública</title>
+<processDate>20040528</processDate>
+<issn>0124-0064</issn>
+<publisher>Instituto de Salud Publica, Facultad de Medicina - Universidad Nacional de Colombia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Cancerología</title>
+<processDate>20040227</processDate>
+<issn>0123-9015</issn>
+<publisher>Instituto Nacional de Cancerología</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Universitas Odontológica</title>
+<processDate>20020930</processDate>
+<issn>0120-4319</issn>
+<publisher>Pontificia Universidad Javeriana. Facultad de Odontologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Obstetricia y Ginecología</title>
+<processDate>20020620</processDate>
+<issn>0034-7434</issn>
+<publisher>Federación Colombiana de Asociaciones de Obstetricia y Ginecología</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Colombiana de Cardiología</title>
+<processDate>20020405</processDate>
+<issn>0120-5633</issn>
+<publisher>Sociedad Colombiana de Cardiologia. Oficina de Publicaciones</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta Medica Colombiana</title>
+<processDate>20020322</processDate>
+<issn>0120-2448</issn>
+<publisher>Asociacion Colombiana de Medicina Interna</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><list mfn="1">
+   <server>
+      <occ date="20070919" time="113315"></occ>
+   </server>
+   <database>
+      <occ>/scielo/web/bases/title/title</occ>
+   </database>
+   <from/>
+   <to/>
+   <count/>
+   <reverse/>
+   <Isis_Current>
+      <occ>47</occ>
+   </Isis_Current>
+   <Isis_Total>
+      <occ>47</occ>
+   </Isis_Total>
+   <previous/>
+   <next/>
+</list>
+</wxis-modules></collection></SciELOWebService>

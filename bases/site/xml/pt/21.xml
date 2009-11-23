@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<topic id="21" lang="pt" available="">
+  <item available="yes" id="1">Saúde Pública                                    <description>Ramo da medicina voltado para a prevenção e o controle de doenças e deficiências, e para a promoção da saúde física e mental da população tanto nos níveis internacional e nacional, como no estadual ou municipal.                                        </description>
+    <meta-search/>
+    <item available="yes" id="3">Atenção Primária                        <description>É a assistência sanitária essencial baseada em métodos e tecnologias práticas, cientificamente fundados e socialmente aceitáveis, postos ao alcance de todos os indivíduos e famílias da comunidade mediante a sua plena participação e a um custo que a comunidade e o país possam suportar, em todas e cada etapa do seu desenvolvimento, com um espírito de auto-responsabilidade e autodeterminação. (Declaração de Alma-Ata – Organização Pan-Americana da Saúde,  2003)                        </description>
+      <meta-search>
+        <info-source id="17-5" search-parameters="exprSearch=CUIDADOS PRIMARIOS DE SAUDE&amp;indexSearch=MH"/>
+        <info-source id="17-3" search-parameters="exprSearch=CUIDADOS PRIMARIOS DE SAUDE&amp;indexSearch=MH"/>
+        <info-source id="17-8" search-parameters="exprSearch=CUIDADOS PRIMARIOS DE SAUDE&amp;indexSearch=MH"/>
+        <info-source id="17-6" search-parameters="exprSearch=CUIDADOS PRIMARIOS DE SAUDE&amp;indexSearch=MH"/>
+      </meta-search>
+    </item>
+    <item available="yes" id="4">Serviços de Saúde                        <description>É a assistência sanitária essencial baseada em métodos e tecnologias práticas, cientificamente fundados e socialmente aceitáveis, postos ao alcance de todos os indivíduos e famílias da comunidade mediante a sua plena participação e a um custo que a comunidade e o país possam suportar, em todas e cada etapa do seu desenvolvimento, com um espírito de auto-responsabilidade e autodeterminação. (Declaração de Alma-Ata – Organização Pan-Americana da Saúde,  2003)                       </description>
+      <meta-search>
+        <info-source id="17-5" search-parameters="exprSearch=servi$ and saude&amp;indexSearch=Ti"/>
+        <info-source id="17-3" search-parameters="exprSearch=servi$ and saude&amp;indexSearch=Ti"/>
+        <info-source id="17-8" search-parameters="exprSearch=servi$ and saude&amp;indexSearch=Ti"/>
+        <info-source id="17-6" search-parameters="exprSearch=servi$ and saude&amp;indexSearch=Ti"/>
+      </meta-search>
+    </item>
+  </item>
+  <item available="yes" id="5">Comunicação em Saúde                <description>Inclui meios de divulgação como sistemas de comunicação e publicações. Consulte outros temas nesta área temática.                        </description>
+    <meta-search>
+      <info-source id="17-5" search-parameters="exprSearch=comunicacao and saude&amp;indexSearch=TW"/>
+      <info-source id="17-3" search-parameters="exprSearch=comunicacao and saude&amp;indexSearch=TW"/>
+      <info-source id="17-8" search-parameters="exprSearch=comunicacao and saude&amp;indexSearch=TW"/>
+      <info-source id="17-6" search-parameters="exprSearch=comunicacao and saude&amp;indexSearch=TW"/>
+    </meta-search>
+  </item>
+</topic>

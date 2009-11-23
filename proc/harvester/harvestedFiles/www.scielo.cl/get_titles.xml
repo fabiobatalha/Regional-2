@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Chile" uri="http://www.scielo.cl" flagName="CL" homologado="true"><indicators><journalTotal>67</journalTotal><articleTotal>16305</articleTotal><issueTotal>1149</issueTotal><citationTotal>297359</citationTotal></indicators>
+<wxis-modules IsisScript="list.xis" version="0.2">
+<record>
+<title>Ciencia e investigación agraria</title>
+<processDate>20070820</processDate>
+<issn>0718-1620</issn>
+<publisher>Pontificia Universidad Católica de Chile. Facultad de Agronomía e Ingeniería Forestal</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Terapia psicológica</title>
+<processDate>20070705</processDate>
+<issn>0718-4808</issn>
+<publisher>Sociedad Chilena de Psicología Clínica</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>RLA. Revista de lingüística teórica y aplicada</title>
+<processDate>20070629</processDate>
+<issn>0718-4883</issn>
+<publisher>Universidad de Concepción. Facultad de Humanidades y Arte</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de otorrinolaringología y cirugía de cabeza y cuello</title>
+<processDate>20070626</processDate>
+<issn>0718-4816</issn>
+<publisher>Sociedad Chilena de Otorrinolaringología, Medicina y Cirugía de Cabeza y Cuello</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de filosofía</title>
+<processDate>20070130</processDate>
+<issn>0718-4360</issn>
+<publisher>Universidad de Chile. Facultad de Filosofía y Humanidades</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ingeniare. Revista chilena de ingeniería</title>
+<processDate>20061027</processDate>
+<issn>0718-3305</issn>
+<publisher>Universidad de Tarapacá</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de cirugía</title>
+<processDate>20061013</processDate>
+<issn>0718-4026</issn>
+<publisher>Sociedad de Cirujanos de Chile</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de derecho</title>
+<processDate>20061005</processDate>
+<issn>0718-3437</issn>
+<publisher>Pontificia Universidad Católica de Chile. Facultad de Derecho</publisher>
+<subject>Ciencias Jurídicas</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de geografía Norte Grande</title>
+<processDate>20060712</processDate>
+<issn>0718-3402</issn>
+<publisher>Pontificia Universidad Católica de Chile. Instituto de Geografía</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de la ciencia del suelo y nutrición vegetal</title>
+<processDate>20060706</processDate>
+<issn>0718-2791</issn>
+<publisher>Sociedad Chilena de la Ciencia del Suelo</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Idesia (Arica)</title>
+<processDate>20060627</processDate>
+<issn>0718-3429</issn>
+<publisher>Universidad de Tarapacá. Facultad de Ciencias Agronómicas</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Magallania (Punta Arenas)</title>
+<processDate>20051005</processDate>
+<issn>0718-2244</issn>
+<publisher>Universidad de Magallanes. Instituto de la Patagonia. Centro de Estudios del Hombre Austral</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Universum (Talca)</title>
+<processDate>20050831</processDate>
+<issn>0718-2376</issn>
+<publisher>Instituto de Estudios Humanísticos &quot;Juan Ignacio Molina&quot; &lt;br&gt;</publisher>
+<publisher>Universidad de Talca</publisher>
+<subject>Human Sciences</subject>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de literatura</title>
+<processDate>20050805</processDate>
+<issn>0718-2295</issn>
+<publisher>Universidad de Chile&lt;br&gt;Facultad de Filosofía y Humanidades&lt;br&gt; Departamento de Literatura</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta bioethica</title>
+<processDate>20050726</processDate>
+<issn>1726-569X</issn>
+<publisher>OPS/OMS. Unidad de Bioética</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Alpha (Osorno)</title>
+<processDate>20050726</processDate>
+<issn>0718-2201</issn>
+<publisher>Universidad de Los Lagos. Departamento de Humanidades y Arte</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Maderas. Ciencia y tecnología</title>
+<processDate>20050726</processDate>
+<issn>0718-221X</issn>
+<publisher>Universidad del Bío-Bío</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Psykhe (Santiago)</title>
+<processDate>20050726</processDate>
+<issn>0718-2228</issn>
+<publisher>Pontificia Universidad Católica de Chile</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ultima década</title>
+<processDate>20050727</processDate>
+<issn>0718-2236</issn>
+<publisher>Centro de Estudios Sociales CIDPA</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de biología marina y oceanografía</title>
+<processDate>20050608</processDate>
+<issn>0718-1957</issn>
+<publisher>Universidad de Valparaíso. Facultad de Ciencias del Mar</publisher>
+<subject>Oceanography</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Facultad de Ingeniería - Universidad de Tarapacá</title>
+<processDate>20041217</processDate>
+<issn>0718-1337</issn>
+<publisher>Universidad de Tarapacá</publisher>
+<publisher>Facultad de Ingeniería</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Estudios atacameños</title>
+<processDate>20040908</processDate>
+<issn>0718-1043</issn>
+<publisher>Universidad Católica del Norte. Instituto de Investigaciones Arqueológicas y Museo R. P. Gustavo Le Paige</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de derecho (Valdivia)</title>
+<processDate>20040818</processDate>
+<issn>0718-0950</issn>
+<publisher>Universidad Austral de Chile. Facultad de Ciencias Jurídicas y Sociales</publisher>
+<subject>Ciencias Jurídicas</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista signos</title>
+<processDate>20040816</processDate>
+<issn>0718-0934</issn>
+<publisher>Pontificia Universidad Católica de Valparaíso&lt;br&gt; Instituto de Literatura y Ciencias del Lenguaje</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de ciencia política (Santiago)</title>
+<processDate>20040727</processDate>
+<issn>0718-090X</issn>
+<publisher>Pontificia Universidad Católica de Chile. Instituto de Ciencia Política</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Información tecnológica</title>
+<processDate>20040526</processDate>
+<issn>0718-0764</issn>
+<publisher>Centro de Información Tecnológica</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Estudios pedagógicos (Valdivia)</title>
+<processDate>20040505</processDate>
+<issn>0718-0705</issn>
+<publisher>Universidad Austral de Chile. Facultad de Filosofía y Humanidades</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ius et Praxis</title>
+<processDate>20040423</processDate>
+<issn>0718-0012</issn>
+<publisher>Universidad de Talca, Facultad de Ciencias Jurídicas y Sociales</publisher>
+<subject>Ciencias Jurídicas</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Atenea (Concepción)</title>
+<processDate>20031124</processDate>
+<issn>0718-0462</issn>
+<publisher>Universidad de Concepción</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>International Journal of Morphology</title>
+<processDate>20030515</processDate>
+<issn>0717-9502</issn>
+<publisher>Sociedad Chilena de Anatomía</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Journal of the Chilean Chemical Society</title>
+<processDate>20030505</processDate>
+<issn>0717-9707</issn>
+<publisher>Sociedad Chilena de Química</publisher>
+<subject>Chemistry</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ciencia y enfermería</title>
+<processDate>20030318</processDate>
+<issn>0717-9553</issn>
+<publisher>Universidad de Concepción. Facultad de Medicina. Departamento de Enfermería</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de radiología</title>
+<processDate>20021209</processDate>
+<issn>0717-9308</issn>
+<publisher>Publimpacto</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de neuro-psiquiatría</title>
+<processDate>20021127</processDate>
+<issn>0717-9227</issn>
+<publisher>Sociedad de Neurología, Psiquiatría y Neurocirugía</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Bosque (Valdivia)</title>
+<processDate>20021118</processDate>
+<issn>0717-9200</issn>
+<publisher>Universidad Austral de Chile, Facultad de Ciencias Forestales</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Parasitología latinoamericana</title>
+<processDate>20020802</processDate>
+<issn>0717-7712</issn>
+<publisher>Sociedad Chilena de Parasitología</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de obstetricia y ginecología</title>
+<processDate>20020715</processDate>
+<issn>0717-7526</issn>
+<publisher>Sociedad Chilena de Obstetricia y Ginecología</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de nutrición</title>
+<processDate>20020531</processDate>
+<issn>0717-7518</issn>
+<publisher>Sociedad Chilena de Nutrición, Bromatología y Toxicología</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Chungará (Arica)</title>
+<processDate>20020415</processDate>
+<issn>0717-7356</issn>
+<publisher>Universidad de Tarapacá&lt;br&gt;Facultad de Ciencias Sociales Administrativas y Económicas&lt;br&gt;</publisher>
+<publisher>Departamento de Antropología</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de enfermedades respiratorias</title>
+<processDate>20020404</processDate>
+<issn>0717-7348</issn>
+<publisher>Sociedad Chilena de Enfermedades Respiratorias</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Historia (Santiago)</title>
+<processDate>20020124</processDate>
+<issn>0717-7194</issn>
+<publisher>Instituto de Historia&lt;br&gt; Pontificia Universidad Católica de Chile</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Investigaciones marinas</title>
+<processDate>20020117</processDate>
+<issn>0717-7178</issn>
+<publisher>Escuela de Ciencias del Mar &lt;BR&gt;Pontificia Universidad Católica de Valparaíso</publisher>
+<subject>Oceanography</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>ARQ (Santiago)</title>
+<processDate>20011212</processDate>
+<issn>0717-6996</issn>
+<publisher>Ediciones ARQ</publisher>
+<subject>Architecture</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta literaria</title>
+<processDate>20011030</processDate>
+<issn>0717-6848</issn>
+<publisher>Universidad de Concepción. Facultad de Humanidades y Arte. Departamento de Español</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cuadernos de economía</title>
+<processDate>20011019</processDate>
+<issn>0717-6821</issn>
+<publisher>Instituto de Economía, Pontificia Universidad Católica de Chile</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Gayana (Concepción)</title>
+<processDate>20010730</processDate>
+<issn>0717-6538</issn>
+<publisher>Universidad de Concepción.&lt;br&gt;Facultad de Ciencias Naturales y Oceanográficas. </publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Gayana. Botánica</title>
+<processDate>20010625</processDate>
+<issn>0717-6643</issn>
+<publisher>Facultad de Ciencias Naturales y Oceanográficas, Universidad de Concepción</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de infectología</title>
+<processDate>20001109</processDate>
+<issn>0716-1018</issn>
+<publisher>Sociedad Chilena de Infectología</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de historia natural</title>
+<processDate>20001010</processDate>
+<issn>0716-078X</issn>
+<publisher>Sociedad de Biología de Chile</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Boletín chileno de parasitología</title>
+<processDate>20000822</processDate>
+<issn>0365-9402</issn>
+<publisher>Programa de Parasitología. Instituto de Ciencias Biomédicas. Facultad de Medicina. Universidad de Chile</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Agricultura Técnica</title>
+<processDate>20000816</processDate>
+<issn>0365-2807</issn>
+<publisher>Instituto de Investigaciones Agropecuarias, INIA</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Boletín de la Sociedad Chilena de Química</title>
+<processDate>20000804</processDate>
+<issn>0366-1644</issn>
+<publisher>Sociedad Chilena de Química</publisher>
+<subject>Chemistry</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Teología y vida</title>
+<processDate>20000725</processDate>
+<issn>0049-3449</issn>
+<publisher>Facultad de Teología, Pontificia Universidad Católica de Chile  </publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Biological Research</title>
+<processDate>20000519</processDate>
+<issn>0716-9760</issn>
+<publisher>Sociedad de Biología de Chile</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de estudios histórico-jurídicos</title>
+<processDate>19991116</processDate>
+<issn>0716-5455</issn>
+<publisher>Ediciones Universitarias de Valparaíso</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de anatomía</title>
+<processDate>19981030</processDate>
+<issn>0716-9868</issn>
+<publisher>Sociedad Chilena de Anatomía</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Archivos de medicina veterinaria</title>
+<processDate>19981027</processDate>
+<issn>0301-732X</issn>
+<publisher>Facultad de Ciencias Veterinarias, Universidad Austral de Chile</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>EURE (Santiago)</title>
+<processDate>19981028</processDate>
+<issn>0250-7161</issn>
+<publisher>Pontificia Universidad Católica de Chile&lt;br&gt;Facultad de Arquitectura, Diseño y Estudios Urbanos&lt;br&gt; Instituto de Estudios Urbanos y Territoriales</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Electronic Journal of Biotechnology</title>
+<processDate>19981028</processDate>
+<issn>0717-3458</issn>
+<publisher>Pontificia Universidad Católica de Valparaíso and CONICYT</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Estudios filológicos</title>
+<processDate>19981028</processDate>
+<issn>0071-1713</issn>
+<publisher>Facultad de Filosofía y Humanidades de la Universidad Austral de Chile. </publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Literatura y lingüística</title>
+<processDate>19981028</processDate>
+<issn>0716-5811</issn>
+<publisher>Universidad Católica Silva Henríquez</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Parasitología al día</title>
+<processDate>19981028</processDate>
+<issn>0716-0720</issn>
+<publisher>Sociedad Chilena de Parasitología.&lt;br/&gt;Federación Latinoamericana de Parasitología&lt;br/&gt;</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Proyecciones (Antofagasta)</title>
+<processDate>19981028</processDate>
+<issn>0716-0917</issn>
+<publisher>Universidad Católica del Norte, Departamento de Matemáticas</publisher>
+<subject>Mathematics</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista chilena de pediatría</title>
+<processDate>19981029</processDate>
+<issn>0370-4106</issn>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista geológica de Chile</title>
+<processDate>19981029</processDate>
+<issn>0716-0208</issn>
+<publisher>Servicio Nacional de Geología y Minería (SERNAGEOMIN)</publisher>
+<subject>Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista musical chilena</title>
+<processDate>19981029</processDate>
+<issn>0716-2790</issn>
+<publisher>Universidad de Chile, Facultad de Artes</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista médica de Chile</title>
+<processDate>19981029</processDate>
+<issn>0034-9887</issn>
+<publisher>Sociedad Médica de Santiago</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><list mfn="1">
+   <server>
+      <occ date="20070919" time="122140"></occ>
+   </server>
+   <database>
+      <occ>/home/scielo/bases/title/title</occ>
+   </database>
+   <from/>
+   <to/>
+   <count/>
+   <reverse/>
+   <Isis_Current>
+      <occ>67</occ>
+   </Isis_Current>
+   <Isis_Total>
+      <occ>67</occ>
+   </Isis_Total>
+   <previous/>
+   <next/>
+</list>
+</wxis-modules></collection></SciELOWebService>

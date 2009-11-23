@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<secondLevelForLastIssuesBySubject>
+   <journalList collection="Argentina" total="33">
+      <order by="Biological Sciences" total="6">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0325-295720090002&amp;nrm=iso"
+                  date="20091006">Acta Bioquímica Clínica Latinoamericana v.43 n.2</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1851-374320080002&amp;nrm=iso"
+                  date="20091006">Acta Toxicológica Argentina v.16 n.2</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0002-701420070002&amp;nrm=iso"
+                  date="20090929">Ameghiniana v.44 n.2</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1851-237220090001&amp;nrm=iso"
+                  date="20090915">Boletín de la Sociedad Argentina de Botánica v.44 n.1-2</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0325-295720090001&amp;nrm=iso"
+                  date="20090910">Acta Bioquímica Clínica Latinoamericana v.43 n.1</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0327-938320090001&amp;nrm=iso"
+                  date="20090904">Mastozoología Neotropical v.16 n.1</journal>
+      </order>
+      <order by="Chemistry" total="9">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1851-374320080002&amp;nrm=iso"
+                  date="20091006">Acta Toxicológica Argentina v.16 n.2</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0365-037520040001&amp;nrm=iso"
+                  date="20090908">Anales de la Asociación Química Argentina v.92 n.1-3</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0365-037520040002&amp;nrm=iso"
+                  date="20090908">Anales de la Asociación Química Argentina v.92 n.4-6</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0365-037520050001&amp;nrm=iso"
+                  date="20090908">Anales de la Asociación Química Argentina v.93 n.1-3</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0365-037520050002&amp;nrm=iso"
+                  date="20090908">Anales de la Asociación Química Argentina v.93 n.4-6</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0365-037520060001&amp;nrm=iso"
+                  date="20090908">Anales de la Asociación Química Argentina v.94 n.1-3</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0365-037520060002&amp;nrm=iso"
+                  date="20090908">Anales de la Asociación Química Argentina v.94 n.4-6</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0365-037520070001&amp;nrm=iso"
+                  date="20090908">Anales de la Asociación Química Argentina v.95 n.1-2</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0327-079320080003&amp;nrm=iso"
+                  date="20090902">Latin American Applied Research v.38 n.3</journal>
+      </order>
+      <order by="Engineering" total="1">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0327-079320080003&amp;nrm=iso"
+                  date="20090902">Latin American Applied Research v.38 n.3</journal>
+      </order>
+      <order by="Geosciences" total="2">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0002-701420070002&amp;nrm=iso"
+                  date="20090929">Ameghiniana v.44 n.2</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0004-482220090002&amp;nrm=iso"
+                  date="20090904">Revista de la Asociación Geológica Argentina v.64 n.2</journal>
+      </order>
+      <order by="Health Sciences" total="10">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0325-295720090002&amp;nrm=iso"
+                  date="20091006">Acta Bioquímica Clínica Latinoamericana v.43 n.2</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0325-007520090005&amp;nrm=iso"
+                  date="20090928">Archivos Argentinos de Pediatría v.107 n.5</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1851-303420090002&amp;nrm=iso"
+                  date="20090928">Revista Argentina de Endocrinología y Metabolismo (1983) v.46 n.2</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0025-768020090002&amp;nrm=iso"
+                  date="20090921">Medicina [Buenos Aires] v.69 n.1 suppl.1</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1851-303420090001&amp;nrm=iso"
+                  date="20090921">Revista Argentina de Endocrinología y Metabolismo (1983) v.46 n.1</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0025-768020070007&amp;nrm=iso"
+                  date="20090915">Medicina [Buenos Aires] v.67 n.6</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0325-007520090004&amp;nrm=iso"
+                  date="20090910">Archivos Argentinos de Pediatría v.107 n.4</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0325-295720090001&amp;nrm=iso"
+                  date="20090910">Acta Bioquímica Clínica Latinoamericana v.43 n.1</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0025-768020040002&amp;nrm=iso"
+                  date="20090908">Medicina [Buenos Aires] v.64 n.2</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=0025-768020080006&amp;nrm=iso"
+                  date="20090902">Medicina [Buenos Aires] v.68 n.6</journal>
+      </order>
+      <order by="Human Sciences" total="6">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1668-810420020001&amp;nrm=iso"
+                  date="20091002">Cuadernos - Revista de la Facultad de Humanidades y Ciencias Sociales (UNJu) n.18</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1850-275X20090001&amp;nrm=iso"
+                  date="20090917">Cuadernos de Antropología Social n.29</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1851-174020020002&amp;nrm=iso"
+                  date="20090908">Información, Cultura y Sociedad n.7</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1668-810420020002&amp;nrm=iso"
+                  date="20090902">Cuadernos - Revista de la Facultad de Humanidades y Ciencias Sociales (UNJu) n.19</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1668-810420080002&amp;nrm=iso"
+                  date="20090902">Cuadernos - Revista de la Facultad de Humanidades y Ciencias Sociales (UNJu) n.35</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1850-373X20090001&amp;nrm=iso"
+                  date="20090901">Intersecciones en Antropología n.10</journal>
+      </order>
+      <order by="Social Sciences" total="5">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1850-001320090001&amp;nrm=iso"
+                  date="20090929">CTS. Ciencia, Tecnología y Sociedad v.4 n.12</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1851-173220090005&amp;nrm=iso"
+                  date="20090924">Estudios y perspectivas en turismo v.18 n.5</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1851-169420080002&amp;nrm=iso"
+                  date="20090923">Avá (Posadas) n.13</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1851-174020020002&amp;nrm=iso"
+                  date="20090908">Información, Cultura y Sociedad n.7</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&amp;pid=1850-001320060001&amp;nrm=iso"
+                  date="20090901">CTS. Ciencia, Tecnología y Sociedad v.3 n.7</journal>
+      </order>
+   </journalList>
+   <journalList collection="Brasil" total="47">
+      <order by="Agricultural Sciences" total="10">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0100-540520090003&amp;nrm=iso"
+                  date="20091030">Summa Phytopathologica v.35 n.3</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0001-376520090004&amp;nrm=iso"
+                  date="20091028">Anais da Academia Brasileira de Ciências v.81 n.4</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0103-847820090050&amp;nrm=iso"
+                  date="20091028">Ciência Rural n.ahead</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0100-068320090004&amp;nrm=iso"
+                  date="20091027">Revista Brasileira de Ciência do Solo v.33 n.4</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0103-847820090008&amp;nrm=iso"
+                  date="20091027">Ciência Rural v.39 n.8</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1516-359820090013&amp;nrm=iso"
+                  date="20091027">Revista Brasileira de Zootecnia v.38 n.spe</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0103-847820090109&amp;nrm=iso"
+                  date="20091022">Ciência Rural v.39 n.8</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0100-835820090003&amp;nrm=iso"
+                  date="20091021">Planta Daninha v.27 n.3</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0103-847819950001&amp;nrm=iso"
+                  date="20091021">Ciência Rural v.25 n.1</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1415-436620090006&amp;nrm=iso"
+                  date="20091021">Revista Brasileira de Engenharia Agrícola e Ambiental v.13 n.6</journal>
+      </order>
+      <order by="Applied Social Sciences" total="2">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1413-993620090002&amp;nrm=iso"
+                  date="20091030">Perspectivas em Ciência da Informação v.14 n.2</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0034-761220090004&amp;nrm=iso"
+                  date="20091020">Revista de Administração Pública v.43 n.4</journal>
+      </order>
+      <order by="Biological Sciences" total="9">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0036-466520090005&amp;nrm=iso"
+                  date="20091030">Revista do Instituto de Medicina Tropical de São Paulo v.51 n.5</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0073-472120090002&amp;nrm=iso"
+                  date="20091030">Iheringia. Série Zoologia v.99 n.2</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1415-475720090050&amp;nrm=iso"
+                  date="20091030">Genetics and Molecular Biology n.ahead</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1679-622520090003&amp;nrm=iso"
+                  date="20091030">Neotropical Ichthyology v.7 n.3</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0001-376520090004&amp;nrm=iso"
+                  date="20091028">Anais da Academia Brasileira de Ciências v.81 n.4</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0074-027619430006&amp;nrm=iso"
+                  date="20091023">Memórias do Instituto Oswaldo Cruz v.39 n.3</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0074-027619440001&amp;nrm=iso"
+                  date="20091023">Memórias do Instituto Oswaldo Cruz v.40 n.1</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0074-027619460004&amp;nrm=iso"
+                  date="20091023">Memórias do Instituto Oswaldo Cruz v.44 n.4</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0074-027620090006&amp;nrm=iso"
+                  date="20091022">Memórias do Instituto Oswaldo Cruz v.104 n.6</journal>
+      </order>
+      <order by="Engineering" total="2">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0001-376520090004&amp;nrm=iso"
+                  date="20091028">Anais da Academia Brasileira de Ciências v.81 n.4</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1413-415220090003&amp;nrm=iso"
+                  date="20091027">Engenharia Sanitaria e Ambiental  v.14 n.3</journal>
+      </order>
+      <order by="Exact and Earth Sciences" total="4">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0103-175920090003&amp;nrm=iso"
+                  date="20091030">Sba: Controle &amp; Automação Sociedade Brasileira de Automatica v.20 n.3</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0001-376520090004&amp;nrm=iso"
+                  date="20091028">Anais da Academia Brasileira de Ciências v.81 n.4</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0103-505320090008&amp;nrm=iso"
+                  date="20091027">Journal of the Brazilian Chemical Society v.20 n.8</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0100-404220090007&amp;nrm=iso"
+                  date="20091022">Química Nova v.32 n.7</journal>
+      </order>
+      <order by="Health Sciences" total="26">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0021-755720090106&amp;nrm=iso"
+                  date="20091030">Jornal de Pediatria v.85 n.5</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0036-466520090005&amp;nrm=iso"
+                  date="20091030">Revista do Instituto de Medicina Tropical de São Paulo v.51 n.5</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0103-507X20090003&amp;nrm=iso"
+                  date="20091030">Revista Brasileira de Terapia Intensiva v.21 n.3</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1413-355520090050&amp;nrm=iso"
+                  date="20091029">Revista Brasileira de Fisioterapia n.ahead</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1806-832420090003&amp;nrm=iso"
+                  date="20091029">Brazilian Oral Research v.23 n.3</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0001-376520090004&amp;nrm=iso"
+                  date="20091028">Anais da Academia Brasileira de Ciências v.81 n.4</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0104-597020090050&amp;nrm=iso"
+                  date="20091028">História, Ciências, Saúde-Manguinhos n.ahead</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0004-273020090006&amp;nrm=iso"
+                  date="20091027">Arquivos Brasileiros de Endocrinologia &amp; Metabologia v.53 n.6</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0021-755720090005&amp;nrm=iso"
+                  date="20091027">Jornal de Pediatria v.85 n.5</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0100-398420090005&amp;nrm=iso"
+                  date="20091027">Radiologia Brasileira v.42 n.5</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0100-720320090009&amp;nrm=iso"
+                  date="20091027">Revista Brasileira de Ginecologia e Obstetrícia v.31 n.9</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1415-541920090005&amp;nrm=iso"
+                  date="20091027">Revista Dental Press de Ortodontia e Ortopedia Facial v.14 n.5</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1415-541920090105&amp;nrm=iso"
+                  date="20091027">Revista Dental Press de Ortodontia e Ortopedia Facial v.14 n.5</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1517-869220090006&amp;nrm=iso"
+                  date="20091027">Revista Brasileira de Medicina do Esporte v.15 n.5</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0004-280320090003&amp;nrm=iso"
+                  date="20091023">Arquivos de Gastroenterologia v.46 n.3</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0074-027619430006&amp;nrm=iso"
+                  date="20091023">Memórias do Instituto Oswaldo Cruz v.39 n.3</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0074-027619440001&amp;nrm=iso"
+                  date="20091023">Memórias do Instituto Oswaldo Cruz v.40 n.1</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0074-027619460004&amp;nrm=iso"
+                  date="20091023">Memórias do Instituto Oswaldo Cruz v.44 n.4</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0066-782X20090009&amp;nrm=iso"
+                  date="20091022">Arquivos Brasileiros de Cardiologia v.93 n.3</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0074-027620090006&amp;nrm=iso"
+                  date="20091022">Memórias do Instituto Oswaldo Cruz v.104 n.6</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0104-597020090104&amp;nrm=iso"
+                  date="20091022">História, Ciências, Saúde-Manguinhos v.16 n.3</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0365-059620090004&amp;nrm=iso"
+                  date="20091021">Anais Brasileiros de Dermatologia v.84 n.4</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1516-848420090004&amp;nrm=iso"
+                  date="20091021">Revista Brasileira de Hematologia e Hemoterapia v.31 n.4</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1807-593220090010&amp;nrm=iso"
+                  date="20091021">Clinics v.64 n.10</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0034-891020090005&amp;nrm=iso"
+                  date="20091020">Revista de Saúde Pública v.43 n.5</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0034-891020090050&amp;nrm=iso"
+                  date="20091020">Revista de Saúde Pública n.ahead</journal>
+      </order>
+      <order by="Human Sciences" total="5">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0001-376520090004&amp;nrm=iso"
+                  date="20091028">Anais da Academia Brasileira de Ciências v.81 n.4</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0104-597020090050&amp;nrm=iso"
+                  date="20091028">História, Ciências, Saúde-Manguinhos n.ahead</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0101-733020090003&amp;nrm=iso"
+                  date="20091027">Educação &amp; Sociedade v.30 n.108</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1413-247820090002&amp;nrm=iso"
+                  date="20091027">Revista Brasileira de Educação v.14 n.41</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0104-597020090104&amp;nrm=iso"
+                  date="20091022">História, Ciências, Saúde-Manguinhos v.16 n.3</journal>
+      </order>
+      <order by="Linguistics, Letters and Arts" total="1">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0102-445020080003&amp;nrm=iso"
+                  date="20091029">DELTA: Documentação de Estudos em Lingüística Teórica e Aplicada v.24 n.spe</journal>
+      </order>
+   </journalList>
+   <journalList collection="Chile" total="44">
+      <order by="Agricultural Sciences" total="1">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-342920090002&amp;nrm=iso"
+                  date="20090930">Idesia (Arica) v.27 n.2</journal>
+      </order>
+      <order by="Applied Social Sciences" total="17">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-656820090001&amp;nrm=iso"
+                  date="20091030">Polis (Santiago) v.8 n.22</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-656820090002&amp;nrm=iso"
+                  date="20091030">Polis (Santiago) v.8 n.23</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0717-735620090002&amp;nrm=iso"
+                  date="20091029">Chungará (Arica) v.41 n.2</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-090X20090002&amp;nrm=iso"
+                  date="20091028">Revista de ciencia política (Santiago) v.29 n.2</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-104320090001&amp;nrm=iso"
+                  date="20091028">Estudios atacameños n.37</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-807220090001&amp;nrm=iso"
+                  date="20091009">Revista chilena de derecho privado n.12</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-237620090001&amp;nrm=iso"
+                  date="20091007">Universum (Talca) v.24 n.1</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-095020090001&amp;nrm=iso"
+                  date="20091006">Revista de derecho (Valdivia) v.22 n.1</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-520020090001&amp;nrm=iso"
+                  date="20091006">Estudios constitucionales v.7 n.1</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0717-719420090001&amp;nrm=iso"
+                  date="20091005">Historia (Santiago) v.42 n.1</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-480820090001&amp;nrm=iso"
+                  date="20090930">Terapia psicológica v.27 n.1</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-001220090001&amp;nrm=iso"
+                  date="20090928">Ius et Praxis v.15 n.1</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-340220090002&amp;nrm=iso"
+                  date="20090925">Revista de geografía Norte Grande n.43</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0717-554X20090001&amp;nrm=iso"
+                  date="20090924">Cinta de moebio n.34</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-343720090002&amp;nrm=iso"
+                  date="20090923">Revista chilena de derecho v.36 n.2</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-187620090002&amp;nrm=iso"
+                  date="20090921">Journal of theoretical and applied electronic commerce research v.4 n.2</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-685120090001&amp;nrm=iso"
+                  date="20090916">Revista de derecho (Valparaíso) n.32</journal>
+      </order>
+      <order by="Biological Sciences" total="2">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0716-976020090003&amp;nrm=iso"
+                  date="20091102">Biological Research v.42 n.3</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0717-345820090002&amp;nrm=iso"
+                  date="20091020">Electronic Journal of Biotechnology v.12 n.2</journal>
+      </order>
+      <order by="Engineering" total="4">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-076420090005&amp;nrm=iso"
+                  date="20091028">Información tecnológica v.20 n.5</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-272420090003&amp;nrm=iso"
+                  date="20091020">Journal of technology management &amp; innovation v.4 n.3</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-507320090002&amp;nrm=iso"
+                  date="20090922">Revista ingeniería de construcción v.24 n.2</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-187620090002&amp;nrm=iso"
+                  date="20090921">Journal of theoretical and applied electronic commerce research v.4 n.2</journal>
+      </order>
+      <order by="Exact and Earth Sciences" total="3">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-195720090002&amp;nrm=iso"
+                  date="20091103">Revista de biología marina y oceanografía v.44 n.2</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0717-970720090002&amp;nrm=iso"
+                  date="20091007">Journal of the Chilean Chemical Society v.54 n.2</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-710620090002&amp;nrm=iso"
+                  date="20090916">Andean geology v.36 n.2</journal>
+      </order>
+      <order by="Health Sciences" total="12">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0716-101820090006&amp;nrm=iso"
+                  date="20091102">Revista chilena de infectología v.26 n.5</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0717-752620090005&amp;nrm=iso"
+                  date="20091029">Revista chilena de obstetricia y ginecología v.74 n.5</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0717-955320090002&amp;nrm=iso"
+                  date="20091029">Ciencia y enfermería v.15 n.2</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0034-988720090008&amp;nrm=iso"
+                  date="20091028">Revista médica de Chile v.137 n.8</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0717-752620090004&amp;nrm=iso"
+                  date="20091022">Revista chilena de obstetricia y ginecología v.74 n.4</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-481620090002&amp;nrm=iso"
+                  date="20091021">Revista de otorrinolaringología y cirugía de cabeza y cuello v.69 n.2</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-402620090005&amp;nrm=iso"
+                  date="20091020">Revista chilena de cirugía v.61 n.5</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0370-410620090004&amp;nrm=iso"
+                  date="20091002">Revista chilena de pediatría v.80 n.4</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0717-922720090002&amp;nrm=iso"
+                  date="20090930">Revista chilena de neuro-psiquiatría v.47 n.2</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0034-988720090007&amp;nrm=iso"
+                  date="20090924">Revista médica de Chile v.137 n.7</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0301-732X20090002&amp;nrm=iso"
+                  date="20090924">Archivos de medicina veterinaria v.41 n.2</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0716-101820090005&amp;nrm=iso"
+                  date="20090923">Revista chilena de infectología v.26 n.4</journal>
+      </order>
+      <order by="Human Sciences" total="7">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0716-581120090001&amp;nrm=iso"
+                  date="20091022">Literatura y lingüística n.20</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0071-171320090001&amp;nrm=iso"
+                  date="20091020">Estudios filológicos n.44</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0049-344920090002&amp;nrm=iso"
+                  date="20091008">Teología y vida v.50 n.3</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-237620090001&amp;nrm=iso"
+                  date="20091007">Universum (Talca) v.24 n.1</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-220120090001&amp;nrm=iso"
+                  date="20091001">Alpha (Osorno) n.28</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-436020090001&amp;nrm=iso"
+                  date="20090923">Revista de filosofía v.65</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-718120090001&amp;nrm=iso"
+                  date="20090922">Aisthesis n.45</journal>
+      </order>
+      <order by="Linguistics, Letters and Arts" total="2">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0716-581120090001&amp;nrm=iso"
+                  date="20091022">Literatura y lingüística n.20</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_issuetoc&amp;pid=0718-718120090001&amp;nrm=iso"
+                  date="20090922">Aisthesis n.45</journal>
+      </order>
+   </journalList>
+   <journalList collection="Colombia" total="12">
+      <order by="Agricultural Sciences" total="0">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=0120-281220090001&amp;nrm=iso"
+                  date="20090827">Acta Agronómica v.58 n.1</journal>
+      </order>
+      <order by="Engineering" total="0">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=0120-623020090002&amp;nrm=iso"
+                  date="20090828">Revista Facultad de Ingeniería Universidad de Antioquia n.48</journal>
+      </order>
+      <order by="Health Sciences" total="0">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=0120-386X20090001&amp;nrm=iso"
+                  date="20090828">Revista Facultad Nacional de Salud Pública v.27 n.1</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=0120-530720090001&amp;nrm=iso"
+                  date="20090828">Investigación y Educación en Enfermería v.27 n.1</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=0121-400420090001&amp;nrm=iso"
+                  date="20090828">Vitae v.16 n.1</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=0121-400420090002&amp;nrm=iso"
+                  date="20090828">Vitae v.16 n.2</journal>
+      </order>
+      <order by="Human Sciences" total="0">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=0120-097620080002&amp;nrm=iso"
+                  date="20090828">Revista Interamericana de Bibliotecología v.31 n.2</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=0120-259620080002&amp;nrm=iso"
+                  date="20090828">Lecturas de Economía n.69</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=1692-815620080002&amp;nrm=iso"
+                  date="20090828">International Law n.13</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=0121-505120090001&amp;nrm=iso"
+                  date="20090827">Innovar v.19 n.33</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=1692-815620090001&amp;nrm=iso"
+                  date="20090827">International Law n.14</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_issuetoc&amp;pid=0123-885X20090001&amp;nrm=iso"
+                  date="20090825">Revista de Estudios Sociales n.32</journal>
+      </order>
+   </journalList>
+   <journalList collection="Cuba" total="13">
+      <order by="Applied Social Sciences" total="2">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=1024-943520090008&amp;nrm=iso"
+                  date="20090909">ACIMED v.20 n.2</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=1024-943520090007&amp;nrm=iso"
+                  date="20090905">ACIMED v.20 n.1</journal>
+      </order>
+      <order by="Health Sciences" total="13">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=1729-519X20090004&amp;nrm=iso"
+                  date="20090922">Revista Habanera de Ciencias Médicas v.8 n.4</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=0138-600X20090003&amp;nrm=iso"
+                  date="20090916">Revista Cubana de Obstetricia y Ginecología v.35 n.3</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=0864-215X20090001&amp;nrm=iso"
+                  date="20090916">Revista Cubana de Ortopedia y Traumatología v.23 n.1</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=1727-812020090002&amp;nrm=iso"
+                  date="20090910">Humanidades Médicas v.9 n.2</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=0034-750720090002&amp;nrm=iso"
+                  date="20090909">Revista Cubana de Estomatología v.46 n.2</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=1024-943520090008&amp;nrm=iso"
+                  date="20090909">ACIMED v.20 n.2</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=0034-753120090003&amp;nrm=iso"
+                  date="20090907">Revista Cubana de Pediatría v.81 n.3</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=0864-030020090002&amp;nrm=iso"
+                  date="20090906">Revista Cubana de Investigaciones Biomédicas v.28 n.2</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=0034-751520090003&amp;nrm=iso"
+                  date="20090905">Revista Cubana de Farmacia v.43 n.3</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=1024-943520090007&amp;nrm=iso"
+                  date="20090905">ACIMED v.20 n.1</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=0138-655720090002&amp;nrm=iso"
+                  date="20090904">Revista Cubana de Medicina Militar v.38 n.2</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=0034-752320090002&amp;nrm=iso"
+                  date="20090903">Revista Cubana de Medicina v.48 n.2</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=0864-346620090003&amp;nrm=iso"
+                  date="20090903">Revista Cubana de Salud Pública v.35 n.3</journal>
+      </order>
+      <order by="Human Sciences" total="1">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_issuetoc&amp;pid=1727-812020090002&amp;nrm=iso"
+                  date="20090910">Humanidades Médicas v.9 n.2</journal>
+      </order>
+   </journalList>
+   <journalList collection="Espanha" total="14">
+      <order by="Health Sciences" total="14">
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=0212-161120090005&amp;nrm=iso"
+                  date="20091029">Nutrición Hospitalaria v.24 n.5</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=0004-061420080010&amp;nrm=iso"
+                  date="20091027">Archivos Españoles de Urología (Ed. impresa) v.61 n.10</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=0210-480620060004&amp;nrm=iso"
+                  date="20091027">Actas Urológicas Españolas v.30 n.4</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=0210-480620060005&amp;nrm=iso"
+                  date="20091027">Actas Urológicas Españolas v.30 n.5</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=1135-572720090004&amp;nrm=iso"
+                  date="20091008">Revista Española de Salud Pública v.83 n.4</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=0465-546X20090001&amp;nrm=iso"
+                  date="20091007">Medicina y Seguridad del Trabajo v.55 n.214</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=0213-128520090005&amp;nrm=iso"
+                  date="20091002">Avances en Odontoestomatología v.25 n.5</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=1139-137520090003&amp;nrm=iso"
+                  date="20090930">Revista de la Sociedad Española de Enfermería Nefrológica v.12 n.3</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=1886-365520090002&amp;nrm=iso"
+                  date="20090930">Pharmacy Practice (Internet) v.7 n.2</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=0365-669120090008&amp;nrm=iso"
+                  date="20090928">Archivos de la Sociedad Española de Oftalmología v.84 n.8</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=0365-669120090007&amp;nrm=iso"
+                  date="20090924">Archivos de la Sociedad Española de Oftalmología v.84 n.7</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=1130-147320090003&amp;nrm=iso"
+                  date="20090924">Neurocirugía v.20 n.3</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=1134-804620090001&amp;nrm=iso"
+                  date="20090923">Revista de la Sociedad Española del Dolor v.16 n.1</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_issuetoc&amp;pid=1134-804620090002&amp;nrm=iso"
+                  date="20090923">Revista de la Sociedad Española del Dolor v.16 n.2</journal>
+      </order>
+   </journalList>
+   <journalList collection="Mexico" total="17">
+      <order by="Applied Social Sciences" total="1">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0188-774220080002&amp;nrm=iso"
+                  date="20090907">Política y cultura n.30</journal>
+      </order>
+      <order by="Health Sciences" total="12">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420080004&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.50 n.4</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420080005&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.50 n.5</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420080006&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.50 n.6</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420080007&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.50 suppl.1</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420080008&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.50 suppl.2</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420080009&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.50 suppl.3</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420080010&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.50 suppl.4</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420090001&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.51 n.1</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420090002&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.51 n.2</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420090003&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.51 n.3</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420090007&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.51 suppl.1</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0036-363420090008&amp;nrm=iso"
+                  date="20090901">Salud Pública de México v.51 suppl.2</journal>
+      </order>
+      <order by="Human Sciences" total="4">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0011-150320060003&amp;nrm=iso"
+                  date="20090907">Crítica (México, D.F.) v.38 n.114</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=1665-857420090001&amp;nrm=iso"
+                  date="20090907">Latinoamérica. Revista de estudios Latinoamericanos n.48</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=0011-150320070003&amp;nrm=iso"
+                  date="20090831">Crítica (México, D.F.) v.39 n.117</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_issuetoc&amp;pid=1870-392520070004&amp;nrm=iso"
+                  date="20090831">Región y sociedad v.19 n.spe</journal>
+      </order>
+   </journalList>
+   <journalList collection="Portugal" total="17">
+      <order by="Agricultural Sciences" total="3">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0254-022320090001&amp;nrm=iso"
+                  date="20091014">Ciência e Técnica Vitivinícola v.24 n.1</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0870-635220090001&amp;nrm=iso"
+                  date="20091007">Silva Lusitana v.17 n.1</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0871-018X20090001&amp;nrm=iso"
+                  date="20090910">Revista de Ciências Agrárias v.32 n.1</journal>
+      </order>
+      <order by="Engineering" total="3">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0870-116420090001&amp;nrm=iso"
+                  date="20091012">Corrosão e Protecção de Materiais v.28 n.1</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0870-116420080004&amp;nrm=iso"
+                  date="20091007">Corrosão e Protecção de Materiais v.27 n.4</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0870-831220090001&amp;nrm=iso"
+                  date="20090917">Ciência &amp; Tecnologia dos Materiais v.21 n.1-2</journal>
+      </order>
+      <order by="Health Sciences" total="3">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0871-341320090001&amp;nrm=iso"
+                  date="20091030">Arquivos de Medicina v.23 n.1</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0873-215920090004&amp;nrm=iso"
+                  date="20091007">Revista Portuguesa de Pneumologia v.15 n.4</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=1645-008620080002&amp;nrm=iso"
+                  date="20091007">Psicologia, Saúde &amp; Doenças v.9 n.2</journal>
+      </order>
+      <order by="Human Sciences" total="1">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=1645-643220080002&amp;nrm=iso"
+                  date="20090916">e-Journal of Portuguese History v.6 n.2</journal>
+      </order>
+      <order by="Social Sciences" total="7">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0873-744420090001&amp;nrm=iso"
+                  date="20091026">Economia Global e Gestão v.14 n.1</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0870-823120090002&amp;nrm=iso"
+                  date="20091007">Análise Psicológica v.27 n.2</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0871-918720080002&amp;nrm=iso"
+                  date="20091007">Revista Portuguesa de Educação v.21 n.2</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=0871-918720090001&amp;nrm=iso"
+                  date="20091002">Revista Portuguesa de Educação v.22 n.1</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=1645-919920090002&amp;nrm=iso"
+                  date="20090929">Relações Internacionais (R:I) n.22</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=1645-446420090001&amp;nrm=iso"
+                  date="20090928">Revista Portuguesa e Brasileira de Gestão v.8 n.1</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_issuetoc&amp;pid=1645-919920090001&amp;nrm=iso"
+                  date="20090918">Relações Internacionais (R:I) n.21</journal>
+      </order>
+   </journalList>
+   <journalList collection="Venezuela" total="29">
+      <order by="Agricultural Sciences" total="10">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0378-184420090007&amp;nrm=iso"
+                  date="20091014">Interciencia v.34 n.7</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1316-336120080003&amp;nrm=iso"
+                  date="20091002">Bioagro v.20 n.3</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0258-657620090001&amp;nrm=iso"
+                  date="20090925">Revista de la Facultad de Ciencias Veterinarias v.50 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-225920090002&amp;nrm=iso"
+                  date="20090923">Revista Científica v.19 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1316-035420090028&amp;nrm=iso"
+                  date="20090922">Agroalimentaria v.15 n.28</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0002-192X20080004&amp;nrm=iso"
+                  date="20090918">Agronomía Tropical v.58 n.4</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0002-192X20090001&amp;nrm=iso"
+                  date="20090918">Agronomía Tropical v.59 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0002-192X20080001&amp;nrm=iso"
+                  date="20090917">Agronomía Tropical v.58 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0002-192X20080002&amp;nrm=iso"
+                  date="20090917">Agronomía Tropical v.58 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0002-192X20080003&amp;nrm=iso"
+                  date="20090917">Agronomía Tropical v.58 n.3</journal>
+      </order>
+      <order by="Biological Sciences" total="12">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0378-184420090007&amp;nrm=iso"
+                  date="20091014">Interciencia v.34 n.7</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1690-464820080002&amp;nrm=iso"
+                  date="20091007">Boletín de Malariología y Salud Ambiental v.48 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1315-255620090001&amp;nrm=iso"
+                  date="20091002">Revista de la Sociedad Venezolana de Microbiología v.29 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0252-827420090001&amp;nrm=iso"
+                  date="20090925">Ernstia v.19 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0258-657620090001&amp;nrm=iso"
+                  date="20090925">Revista de la Facultad de Ciencias Veterinarias v.50 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1315-013820080002&amp;nrm=iso"
+                  date="20090925">Salud de los Trabajadores v.16 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-225920090002&amp;nrm=iso"
+                  date="20090923">Revista Científica v.19 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0002-192X20080004&amp;nrm=iso"
+                  date="20090918">Agronomía Tropical v.58 n.4</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0002-192X20090001&amp;nrm=iso"
+                  date="20090918">Agronomía Tropical v.59 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0002-192X20080001&amp;nrm=iso"
+                  date="20090917">Agronomía Tropical v.58 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0002-192X20080002&amp;nrm=iso"
+                  date="20090917">Agronomía Tropical v.58 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0002-192X20080003&amp;nrm=iso"
+                  date="20090917">Agronomía Tropical v.58 n.3</journal>
+      </order>
+      <order by="Chemistry" total="2">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0378-184420090007&amp;nrm=iso"
+                  date="20091014">Interciencia v.34 n.7</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-225920090002&amp;nrm=iso"
+                  date="20090923">Revista Científica v.19 n.2</journal>
+      </order>
+      <order by="Engineering" total="7">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0378-184420090007&amp;nrm=iso"
+                  date="20091014">Interciencia v.34 n.7</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1316-482120080048&amp;nrm=iso"
+                  date="20091009">Universidad Ciencia y Tecnologia  v.12 n.48</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-406520090001&amp;nrm=iso"
+                  date="20091008">Revista de la Facultad de Ingeniería Universidad Central de Venezuela v.24 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1690-464820080002&amp;nrm=iso"
+                  date="20091007">Boletín de Malariología y Salud Ambiental v.48 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0376-723X20090001&amp;nrm=iso"
+                  date="20091006">Boletín Técnico  v.47 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1315-013820080002&amp;nrm=iso"
+                  date="20090925">Salud de los Trabajadores v.16 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1316-482120080049&amp;nrm=iso"
+                  date="20090923">Universidad Ciencia y Tecnologia  v.12 n.49</journal>
+      </order>
+      <order by="Geosciences" total="3">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1316-482120080048&amp;nrm=iso"
+                  date="20091009">Universidad Ciencia y Tecnologia  v.12 n.48</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-225920090002&amp;nrm=iso"
+                  date="20090923">Revista Científica v.19 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1316-482120080049&amp;nrm=iso"
+                  date="20090923">Universidad Ciencia y Tecnologia  v.12 n.49</journal>
+      </order>
+      <order by="Health Sciences" total="13">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-058220060003&amp;nrm=iso"
+                  date="20091020">Revista Venezolana de Oncología v.18 n.3</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-058220060004&amp;nrm=iso"
+                  date="20091020">Revista Venezolana de Oncología v.18 n.4</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-046920090001&amp;nrm=iso"
+                  date="20091017">Revista de la Facultad de Medicina v.32 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-058220060001&amp;nrm=iso"
+                  date="20091014">Revista Venezolana de Oncología v.18 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1316-482120080048&amp;nrm=iso"
+                  date="20091009">Universidad Ciencia y Tecnologia  v.12 n.48</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-058220090001&amp;nrm=iso"
+                  date="20091007">Revista Venezolana de Oncología v.21 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1690-464820080002&amp;nrm=iso"
+                  date="20091007">Boletín de Malariología y Salud Ambiental v.48 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0075-522220090001&amp;nrm=iso"
+                  date="20091003">Kasmera v.37 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1315-255620090001&amp;nrm=iso"
+                  date="20091002">Revista de la Sociedad Venezolana de Microbiología v.29 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0258-657620090001&amp;nrm=iso"
+                  date="20090925">Revista de la Facultad de Ciencias Veterinarias v.50 n.1</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1315-013820080002&amp;nrm=iso"
+                  date="20090925">Salud de los Trabajadores v.16 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-225920090002&amp;nrm=iso"
+                  date="20090923">Revista Científica v.19 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1316-482120080049&amp;nrm=iso"
+                  date="20090923">Universidad Ciencia y Tecnologia  v.12 n.49</journal>
+      </order>
+      <order by="Human Sciences" total="5">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-970920090031&amp;nrm=iso"
+                  date="20091008">Boletin de lingüística v.21 n.31</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-970920070028&amp;nrm=iso"
+                  date="20091005">Boletin de lingüística v.19 n.28</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1315-998420090046&amp;nrm=iso"
+                  date="20091005">Revista Venezolana de Gerencia v.14 n.46</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1315-859720090002&amp;nrm=iso"
+                  date="20090929">Gaceta Laboral v.15 n.2</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=1316-370120090032&amp;nrm=iso"
+                  date="20090908">Revista Venezolana de Estudios de la Mujer v.14 n.32</journal>
+      </order>
+      <order by="Mathematics" total="1">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_issuetoc&amp;pid=0798-225920090002&amp;nrm=iso"
+                  date="20090923">Revista Científica v.19 n.2</journal>
+      </order>
+   </journalList>
+   <journalList collection="Saude Publica" total="25">
+      <order by="Health Sciences" total="25">
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0042-968620090010&amp;nrm=iso"
+                  date="20091022">Bulletin of the World Health Organization v.87 n.10</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0034-891020090005&amp;nrm=iso"
+                  date="20091020">Revista de Saúde Pública v.43 n.5</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0034-891020090050&amp;nrm=iso"
+                  date="20091020">Revista de Saúde Pública n.ahead</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0034-891020090106&amp;nrm=iso"
+                  date="20091020">Revista de Saúde Pública v.43 n.5</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0102-311X20090010&amp;nrm=iso"
+                  date="20091019">Cadernos de Saúde Pública v.25 n.10</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=1413-812320090106&amp;nrm=iso"
+                  date="20091019">Ciência &amp; Saúde Coletiva v.14 n.5</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=1413-812320090005&amp;nrm=iso"
+                  date="20091015">Ciência &amp; Saúde Coletiva v.14 n.5</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=1020-498920090009&amp;nrm=iso"
+                  date="20091013">Revista Panamericana de Salud Pública v.26 n.3</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=1413-812320090105&amp;nrm=iso"
+                  date="20091008">Ciência &amp; Saúde Coletiva v.14 n.4</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=1413-812320090109&amp;nrm=iso"
+                  date="20091008">Ciência &amp; Saúde Coletiva v.14 suppl.1</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=1413-812320090104&amp;nrm=iso"
+                  date="20091007">Ciência &amp; Saúde Coletiva v.14 n.3</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0042-968620090106&amp;nrm=iso"
+                  date="20091006">Bulletin of the World Health Organization v.87 n.7</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0042-968620090107&amp;nrm=iso"
+                  date="20091006">Bulletin of the World Health Organization v.87 n.8</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0042-968620090108&amp;nrm=iso"
+                  date="20091006">Bulletin of the World Health Organization v.87 n.9</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0042-968620090109&amp;nrm=iso"
+                  date="20091006">Bulletin of the World Health Organization v.87 n.10</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=1020-498920090008&amp;nrm=iso"
+                  date="20091002">Revista Panamericana de Salud Pública v.26 n.2</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0034-891020090101&amp;nrm=iso"
+                  date="20090928">Revista de Saúde Pública n.ahead</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0042-968620090009&amp;nrm=iso"
+                  date="20090923">Bulletin of the World Health Organization v.87 n.9</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0864-346620090003&amp;nrm=iso"
+                  date="20090915">Revista Cubana de Salud Pública v.35 n.3</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=1413-812320090008&amp;nrm=iso"
+                  date="20090915">Ciência &amp; Saúde Coletiva v.14 suppl.1</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=1415-790X20090003&amp;nrm=iso"
+                  date="20090915">Revista Brasileira de Epidemiologia v.12 n.3</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0864-346620090002&amp;nrm=iso"
+                  date="20090908">Revista Cubana de Salud Pública v.35 n.2</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0102-311X20090009&amp;nrm=iso"
+                  date="20090903">Cadernos de Saúde Pública v.25 n.9</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=0864-346620090001&amp;nrm=iso"
+                  date="20090903">Revista Cubana de Salud Pública v.35 n.1</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_issuetoc&amp;pid=1020-498920090007&amp;nrm=iso"
+                  date="20090831">Revista Panamericana de Salud Pública v.26 n.1</journal>
+      </order>
+   </journalList>
+</secondLevelForLastIssuesBySubject>

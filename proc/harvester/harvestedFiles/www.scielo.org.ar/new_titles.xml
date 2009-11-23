@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Argentina" uri="http://www.scielo.org.ar" flagName="AR">
+<wxis-modules IsisScript="listNewTitles.xis" version="0.2">
+<record>
+<title>Anuario de Investigaciones - Facultad de Psicología. Universidad de Buenos Aires</title>
+<processDate>20070702</processDate>
+<issn>1851-1686</issn>
+<publisher>Universidad de Buenos Aires. Facultad de Psicología</publisher>
+<subject>Health Sciences</subject>
+<subject>Social Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Avá (Posadas)</title>
+<processDate>20070702</processDate>
+<issn>1851-1694</issn>
+<publisher>Universidad Nacional de Misiones. Facultad de Humanidades y Ciencias Sociales. Secretaría de Investigación. Programa de Posgrado en Antropología Social.</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>BAG. Journal of Basic and Applied Genetics</title>
+<processDate>20070702</processDate>
+<issn>1851-1708</issn>
+<publisher>Sociedad Argentina de Genética</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Ciencia, Docencia y Tecnología</title>
+<processDate>20070702</processDate>
+<issn>1851-1716</issn>
+<publisher>Universidad Nacional de Entre Ríos</publisher>
+<subject>Human Sciences</subject>
+<subject>Social Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Circe de Clásicos y Modernos</title>
+<processDate>20070702</processDate>
+<issn>1851-1724</issn>
+<publisher>Instituto de Estudios Clásicos. Facultad de Ciencias Humanas. Universidad Nacional de La Pampa</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Estudios y Perspectivas en Turismo</title>
+<processDate>20070702</processDate>
+<issn>1851-1732</issn>
+<publisher>Centro de Investigaciones y Estudios Turísticos</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Información, Cultura y Sociedad</title>
+<processDate>20070702</processDate>
+<issn>1851-1740</issn>
+<publisher>Instituto de Investigaciones Bibliotecológicas. Facultad de Filosofía y Letras. Universidad de Buenos Aires</publisher>
+<subject>Human Sciences</subject>
+<subject>Social Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista de Filosofía y Teoría Política</title>
+<processDate>20070702</processDate>
+<issn>1851-1759</issn>
+<publisher>Departamento de Filosofía, Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La Plata</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>CTS. Ciencia, tecnología y sociedad</title>
+<processDate>20070627</processDate>
+<issn>1850-0013</issn>
+<publisher>Redes. Centro de Estudios sobre Ciencia, Desarrollo y Educación Superior</publisher>
+<subject>Social Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Serie Correlación Geológica</title>
+<processDate>20070627</processDate>
+<issn>1666-9479</issn>
+<publisher>Instituto Superior de Correlación Geológica (INSUGEO-CONICET)</publisher>
+<subject>Geosciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista de Historia del Derecho</title>
+<processDate>20070416</processDate>
+<issn>1851-0337</issn>
+<publisher>Instituto de Investigaciones de Historia del Derecho</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Andes (Salta)</title>
+<processDate>20060922</processDate>
+<issn>1668-8090</issn>
+<publisher>Universidad Nacional de Salta. Facultad de Humanidades. Centro Promocional de Investigaciones en Historia y Antropología &quot;Dr. Guillermo Madrazo&quot; (CEPIHA)</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Ecología Austral</title>
+<processDate>20060922</processDate>
+<issn>1667-782X</issn>
+<publisher>Asociación Argentina de Ecología</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Intersecciones en Antropología</title>
+<processDate>20060922</processDate>
+<issn>1850-373X</issn>
+<publisher>Universidad Nacional del Centro de la Provincia de Buenos Aires. Facultad de Ciencias Sociales</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Meteorológica</title>
+<processDate>20060922</processDate>
+<issn>0325-187X</issn>
+<publisher>Centro Argentino de Meteorólogos</publisher>
+<subject>Geosciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista - Escuela de Historia</title>
+<processDate>20060922</processDate>
+<issn>1669-9041</issn>
+<publisher>Universidad Nacional de Salta. Facultad de Humanidades. Escuela de Historia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista Argentina de Cardiología</title>
+<processDate>20060922</processDate>
+<issn>1850-3748</issn>
+<publisher>Sociedad Argentina de Cardiología</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Argentina de Sociología</title>
+<processDate>20060922</processDate>
+<issn>1669-3248</issn>
+<publisher>Consejo de Profesionales en Sociología (CPS)</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Tópicos (Santa Fe)</title>
+<processDate>20060623</processDate>
+<issn>1666-485X</issn>
+<publisher>Asociación Revista de Filosofía de Santa Fe</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cuadernos de Herpetología</title>
+<processDate>20060614</processDate>
+<issn>0326-551X</issn>
+<publisher>Asociación Herpetológica Argentina</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Archivos Argentinos de Pediatría</title>
+<processDate>20060612</processDate>
+<issn>0325-0075</issn>
+<publisher>Sociedad Argentina de Pediatría</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Boletín de la Sociedad Argentina de Botánica</title>
+<processDate>20060612</processDate>
+<issn>1851-2372</issn>
+<publisher>Sociedad Argentina de Botánica</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Darwiniana</title>
+<processDate>20060612</processDate>
+<issn>0011-6793</issn>
+<publisher>Instituto de Botánica &quot;Darwinion&quot; (IBODA-CONICET)</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>El Hornero (Buenos Aires)</title>
+<processDate>20060612</processDate>
+<issn>0073-3407</issn>
+<publisher>Aves Argentinas/Asociación Ornitológica del Plata</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Kurtziana</title>
+<processDate>20060612</processDate>
+<issn>0075-7314</issn>
+<publisher>Universidad Nacional de Córdoba. Instituto Multidisciplinario de Biología Vegetal (IMBIV-CONICET). Museo Botánico</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Latin American Journal Sedimentology and Basin Analysis</title>
+<processDate>20060612</processDate>
+<issn>1669-7316</issn>
+<publisher>Asociación Argentina de Sedimentología</publisher>
+<subject>Geosciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Synthesis (La Plata)</title>
+<processDate>20060612</processDate>
+<issn>0328-1205</issn>
+<publisher>Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educación. Centro de Estudios de Lenguas Clásicas. Área Filología Griega</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Boletín del Instituto de Historia Argentina y Americana Dr. Emilio Ravignani</title>
+<processDate>20051104</processDate>
+<issn>0524-9767</issn>
+<publisher>Universidad de Buenos Aires. Facultad de Filosofía y Letras. Instituto de Historia Argentina y Americana &quot;Dr. Emilio Ravignani&quot; y EUDEBA</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cuadernos de Antropología Social</title>
+<processDate>20051104</processDate>
+<issn>0327-3776</issn>
+<publisher>Universidad de Buenos Aires. Facultad de Filosofía y Letras. Instituto de Ciencias Antropológicas. Sección de Antropología Social</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Interdisciplinaria</title>
+<processDate>20051104</processDate>
+<issn>0325-8203</issn>
+<publisher>Centro Interamericano de Investigaciones Psicológicas y Ciencias Afines (CIIPCA)</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cuadernos - Revista de la Facultad de Humanidades y Ciencias Sociales (UNJu)</title>
+<processDate>20051031</processDate>
+<issn>0327-1471</issn>
+<publisher>Universidad Nacional de Jujuy. Facultad de Humanidades y Ciencias Sociales</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>La Aljaba (Luján)</title>
+<processDate>20051031</processDate>
+<issn>1669-5704</issn>
+<publisher>Área Interdisciplinaria de Estudios de la Mujer (UNLu); Centro Interdisciplinario de Estudios de Género (UNComa); Instituto Interdisciplinario de Estudios de la Mujer (UNLPam)</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cuadernos de Historia de España</title>
+<processDate>20051020</processDate>
+<issn>0325-1195</issn>
+<publisher>Universidad de Buenos Aires. Facultad de Filosofía y Letras. Instituto de HIstoria de España</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ciencia del Suelo</title>
+<processDate>20050909</processDate>
+<issn>1850-2067</issn>
+<publisher>Asociación Argentina de la Ciencia del Suelo</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Mastozoología Neotropical</title>
+<processDate>20050909</processDate>
+<issn>0327-9383</issn>
+<publisher>Sociedad Argentina para el Estudio de los Mamíferos</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Temas Medievales</title>
+<processDate>20050805</processDate>
+<issn>0327-5094</issn>
+<publisher>Departamento de Investigaciones Medievales del Instituto Multidisciplinario de Historia y Ciencias Humanas (DIMED-IMHICIHU-CONICET)</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Mundo agrario</title>
+<processDate>20050727</processDate>
+<issn>1515-5994</issn>
+<publisher>Centro de Estudios Histórico-Rurales</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Acta Bioquímica Clínica Latinoamericana</title>
+<processDate>20050713</processDate>
+<issn>0325-2957</issn>
+<publisher>Federación Bioquímica de la Provincia de Buenos Aires</publisher>
+<subject>Biological Sciences</subject>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Phyton</title>
+<processDate>20050713</processDate>
+<issn>0031-9457</issn>
+<publisher>Fundación Rómulo Raggio</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Publicación Especial de la Asociación Paleontológica Argentina</title>
+<processDate>20050713</processDate>
+<issn>0328-347X</issn>
+<publisher>Asociación Paleontológica Argentina</publisher>
+<subject>Biological Sciences</subject>
+<subject>Geosciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista de la Facultad de Agronomía (La Plata)</title>
+<processDate>20050713</processDate>
+<issn>0041-8676</issn>
+<publisher>Facultad de Ciencias Agrarias y Forestales. Universidad Nacional de La Plata</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista de la Sociedad Entomológica Argentina</title>
+<processDate>20050713</processDate>
+<issn>0373-5680</issn>
+<publisher>Sociedad Entomológica Argentina</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de la Unión Matemática Argentina</title>
+<processDate>20050628</processDate>
+<issn>0041-6932</issn>
+<publisher>Unión Matemática Argentina</publisher>
+<subject>Mathematics</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>The Journal of the Argentine Chemical Society</title>
+<processDate>20050418</processDate>
+<issn>0365-0375</issn>
+<publisher>Asociación Química Argentina</publisher>
+<subject>Chemistry</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista Argentina de Microbiología</title>
+<processDate>20050302</processDate>
+<issn>0325-7541</issn>
+<publisher>Asociación Argentina de Microbiología</publisher>
+<subject>Chemistry</subject>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Medicina [Buenos Aires]</title>
+<processDate>20040309</processDate>
+<issn>0025-7680</issn>
+<publisher>Fundación Revista Medicina</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Biocell</title>
+<processDate>20030508</processDate>
+<issn>0327-9545</issn>
+<publisher>Instituto de Histología y Embriología &quot;Dr. Mario H. Burgos&quot; (IHEM-CONICET)</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de la Asociación Geológica Argentina</title>
+<processDate>20030423</processDate>
+<issn>0004-4822</issn>
+<publisher>Asociación Geológica Argentina</publisher>
+<subject>Geosciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Latin American Applied Research</title>
+<processDate>20030408</processDate>
+<issn>0327-0793</issn>
+<publisher>Universidad Nacional del Sur y Consejo Nacional de Investigaciones Científicas y Técnicas</publisher>
+<subject>Chemistry</subject>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ameghiniana</title>
+<processDate>20030404</processDate>
+<issn>0002-7014</issn>
+<publisher>Asociación Paleontológica Argentina</publisher>
+<subject>Biological Sciences</subject>
+<subject>Geosciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><list mfn="1">
+   <server>
+      <occ date="20070903" time="151004"></occ>
+   </server>
+   <database>
+      <occ>/home/scielo/www/bases/title/title</occ>
+   </database>
+   <from/>
+   <to/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+   <Isis_Current>
+      <occ>50</occ>
+   </Isis_Current>
+   <Isis_Total>
+      <occ>50</occ>
+   </Isis_Total>
+   <previous/>
+   <next/>
+</list>
+</wxis-modules></collection></SciELOWebService>

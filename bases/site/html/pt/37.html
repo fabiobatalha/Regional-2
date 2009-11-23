@@ -1,0 +1,36 @@
+<div id="decs"><script language="JavaScript" src="<?=$def['DIRECTORY']?>js/yui/yahoo.js"/><script language="JavaScript" src="<?=$def['DIRECTORY']?>js/yui/dom.js"/><script language="JavaScript" src="<?=$def['DIRECTORY']?>js/yui/event.js"/><script language="JavaScript" src="<?=$def['DIRECTORY']?>js/yui/connection.js"/><script language="JavaScript" src="<?=$def['DIRECTORY']?>js/yui/autocomplete.js"/><h3><span><a href="../php/level.php?lang=pt&amp;component=37">decs</a></span></h3><div class="label"></div><form action="../php/decsws.php" method="get" name="decswsForm"><input type="hidden" name="lang" value="pt"/><input type="hidden" name="tree_id" value=""/></form><div id="decsAutocomplete"><input id="terminput" class="textinput"/><span id="loading"/><div id="container"/></div><script> 
+			 	
+				var serviceUrl = "../php/decsAutoCompleteProxy.php";
+				var serviceSchema = ["item","term","id"];
+				var decsDataSource = new YAHOO.widget.DS_XHR(serviceUrl, serviceSchema); 
+				decsDataSource.responseType = decsDataSource.TYPE_XML;
+			
+				var decsAutoComp = new YAHOO.widget.AutoComplete('terminput','container', decsDataSource); 	
+				decsAutoComp.forceSelection = true;
+				decsAutoComp.allowBrowserAutocomplete = false;
+				decsAutoComp.minQueryLength = 2;
+				decsAutoComp.maxResultsDisplayed = 40;	
+	
+				decsAutoComp.itemSelectEvent.subscribe(onItemSelect);
+				
+				decsAutoComp.dataRequestEvent.subscribe(showLoadingImage);	
+				decsAutoComp.dataReturnEvent.subscribe(hideLoadingImage);	
+				
+				var loading = document.getElementById("loading");
+				
+				function onItemSelect(sType, aArgs) {
+					var oItem = aArgs[1];
+					var tree_id = oItem._oResultData[1];
+					document.decswsForm.tree_id.value = tree_id;
+					document.decswsForm.submit();
+				}
+				
+				function showLoadingImage() {
+					loading.innerHTML = "&lt;img src=\"../image/common/progress.gif\" border=\"0\"/&gt;";					
+				}
+				
+				function hideLoadingImage() {
+					loading.innerHTML = "";					
+				}
+				
+			</script><div class="label"></div><ul><li><a href="../php/decsws.php?lang=pt&amp;tree_id=A">ANATOMIA</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=I">ANTROPOLOGIA, EDUCACAO, SOCIOLOGIA E FENOMENOS SOCIAIS</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=N">ASSISTENCIA A SAUDE</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=V">CARACTERÍSTICAS DE PUBLICAÇÕES</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=L">CIENCIA DA INFORMACAO</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=SH">CIENCIA E SAUDE</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=G">CIENCIAS BIOLOGICAS</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=H">CIENCIAS FISICAS</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=D">COMPOSTOS QUIMICOS E DROGAS</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=C">DOENCAS</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=HP">HOMEOPATIA</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=K">HUMANIDADES</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=Z">LOCALIZACOES GEOGRAFICAS</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=B">ORGANISMOS</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=M">PESSOAS</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=F">PSICOLOGIA E PSIQUIATRIA</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=SP">SAUDE PUBLICA</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=E">TECNICAS E EQUIPAMENTOS</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=J">TECNOLOGIA E ALIMENTOS E BEBIDAS</a></li><li><a href="../php/decsws.php?lang=pt&amp;tree_id=VS">VIGILANCIA SANITARIA</a></li></ul></div>

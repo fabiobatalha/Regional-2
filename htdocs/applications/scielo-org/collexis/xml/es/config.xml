@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+	<collection-list>
+		<collection>
+			<label>SciELO</label>
+			<name>SCI_Overall</name>
+		</collection>					
+	</collection-list>
+	
+	<thesaurus-list>
+		<thesaurus>
+			<label>español</label>
+			<name>decs2005_es</name>
+		</thesaurus>
+		<thesaurus>
+			<label>portugués</label>
+			<name>decs2005_pt</name>
+		</thesaurus>
+		<thesaurus>
+			<label>inglés</label>
+			<name>decs2005_en</name>
+		</thesaurus>
+		
+		<additional-thesaurus>
+			<name>freetext</name>
+		</additional-thesaurus>
+	</thesaurus-list>
+</config>
+<!--
+  <restrict name="collection" label="Fonte" type="select" size="1">
+			<option>
+				<label>BVS</label>
+				<value>BVS Overall</value>
+			</option>
+	</restrict>
+
+	  <restrict name="collection" type="hidden">
+			<value>SciELOAnsi</value>
+	  </restrict>
+	
+	  <filter name="__vectorlength__" condition="more" label="Documentos com pelo menos"	 type="select" size="3">
+		<option>
+			<label></label>
+			<value></value>
+		</option>
+		<option>
+			<label>5 conceitos</label>
+			<value>5</value>
+		</option>
+		<option>
+			<label>10 conceitos</label>
+			<value>10</value>
+		</option>	
+		<option>
+			<label>15 conceitos</label>
+			<value>15</value>
+		</option>	
+	  </filter>
+	
+	  <filter name="issn" condition="equal" label="Revista" type="select" size="3">
+		<option>
+			<label></label>
+			<value></value>
+		</option>
+		<option>
+			<label>Brazilian journal of medical and biological research</label>
+			<value>0100-879X</value>
+		</option>
+	  </filter>
+	  -->

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Chile" uri="http://www.scielo.cl" flagName="CL" homologado="true">
+<wxis-modules IsisScript="listNewIssues.xis" version="0.1">
+<record>
+<subject>Social Sciences</subject>
+<publisher>Pontificia Universidad Católica de Chile. Instituto de Ciencia Política</publisher>
+<title>Revista de ciencia política (Santiago)</title>
+<issn>0718-090X</issn>
+<volume>27</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070913</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad Austral de Chile. Facultad de Filosofía y Humanidades</publisher>
+<title>Estudios pedagógicos (Valdivia)</title>
+<issn>0718-0705</issn>
+<volume>33</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070912</updateDate>
+</record>
+<record>
+<subject>Social Sciences</subject>
+<publisher>Pontificia Universidad Católica de Chile. Instituto de Geografía</publisher>
+<title>Revista de geografía Norte Grande</title>
+<issn>0718-3402</issn>
+<volume>33</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070912</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Otorrinolaringología, Medicina y Cirugía de Cabeza y Cuello</publisher>
+<title>Revista de otorrinolaringología y cirugía de cabeza y cuello</title>
+<issn>0718-4816</issn>
+<volume>66</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070912</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Otorrinolaringología, Medicina y Cirugía de Cabeza y Cuello</publisher>
+<title>Revista de otorrinolaringología y cirugía de cabeza y cuello</title>
+<issn>0718-4816</issn>
+<volume>66</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070912</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Médica de Santiago</publisher>
+<title>Revista médica de Chile</title>
+<issn>0034-9887</issn>
+<volume>135</volume>
+<numero>7</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070905</updateDate>
+</record>
+<record>
+<subject>Earth Sciences</subject>
+<publisher>Servicio Nacional de Geología y Minería (SERNAGEOMIN)</publisher>
+<title>Revista geológica de Chile</title>
+<issn>0716-0208</issn>
+<volume>34</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070905</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Pontificia Universidad Católica de Valparaíso&lt;br&gt; Instituto de Literatura y Ciencias del Lenguaje</publisher>
+<title>Revista signos</title>
+<issn>0718-0934</issn>
+<volume>40</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070905</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Otorrinolaringología, Medicina y Cirugía de Cabeza y Cuello</publisher>
+<title>Revista de otorrinolaringología y cirugía de cabeza y cuello</title>
+<issn>0718-4816</issn>
+<volume>66</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070904</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad de Cirujanos de Chile</publisher>
+<title>Revista chilena de cirugía</title>
+<issn>0718-4026</issn>
+<volume>59</volume>
+<numero>4</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070831</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>44</volume>
+<numero>2</numero>
+<pubYear>1973</pubYear>
+<updateDate>20070830</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>44</volume>
+<numero>6</numero>
+<pubYear>1973</pubYear>
+<updateDate>20070830</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>45</volume>
+<numero>3</numero>
+<pubYear>1974</pubYear>
+<updateDate>20070830</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>45</volume>
+<numero>4</numero>
+<pubYear>1974</pubYear>
+<updateDate>20070830</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>45</volume>
+<numero>5</numero>
+<pubYear>1974</pubYear>
+<updateDate>20070830</updateDate>
+</record>
+<record>
+<subject>Architecture</subject>
+<publisher>Ediciones ARQ</publisher>
+<title>ARQ (Santiago)</title>
+<issn>0717-6996</issn>
+<volume>45</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070830</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Anatomía</publisher>
+<title>International Journal of Morphology</title>
+<issn>0717-9502</issn>
+<volume>25</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070830</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>44</volume>
+<numero>3</numero>
+<pubYear>1973</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>44</volume>
+<numero>4</numero>
+<pubYear>1973</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>44</volume>
+<numero>5</numero>
+<pubYear>1973</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>45</volume>
+<numero>1</numero>
+<pubYear>1974</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>45</volume>
+<numero>2</numero>
+<pubYear>1974</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>45</volume>
+<numero>6</numero>
+<pubYear>1974</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedad de Biología de Chile</publisher>
+<title>Revista chilena de historia natural</title>
+<issn>0716-078X</issn>
+<volume>80</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070828</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Pontificia Universidad Católica de Chile. Facultad de Agronomía e Ingeniería Forestal</publisher>
+<title>Ciencia e investigación agraria</title>
+<issn>0718-1620</issn>
+<volume>34</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070823</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad de Neurología, Psiquiatría y Neurocirugía</publisher>
+<title>Revista chilena de neuro-psiquiatría</title>
+<issn>0717-9227</issn>
+<volume>45</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070821</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Publimpacto</publisher>
+<title>Revista chilena de radiología</title>
+<issn>0717-9308</issn>
+<volume>13</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070821</updateDate>
+</record>
+<record>
+<subject>Engineering</subject>
+<publisher>Centro de Información Tecnológica</publisher>
+<title>Información tecnológica</title>
+<issn>0718-0764</issn>
+<volume>18</volume>
+<numero>4</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070821</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Universidad del Bío-Bío</publisher>
+<title>Maderas. Ciencia y tecnología</title>
+<issn>0718-221X</issn>
+<volume>9</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070821</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad de Los Lagos. Departamento de Humanidades y Arte</publisher>
+<title>Alpha (Osorno)</title>
+<issn>0718-2201</issn>
+<volume>9</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070820</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Nutrición, Bromatología y Toxicología</publisher>
+<title>Revista chilena de nutrición</title>
+<issn>0717-7518</issn>
+<volume>34</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070816</updateDate>
+</record>
+<record>
+<subject>Social Sciences</subject>
+<publisher>Universidad Católica del Norte. Instituto de Investigaciones Arqueológicas y Museo R. P. Gustavo Le Paige</publisher>
+<title>Estudios atacameños</title>
+<issn>0718-1043</issn>
+<volume>34</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070816</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Pontificia Universidad Católica de Valparaíso and CONICYT</publisher>
+<title>Electronic Journal of Biotechnology</title>
+<issn>0717-3458</issn>
+<volume>10</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070814</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Enfermedades Respiratorias</publisher>
+<title>Revista chilena de enfermedades respiratorias</title>
+<issn>0717-7348</issn>
+<volume>23</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070813</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Médica de Santiago</publisher>
+<title>Revista médica de Chile</title>
+<issn>0034-9887</issn>
+<volume>135</volume>
+<numero>6</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070810</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedad Chilena de Parasitología</publisher>
+<title>Parasitología latinoamericana</title>
+<issn>0717-7712</issn>
+<volume>62</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070809</updateDate>
+</record>
+<record>
+<subject>Social Sciences</subject>
+<publisher>Pontificia Universidad Católica de Chile. Instituto de Ciencia Política</publisher>
+<title>Revista de ciencia política (Santiago)</title>
+<issn>0718-090X</issn>
+<volume>27</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070809</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Infectología</publisher>
+<title>Revista chilena de infectología</title>
+<issn>0716-1018</issn>
+<volume>24</volume>
+<numero>4</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070807</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Pediatría</publisher>
+<title>Revista chilena de pediatría</title>
+<issn>0370-4106</issn>
+<volume>78</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070803</updateDate>
+</record>
+<record>
+<subject>Mathematics</subject>
+<publisher>Universidad Católica del Norte, Departamento de Matemáticas</publisher>
+<title>Proyecciones (Antofagasta)</title>
+<issn>0716-0917</issn>
+<volume>26</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070801</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Sociedad Chilena de la Ciencia del Suelo</publisher>
+<title>Revista de la ciencia del suelo y nutrición vegetal</title>
+<issn>0718-2791</issn>
+<volume>7</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070731</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Universidad de Concepción. Facultad de Medicina. Departamento de Enfermería</publisher>
+<title>Ciencia y enfermería</title>
+<issn>0717-9553</issn>
+<volume>13</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070727</updateDate>
+</record>
+<record>
+<subject>Biological Sciences</subject>
+<publisher>Sociedad de Biología de Chile</publisher>
+<title>Biological Research</title>
+<issn>0716-9760</issn>
+<volume>40</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070726</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Anatomía</publisher>
+<title>International Journal of Morphology</title>
+<issn>0717-9502</issn>
+<volume>25</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070726</updateDate>
+</record>
+<record>
+<subject>Oceanography</subject>
+<publisher>Universidad de Valparaíso. Facultad de Ciencias del Mar</publisher>
+<title>Revista de biología marina y oceanografía</title>
+<issn>0718-1957</issn>
+<volume>42</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070725</updateDate>
+</record>
+<record>
+<subject>Social Sciences</subject>
+<publisher>Instituto de Historia&lt;br&gt; Pontificia Universidad Católica de Chile</publisher>
+<title>Historia (Santiago)</title>
+<issn>0717-7194</issn>
+<volume>40</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070724</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Chilena de Obstetricia y Ginecología</publisher>
+<title>Revista chilena de obstetricia y ginecología</title>
+<issn>0717-7526</issn>
+<volume>72</volume>
+<numero>3</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070724</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad de Concepción. Facultad de Humanidades y Arte</publisher>
+<title>RLA. Revista de lingüística teórica y aplicada</title>
+<issn>0718-4883</issn>
+<volume>45</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070724</updateDate>
+</record>
+<record>
+<subject>Agricultural Sciences</subject>
+<publisher>Instituto de Investigaciones Agropecuarias, INIA</publisher>
+<title>Agricultura Técnica</title>
+<issn>0365-2807</issn>
+<volume>67</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070719</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Universidad de Chile, Facultad de Artes</publisher>
+<title>Revista musical chilena</title>
+<issn>0716-2790</issn>
+<volume>61</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070719</updateDate>
+</record>
+<index mfn="1">
+   <server>
+      <occ date="20070919" time="122141"></occ>
+   </server>
+   <database>
+      <occ>/home/scielo/bases/issue/issue</occ>
+   </database>
+   <from/>
+   <to/>
+   <posttag/>
+   <posting/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+</index>
+</wxis-modules></collection></SciELOWebService>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<texts>
+	<labels available="">
+    <text>
+      <find>TITLE</find>
+      <replace>Búsqueda</replace>
+    </text>
+	<text>
+      <find>BVS_TITLE</find>
+      <replace>Biblioteca Virtual en Salud</replace>	
+	</text>	
+    <text>
+      <find>HOME</find>
+      <replace>Búsqueda por relevancia</replace>
+    </text>
+    <text>
+      <find>FALE_CONOSCO</find>
+      <replace>¡Contáctenos!</replace>
+	  <href>mailto:collexis.bvs@bireme.br</href>
+    </text>
+    <text>
+      <find>PESQUISAR_POR</find>
+      <replace>Buscar documentos más relacionados con los conceptos:</replace>
+    </text>
+    <text>
+      <find>AJUDA</find>
+      <replace>ayuda</replace>
+    </text>
+    <text>
+      <find>PESQUISAR</find>
+      <replace>buscar</replace>
+    </text>
+    <text>
+      <find>FONTE</find>
+      <replace>Fuente de información</replace>
+    </text>		
+    <text>
+      <find>IDIOMA</find>
+      <replace>mí búsqueda esta en</replace>
+    </text>			
+	
+    <text>
+      <find>RESULTADO</find>
+      <replace>Resultados</replace>
+    </text>
+    <text>
+      <find>CONSULTA_EM</find>
+      <replace>Consulta en</replace>
+    </text>
+    <text>
+      <find>SEM_RESULTADO</find>
+      <replace>No fueron encontrados documentos</replace>
+    </text>	
+    <text>		
+      <find>DOCUMENTOS</find>
+      <replace>Documentos</replace>
+    </text>
+    <text>		
+      <find>DE</find>
+      <replace>de</replace>
+    </text>
+    <text>		
+      <find>RELEVANTES</find>
+      <replace>mas relevantes</replace>
+    </text>
+
+    <text>		
+      <find>CONCEITOS</find>
+      <replace>Conceptos</replace>
+    </text>
+    <text>		
+      <find>CONCEITOS_INFO</find>
+      <replace>Conceptos que influenciaran el resultado; la importancia relativa puede ser ajustada; <span id="required_mark">!</span> significa "tiene que estar en el documento".</replace>
+    </text>
+    <text>		
+      <find>CONCEITOS_TESAURO</find>
+      <replace>Termos del tesauro</replace>
+    </text>
+    <text>		
+      <find>CONCEITOS_LIVRE</find>
+      <replace>Termos libres</replace>
+    </text>				
+    <text>		
+      <find>REFINE</find>
+      <replace>refine su búsqueda</replace>
+    </text>
+    <text>		
+      <find>MOSTRANDO</find>
+      <replace>Mostrandos los </replace>
+    </text>
+    <text>		
+      <find>PESQUISANDO</find>
+      <replace>Buscando en </replace>
+    </text>		
+    <text>		
+      <find>DOCUMENTOS_RELEVANTES</find>
+      <replace>documentos más relevantes</replace>
+    </text>
+    <text>		
+      <find>TEXTO_COMPLETO</find>
+      <replace>texto completo</replace>
+    </text>	
+    <text>		
+      <find>VER_REFERENCIA</find>
+      <replace>referencia</replace>
+    </text>
+    <text>		
+      <find>LISTA_CONCEITOS</find>
+      <replace>conceptos</replace>
+    </text>
+    <text>		
+      <find>SIMILARES</find>
+      <replace>documentos similares</replace>
+    </text>
+	<text>
+		<find>IDIOMA_DOCUMENTO</find>
+		<replace>Idioma</replace>
+	</text>
+	<text>
+		<find>IDIOMA_PT</find>
+		<replace>Portugues</replace>
+	</text>
+	<text>
+		<find>IDIOMA_ES</find>
+		<replace>Español</replace>
+	</text>
+	<text>
+		<find>IDIOMA_EN</find>
+		<replace>Ingles</replace>
+	</text>
+	<text>
+		<find>NOVA_PESQUISA</find>
+		<replace>nueva búsqueda</replace>
+	</text>
+	<text>
+		<find>GRAUS_DE_RELEVANCIA</find>
+		<replace>bajo medio alto</replace>
+	</text>
+	<text>
+		<find>AJUSTAR_BOTAO</find>
+		<replace>ajustar</replace>
+	</text>
+	<text>
+		<find>ADICIONA_CONCEITO_MANUAL</find>
+		<replace>Agregue un nuevo concepto en su búsqueda manualmente</replace>
+	</text>
+	<text>
+		<find>ADICIONA_CONCEITO_PROPOSTO</find>
+		<replace>o seleccione uno de los conceptos propuestos abajo:</replace>
+	</text>
+	<text>
+		<find>ADICIONA_BOTAO</find>
+		<replace>agregar</replace>
+	</text>	
+	<text>
+		<find>EXIBINDO_PAGINA</find>
+		<replace>Mostrando página</replace>
+	</text>
+	<text>
+		<find>EXIBINDO_PAGINA_DE</find>
+		<replace>de</replace>
+	</text>
+	<text>
+		<find>IR_PARA_PAGINA</find>
+		<replace>ir para página</replace>
+	</text>	
+	<text>
+		<find>FONTE_INFORMACAO</find>
+		<replace>Fuente de información</replace>
+	</text>
+	<text>
+		<find>INFORME_EXPRESSAO</find>
+		<replace>Informe la expresión de búsqueda</replace>
+	</text>	
+	<text>
+		<find>www.scielo.br</find>
+		<replace>Brasil</replace>	
+	</text>
+	<text>
+		<find>www.scielosp.org</find>
+		<replace>Salud Pública</replace>	
+	</text>
+	<text>
+		<find>wwwscielo.isciii.es</find>
+		<replace>España</replace>	
+	</text>
+	<text>
+		<find>www.scielo.cl</find>
+		<replace>Chile</replace>	
+	</text>	
+  </labels>
+</texts>

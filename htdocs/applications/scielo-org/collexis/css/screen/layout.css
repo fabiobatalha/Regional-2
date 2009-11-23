@@ -1,0 +1,21 @@
+
+
+#center {	
+	float: left !important;
+	margin-left: 2px;
+	width: 70% !important;
+}
+
+#right {
+	float: left !important;
+	width: 25% !important;	
+}
+
+#center, #right {
+	padding: 1px;	
+}
+
+
+
+
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<secondLevelForCollectionByDate>
+   <journalList collection="Brasil" total="47">
+      <order by="20090707" total="1">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1808-8694&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090707">Brazilian Journal of Otorhinolaryngology (Impresso)</journal>
+      </order>
+   </journalList>
+   <journalList collection="Saude Publica" total="11"/>
+</secondLevelForCollectionByDate>

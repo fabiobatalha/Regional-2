@@ -1,0 +1,176 @@
+33
+25 - error: java.net.UnknownHostException: www.scielo.org.e - Venezuela
+25 - xml:  - Venezuela
+27 - error: java.net.UnknownHostException: www.scielo.org.e - Venezuela
+27 - xml:  - Venezuela
+atual 0 total 33
+1
+27 - connection released - Venezuela
+atual 0 total 33
+2
+25 - connection released - Venezuela
+26 - error: java.net.UnknownHostException: www.scielo.org.e - Venezuela
+26 - xml:  - Venezuela
+atual 2 total 33
+3
+26 - connection released - Venezuela
+3 - error: java.net.UnknownHostException: www.scielo.org.r - Argentina
+3 - xml:  - Argentina
+atual 3 total 33
+4
+3 - connection released - Argentina
+2 - error: java.net.UnknownHostException: www.scielo.org.r - Argentina
+2 - xml:  - Argentina
+1 - error: java.net.UnknownHostException: www.scielo.org.r - Argentina
+1 - xml:  - Argentina
+atual 4 total 33
+5
+1 - connection released - Argentina
+atual 5 total 33
+6
+2 - connection released - Argentina
+/home/scieloorg/www/proc/harvester/xsd/new_titles.xsd
+/home/scieloorg/www/proc/harvester/xsd/new_issues.xsd
+/home/scieloorg/www/proc/harvester/xsd/new_titles.xsd
+/home/scieloorg/www/proc/harvester/xsd/new_titles.xsd
+/home/scieloorg/www/proc/harvester/xsd/new_issues.xsd
+/home/scieloorg/www/proc/harvester/xsd/new_issues.xsd
+/home/scieloorg/www/proc/harvester/xsd/get_titles.xsd
+/home/scieloorg/www/proc/harvester/xsd/get_titles.xsd
+28 - writing in: harvestedFiles/www.scielosp.org/get_titles.xml - Saúde Pública
+atual 6 total 33
+7
+28 - connection released - Saúde Pública
+29 - writing in: harvestedFiles/www.scielosp.org/new_titles.xml - Saúde Pública
+atual 7 total 33
+8
+29 - connection released - Saúde Pública
+/home/scieloorg/www/proc/harvester/xsd/get_titles.xsd
+30 - writing in: harvestedFiles/www.scielosp.org/new_issues.xml - Saúde Pública
+atual 8 total 33
+9
+30 - connection released - Saúde Pública
+32 - writing in: harvestedFiles/socialsciences.scielo.org/new_titles.xml - Ciências Sociais
+atual 9 total 33
+10
+32 - connection released - Ciências Sociais
+5 - writing in: harvestedFiles/www.scielo.br/new_titles.xml - Brasil
+atual 10 total 33
+11
+5 - connection released - Brasil
+6 - writing in: harvestedFiles/www.scielo.br/new_issues.xml - Brasil
+atual 11 total 33
+12
+6 - connection released - Brasil
+31 - writing in: harvestedFiles/socialsciences.scielo.org/get_titles.xml - Ciências Sociais
+atual 12 total 33
+13
+31 - connection released - Ciências Sociais
+33 - writing in: harvestedFiles/socialsciences.scielo.org/new_issues.xml - Ciências Sociais
+atual 13 total 33
+14
+33 - connection released - Ciências Sociais
+4 - writing in: harvestedFiles/www.scielo.br/get_titles.xml - Brasil
+atual 14 total 33
+15
+4 - connection released - Brasil
+/home/scieloorg/www/proc/harvester/xsd/new_issues.xsd
+/home/scieloorg/www/proc/harvester/xsd/new_titles.xsd
+8 - writing in: harvestedFiles/www.scielo.cl/new_titles.xml - Chile
+atual 15 total 33
+16
+8 - connection released - Chile
+9 - writing in: harvestedFiles/www.scielo.cl/new_issues.xml - Chile
+atual 16 total 33
+17
+9 - connection released - Chile
+/home/scieloorg/www/proc/harvester/xsd/new_titles.xsd
+20 - writing in: harvestedFiles/www.scielo.org.mx/new_titles.xml - Mexico
+atual 17 total 33
+18
+20 - connection released - Mexico
+/home/scieloorg/www/proc/harvester/xsd/get_titles.xsd
+/home/scieloorg/www/proc/harvester/xsd/get_titles.xsd
+19 - writing in: harvestedFiles/www.scielo.org.mx/get_titles.xml - Mexico
+atual 18 total 33
+19
+19 - connection released - Mexico
+7 - writing in: harvestedFiles/www.scielo.cl/get_titles.xml - Chile
+atual 19 total 33
+20
+7 - connection released - Chile
+/home/scieloorg/www/proc/harvester/xsd/new_titles.xsd
+23 - writing in: harvestedFiles/www.scielo.oces.mctes.pt/new_titles.xml - Portugal
+atual 20 total 33
+21
+23 - connection released - Portugal
+/home/scieloorg/www/proc/harvester/xsd/get_titles.xsd
+22 - writing in: harvestedFiles/www.scielo.oces.mctes.pt/get_titles.xml - Portugal
+atual 21 total 33
+22
+22 - connection released - Portugal
+/home/scieloorg/www/proc/harvester/xsd/new_issues.xsd
+21 - writing in: harvestedFiles/www.scielo.org.mx/new_issues.xml - Mexico
+atual 22 total 33
+23
+21 - connection released - Mexico
+/home/scieloorg/www/proc/harvester/xsd/get_titles.xsd
+13 - writing in: harvestedFiles/scielo.sld.cu/get_titles.xml - Cuba
+atual 23 total 33
+24
+13 - connection released - Cuba
+/home/scieloorg/www/proc/harvester/xsd/new_titles.xsd
+11 - writing in: harvestedFiles/www.scielo.org.co/new_titles.xml - Colombia
+atual 24 total 33
+25
+11 - connection released - Colombia
+/home/scieloorg/www/proc/harvester/xsd/new_issues.xsd
+24 - writing in: harvestedFiles/www.scielo.oces.mctes.pt/new_issues.xml - Portugal
+atual 25 total 33
+26
+24 - connection released - Portugal
+/home/scieloorg/www/proc/harvester/xsd/new_issues.xsd
+15 - writing in: harvestedFiles/scielo.sld.cu/new_issues.xml - Cuba
+atual 26 total 33
+27
+15 - connection released - Cuba
+/home/scieloorg/www/proc/harvester/xsd/new_issues.xsd
+12 - writing in: harvestedFiles/www.scielo.org.co/new_issues.xml - Colombia
+atual 27 total 33
+28
+12 - connection released - Colombia
+/home/scieloorg/www/proc/harvester/xsd/new_titles.xsd
+17 - writing in: harvestedFiles/scielo.isciii.es/new_titles.xml - Espanha
+atual 28 total 33
+29
+17 - connection released - Espanha
+/home/scieloorg/www/proc/harvester/xsd/new_issues.xsd
+18 - writing in: harvestedFiles/scielo.isciii.es/new_issues.xml - Espanha
+atual 29 total 33
+30
+18 - connection released - Espanha
+/home/scieloorg/www/proc/harvester/xsd/get_titles.xsd
+10 - writing in: harvestedFiles/www.scielo.org.co/get_titles.xml - Colombia
+atual 30 total 33
+31
+10 - connection released - Colombia
+/home/scieloorg/www/proc/harvester/xsd/new_titles.xsd
+14 - writing in: harvestedFiles/scielo.sld.cu/new_titles.xml - Cuba
+atual 31 total 33
+32
+14 - connection released - Cuba
+/home/scieloorg/www/proc/harvester/xsd/get_titles.xsd
+16 - writing in: harvestedFiles/scielo.isciii.es/get_titles.xml - Espanha
+atual 32 total 33
+running notifyall
+33
+16 - connection released - Espanha
+SIZE: 33
+xml/get_titles.xml
+starting transform
+Generating XML Files
+Criando secondLevelForAlphabeticList.xml
+Criando secondLevelForCollectionByAlphabeticList
+Criando secondLevelForCollectionByDate
+Criando secondLevelForCollectionBySubject
+Criando secondLevelForLastIssuesByAlphabeticList

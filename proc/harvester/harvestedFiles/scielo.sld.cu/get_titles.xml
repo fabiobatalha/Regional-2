@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Cuba" uri="http://scielo.sld.cu" flagName="CU" homologado="true"><indicators><journalTotal>23</journalTotal><articleTotal>7935</articleTotal><issueTotal>687</issueTotal><citationTotal>103679</citationTotal></indicators>
+<wxis-modules IsisScript="list.xis" version="0.2">
+<record>
+<title>Medisur</title>
+<processDate>20070702</processDate>
+<issn>0864-3466</issn>
+<publisher>Facultad de Ciencias Médicas de Cienfuegos, Centro Provincial de Ciencias Médicas Provincia de Cienfuegos.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista Cubana de Higiene y Epidemiología</title>
+<processDate>20060522</processDate>
+<issn>1561-3003</issn>
+<publisher>Editorial Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Oftalmología</title>
+<processDate>20060222</processDate>
+<issn>0864-2176</issn>
+<publisher>Editorial Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Habanera Ciencias Médicas</title>
+<processDate>20060224</processDate>
+<issn>1729-519X</issn>
+<publisher>ISCMH (Instituto Superior Ciencias Médicas de La Habana)</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista Cubana de Endocrinología</title>
+<processDate>20050222</processDate>
+<issn>1561-2953</issn>
+<publisher>Editorial Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Ortopedia y Traumatología</title>
+<processDate>20050103</processDate>
+<issn>0864-215X</issn>
+<publisher>Editorial Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Hematología, Inmunología y Hemoterapia</title>
+<processDate>20040921</processDate>
+<issn>0864-0289</issn>
+<publisher>Editorial Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Obstetricia y Ginecología</title>
+<processDate>20040916</processDate>
+<issn>0138-600X</issn>
+<publisher>Editorial Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Investigaciones Biomédicas</title>
+<processDate>20040206</processDate>
+<issn>0864-0300</issn>
+<publisher>ECIMED</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Medicina Militar</title>
+<processDate>20040126</processDate>
+<issn>0138-6557</issn>
+<publisher>ECIMED</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Plantas Medicinales</title>
+<processDate>20040126</processDate>
+<issn>1028-4796</issn>
+<publisher>ECIMED</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Farmacia</title>
+<processDate>20031126</processDate>
+<issn>0034-7515</issn>
+<publisher>ECIMED</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Enfermería</title>
+<processDate>20021121</processDate>
+<issn>0864-0319</issn>
+<publisher>Editorial Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Cirugía</title>
+<processDate>20021104</processDate>
+<issn>0034-7493</issn>
+<publisher>Editorial Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Medicina</title>
+<processDate>20021108</processDate>
+<issn>0034-7523</issn>
+<publisher>ECIMED</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Pediatría</title>
+<processDate>20021109</processDate>
+<issn>0034-7531</issn>
+<publisher>Editorial Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Arquivos Brasileiros de Endocrinologia e Matabologia</title>
+<processDate>20020828</processDate>
+<issn>0004-2730</issn>
+<publisher>Federação Brasileira de Sociedades de Endocrinologia e Metabologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista Cubana de Educación Médica Superior</title>
+<processDate>20020419</processDate>
+<issn>0864-2141</issn>
+<publisher>Editoria Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Estomatología</title>
+<processDate>20020417</processDate>
+<issn>0034-7507</issn>
+<publisher>Editorial Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>ACIMED</title>
+<processDate>20000721</processDate>
+<issn>1024-9435</issn>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Medicina Tropical</title>
+<processDate>20000216</processDate>
+<issn>0375-0760</issn>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Medicina General Integral</title>
+<processDate>19991025</processDate>
+<issn>0864-2125</issn>
+<publisher>ECIMED</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Cubana de Salud Pública</title>
+<processDate>19990618</processDate>
+<issn>0864-3466</issn>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><list mfn="1">
+   <server>
+      <occ date="20070919" time="122148"></occ>
+   </server>
+   <database>
+      <occ>/var/www/webhosting/scielo/bases/title/title</occ>
+   </database>
+   <from/>
+   <to/>
+   <count/>
+   <reverse/>
+   <Isis_Current>
+      <occ>23</occ>
+   </Isis_Current>
+   <Isis_Total>
+      <occ>23</occ>
+   </Isis_Total>
+   <previous/>
+   <next/>
+</list>
+</wxis-modules></collection></SciELOWebService>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metaSearchRules>
+
+
+<url_search>http://vm.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis_param_base=article^dREPLACE_BASE_param_nextAction=search_param_exprSearch=REPLACE_EXPRESSION_param_lang=p_param_form=F_param_conectSearch=AND_param_rep=REPLACE_REP</url_search>
+	<links>
+		<indexes>
+			<!-- /cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.r00_param_index=YR_param_lang=i_param_fmt=iso.pft_param_form=B -->
+			<iahIndexCountry name="country" status="off">CT</iahIndexCountry>
+			<iahIndexAuthor name="author" status="on">AU</iahIndexAuthor>
+			<iahIndexKeyword name="keyword" status="on">KW</iahIndexKeyword>
+			<iahIndexTitle name="title" status="on">TI</iahIndexTitle>
+			<iahIndexOrganization name="organization" status="off">OR</iahIndexOrganization>
+			<iahIndexPublicationYear name="publication year" status="off">YR</iahIndexPublicationYear>
+			<iahIndexDocumentType name="document type" status="off">DT</iahIndexDocumentType>
+			<iahIndexDocumentLanguage name="original language" status="off">OL</iahIndexDocumentLanguage>
+		</indexes>
+		<call><REPLACE_URL/>/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis_param_base=article^d<PARAM_BASE/>_param_index=<PARAM_INDEX/>_param_lang=<PARAM_LANG/>_param_fmt=iso.pft_param_form=B<PARAM_REP/></call>
+	</links>
+
+</metaSearchRules>

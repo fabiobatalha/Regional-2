@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lastTitles>
+   <collection uri="http://www.scielo.org.ar">
+      <name>Argentina</name>
+      <subject>Human Sciences</subject>
+      <subject>Social Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Health Sciences</subject>
+      <lastDate>20081002</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>3</total>
+   </collection>
+   <collection uri="http://www.scielo.br">
+      <name>Brasil</name>
+      <subject>Applied Social Sciences</subject>
+      <subject>Biological Sciences</subject>
+      <subject>Health Sciences</subject>
+      <subject>Applied Social Sciences</subject>
+      <lastDate>20090821</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>3</total>
+   </collection>
+   <collection uri="http://www.scielo.cl">
+      <name>Chile</name>
+      <subject>Applied Social Sciences</subject>
+      <subject>Applied Social Sciences</subject>
+      <lastDate>20091102</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>2</total>
+   </collection>
+   <collection uri="http://www.scielo.org.co">
+      <name>Colombia</name>
+      <subject>Human Sciences</subject>
+      <lastDate>20090821</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>1</total>
+   </collection>
+   <collection uri="http://scielo.sld.cu">
+      <name>Cuba</name>
+      <subject>Agropecuarias Sciences</subject>
+      <lastDate>20090417</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>1</total>
+   </collection>
+   <collection uri="http://scielo.isciii.es">
+      <name>Espanha</name>
+      <lastDate>20091098</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>0</total>
+   </collection>
+   <collection uri="http://www.scielo.org.mx">
+      <name>Mexico</name>
+      <subject>Human Sciences</subject>
+      <lastDate>20090817</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>1</total>
+   </collection>
+   <collection uri="http://www.scielo.oces.mctes.pt">
+      <name>Portugal</name>
+      <subject>Human Sciences</subject>
+      <subject>Social Sciences</subject>
+      <lastDate>20090701</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>1</total>
+   </collection>
+   <collection uri="http://www.scielo.org.ve">
+      <name>Venezuela</name>
+      <subject>Engineering</subject>
+      <subject>Biological Sciences</subject>
+      <subject>Biological Sciences</subject>
+      <subject>Engineering</subject>
+      <subject>Health Sciences</subject>
+      <lastDate>20080507</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>3</total>
+   </collection>
+   <collection uri="http://www.scielosp.org">
+      <name>Saude Publica</name>
+      <subject>Health Sciences</subject>
+      <lastDate>20070510</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>1</total>
+   </collection>
+   <collection uri="http://socialsciences.scielo.org">
+      <name>Ciências Sociais</name>
+      <subject>Human Sciences</subject>
+      <lastDate>20070514</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>1</total>
+   </collection>
+   <collection uri="http://caribbean.scielo.org">
+      <name>West Indian Medical Journal</name>
+      <subject>Health Sciences</subject>
+      <lastDate>20061023</lastDate>
+      <processingDate>20090829</processingDate>
+      <total>1</total>
+   </collection>
+</lastTitles>

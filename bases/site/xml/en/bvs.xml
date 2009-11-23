@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<bvs language="en" country="**" subject="BVS-Site" version="4">
+  <texts id="" lang="en" available="">
+    <text id="button_moreInformation" available="yes" img="/image/common/info.gif">More information</text>
+    <text id="default_print" available="yes">print</text>
+    <text id="default_close" available="yes">close</text>
+    <text id="home" available="yes">home</text>
+    <text id="contact" available="yes">Contact</text>
+    <text id="contact: subject" available="yes">Subject</text>
+    <text id="contact: name" available="yes">Name</text>
+    <text id="contact: email" available="yes">Email</text>
+    <text id="contact: message" available="yes">Message</text>
+    <text id="contact: send" available="yes">Send</text>
+    <text id="contact: error" available="yes">Please fill in the fields:</text>
+    <text id="contact: response" available="yes">Your message has been successfully sent</text>
+    <text id="alphabetic.title" available="yes">Journals by alphabetic list</text>
+    <text id="alphabetic.home" available="yes">Journals</text>
+  </texts>
+  <parent id="" lang="en" available="yes">
+    <item id="1" available="yes" img="/applications/scielo-org/image/public/skins/classic/pt/banner.jpg">SciELO.org - Scientific Electronic Library Online</item>
+  </parent>
+  <identification id="" lang="en" available="yes">
+    <item id="2" available="yes" img="/image/public/skins/repository/es/identification.gif">SciELO.org - Scientific Electronic Library Online</item>
+  </identification>
+  <contact id="" lang="en" available="yes">
+    <item id="3" available="yes" href="online@bireme.br">Contact - SciELO.org</item>
+    <item id="4" available="yes" href="online@bireme.br">Claim - SciELO.org</item>
+    <item id="5" available="yes" href="online@bireme.br">Suggestions - SciELO.org</item>
+  </contact>
+  <other-versions id="" lang="en" available="yes">
+    <item id="7" available="yes" href="/php/index.php?lang=pt">português</item>
+    <item id="8" available="yes" href="/php/index.php?lang=es">español</item>
+  </other-versions>
+  <institution id="" lang="en" available="yes"/>
+  <collectionList id="" lang="en" available="yes">
+    <item id="14" available="yes">First column<item id="42" available="yes" type="about" file="xml/en/42.xml">SciELO Network</item><item id="48" available="yes" type="service" file="xml/en/48.xml">SciELO Network</item><item id="44" available="yes" type="xhtml" file="xml/en/44.xml">Links</item></item>
+    <item id="16" available="yes">Second column<item id="38" available="yes" type="service" file="xml/en/38.xml">Browse journals</item><item id="49" available="yes" type="service" file="xml/en/49.xml">Browse journals</item><item id="50" available="yes" type="service" file="xml/en/50.xml">Browse journals</item><item id="51" available="yes" type="service" file="xml/en/51.xml">Browse journals</item></item>
+    <item id="20" available="yes">Third column<item id="41" available="yes" type="service" file="xml/en/41.xml">SciELO in numbers</item><item id="39" available="yes" type="service" file="xml/en/39.xml">New</item></item>
+    <item id="23" available="yes">Fourth column<item id="56" available="yes" type="xhtml" file="xml/en/56.xml">Services on Demand</item><item id="55" available="yes" type="xhtml" file="xml/en/55.xml">Services on Demand - News</item><item id="24" available="yes" type="calls" file="xml/en/24.xml">Highligths</item><item id="25" available="yes" type="rss" file="xml/en/25.xml">News</item><item id="54" available="yes" type="rss" file="xml/en/54.xml">Press Releases</item><item id="52" available="no" type="collection" file="xml/en/52.xml">Páginas do Site (Inglês)</item></item>
+  </collectionList>
+  <responsable>
+    <item id="26" available="yes" type="responsable" file="xml/en/responsable.xml"/>
+  </responsable>
+  <metasearch>
+    <item id="27" available="yes" type="metasearch" file="xml/en/metasearch.xml"/>
+  </metasearch>
+  <metainfo>
+    <item id="28" available="yes" type="metainfo" file="xml/en/metainfo.xml"/>
+  </metainfo>
+  <attachList available=""/>
+</bvs>

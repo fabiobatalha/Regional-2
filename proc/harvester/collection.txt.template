@@ -1,0 +1,13 @@
+#Formato da linha;
+#URL - Diretorio onde sera salvo o XML - nome da XSL que esta no diretorio xsl - nome do arquivo a ser salvo
+# service URL, instance domain, service to call, output file name, instance
+# name, instance Acron, grupo, true=homologado false=ñ homologado
+#
+# SciELO Brasil
+http://www.dev.scielo.br/webservices/index.php?service=get_titles,www.scielo.br,get_titles,get_titles,Brasil,BR,developed
+#http://www.dev.scielo.br/webservices/index.php?service=new_titles,www.scielo.br,new_titles,new_titles,Brasil,BR,developed
+#http://www.dev.scielo.br/webservices/index.php?service=new_issues,www.scielo.br,new_issues,new_issues,Brasil,BR,developed
+# SciELO SP
+http://www.scielosp.org/webservices/index.php?service=get_titles,www.scielo.br,get_titles,get_titles,Saude Publica, SP,developed
+http://www.scielosp.org/webservices/index.php?service=new_titles,www.scielo.br,new_titles,new_titles,Saude Publica,SP,developed
+http://www.scielosp.org/webservices/index.php?service=new_issues,www.scielo.br,new_issues,new_issues,Saude Publica,SP,developed

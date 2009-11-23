@@ -1,0 +1,2492 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<secondLevelForCollectionBySubject>
+   <journalList collection="Argentina" total="56">
+      <order by="Agricultural Sciences" total="3">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1668-298X&amp;nrm=iso"
+                  status="C"
+                  date="20071019">Agriscientia (Córdoba)</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-3018&amp;nrm=iso"
+                  status="C"
+                  date="20070830">Revista Industrial y Agrícola de Tucumán</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1850-2067&amp;nrm=iso"
+                  status="C"
+                  date="20050909">Ciencia del Suelo</journal>
+      </order>
+      <order by="Biological Sciences" total="12">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-5657&amp;nrm=iso"
+                  status="C"
+                  date="20080721">Phyton (Buenos Aires)</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-3743&amp;nrm=iso"
+                  status="C"
+                  date="20071019">Acta Toxicológica Argentina</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1668-3498&amp;nrm=iso"
+                  status="C"
+                  date="20071018">InVet (Buenos Aires)</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1667-782X&amp;nrm=iso"
+                  status="C"
+                  date="20060922">Ecología Austral</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-2372&amp;nrm=iso"
+                  status="C"
+                  date="20060612">Boletín de la Sociedad Argentina de Botánica</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0011-6793&amp;nrm=iso"
+                  status="C"
+                  date="20060612">Darwiniana</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0073-3407&amp;nrm=iso"
+                  status="C"
+                  date="20060612">El Hornero (Buenos Aires)</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0327-9383&amp;nrm=iso"
+                  status="C"
+                  date="20050909">Mastozoología Neotropical</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0325-2957&amp;nrm=iso"
+                  status="C"
+                  date="20050713">Acta Bioquímica Clínica Latinoamericana</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0373-5680&amp;nrm=iso"
+                  status="C"
+                  date="20050713">Revista de la Sociedad Entomológica Argentina</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0327-9545&amp;nrm=iso"
+                  status="C"
+                  date="20030508">Biocell</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0002-7014&amp;nrm=iso"
+                  status="C"
+                  date="20030404">Ameghiniana</journal>
+      </order>
+      <order by="Chemistry" total="4">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-3743&amp;nrm=iso"
+                  status="C"
+                  date="20071019">Acta Toxicológica Argentina</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0365-0375&amp;nrm=iso"
+                  status="C"
+                  date="20050418">Anales de la Asociación Química Argentina</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0325-7541&amp;nrm=iso"
+                  status="C"
+                  date="20050302">Revista Argentina de Microbiología</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0327-0793&amp;nrm=iso"
+                  status="C"
+                  date="20030408">Latin American Applied Research</journal>
+      </order>
+      <order by="Engineering" total="1">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0327-0793&amp;nrm=iso"
+                  status="C"
+                  date="20030408">Latin American Applied Research</journal>
+      </order>
+      <order by="Geosciences" total="3">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-4979&amp;nrm=iso"
+                  status="C"
+                  date="20060612">Latin American Journal Sedimentology and Basin Analysis</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0004-4822&amp;nrm=iso"
+                  status="C"
+                  date="20030423">Revista de la Asociación Geológica Argentina</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0002-7014&amp;nrm=iso"
+                  status="C"
+                  date="20030404">Ameghiniana</journal>
+      </order>
+      <order by="Health Sciences" total="10">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1850-1532&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Revista Argentina de Neurocirugía</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-3123&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Revista Pilquen. Sección Ciencias Sociales</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-300X&amp;nrm=iso"
+                  status="C"
+                  date="20070830">Revista Argentina de Dermatología</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-3034&amp;nrm=iso"
+                  status="C"
+                  date="20070831">Revista Argentina de Endocrinología y Metabolismo (1983)</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-1686&amp;nrm=iso"
+                  status="C"
+                  date="20070702">Anuario de Investigaciones - Facultad de Psicología. Universidad de Buenos Aires</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1850-3748&amp;nrm=iso"
+                  status="C"
+                  date="20060922">Revista Argentina de Cardiología</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0325-0075&amp;nrm=iso"
+                  status="C"
+                  date="20060612">Archivos Argentinos de Pediatría</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0325-2957&amp;nrm=iso"
+                  status="C"
+                  date="20050713">Acta Bioquímica Clínica Latinoamericana</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0325-7541&amp;nrm=iso"
+                  status="C"
+                  date="20050302">Revista Argentina de Microbiología</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0025-7680&amp;nrm=iso"
+                  status="C"
+                  date="20040309">Medicina [Buenos Aires]</journal>
+      </order>
+      <order by="Human Sciences" total="21">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1852-4508&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Papeles de trabajo - Centro de Estudios Interdisciplinarios en Etnolingüística y Antropología Socio-Cultural</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-9636&amp;nrm=iso"
+                  status="C"
+                  date="20080821">Análisis filosófico</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-9628&amp;nrm=iso"
+                  status="C"
+                  date="20080821">Runa</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-8893&amp;nrm=iso"
+                  status="C"
+                  date="20080704">Orientación y sociedad</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-1716&amp;nrm=iso"
+                  status="C"
+                  date="20070702">Ciencia, Docencia y Tecnología</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-1724&amp;nrm=iso"
+                  status="C"
+                  date="20070702">Circe de Clásicos y Modernos</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-1740&amp;nrm=iso"
+                  status="C"
+                  date="20070702">Información, Cultura y Sociedad</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1668-8090&amp;nrm=iso"
+                  status="C"
+                  date="20060922">Andes (Salta)</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1850-373X&amp;nrm=iso"
+                  status="C"
+                  date="20060922">Intersecciones en Antropología</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1669-9041&amp;nrm=iso"
+                  status="C"
+                  date="20060922">Revista - Escuela de Historia</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1669-3248&amp;nrm=iso"
+                  status="C"
+                  date="20060922">Revista Argentina de Sociología</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1666-485X&amp;nrm=iso"
+                  status="C"
+                  date="20060623">Tópicos (Santa Fe)</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0328-1205&amp;nrm=iso"
+                  status="C"
+                  date="20060612">Synthesis (La Plata)</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0524-9767&amp;nrm=iso"
+                  status="C"
+                  date="20051104">Boletín del Instituto de Historia Argentina y Americana Dr. Emilio Ravignani</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1850-275X&amp;nrm=iso"
+                  status="C"
+                  date="20051104">Cuadernos de Antropología Social</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1668-7027&amp;nrm=iso"
+                  status="C"
+                  date="20051104">Interdisciplinaria</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1668-8104&amp;nrm=iso"
+                  status="C"
+                  date="20051031">Cuadernos - Revista de la Facultad de Humanidades y Ciencias Sociales (UNJu)</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1669-5704&amp;nrm=iso"
+                  status="C"
+                  date="20051031">La Aljaba (Luján)</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0325-1195&amp;nrm=iso"
+                  status="C"
+                  date="20051020">Cuadernos de Historia de España</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0327-5094&amp;nrm=iso"
+                  status="C"
+                  date="20050805">Temas Medievales</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1515-5994&amp;nrm=iso"
+                  status="C"
+                  date="20050727">Mundo agrario</journal>
+      </order>
+      <order by="Mathematics" total="1">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=0041-6932&amp;nrm=iso"
+                  status="C"
+                  date="20050628">Revista de la Unión Matemática Argentina</journal>
+      </order>
+      <order by="Social Sciences" total="11">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1852-4508&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Papeles de trabajo - Centro de Estudios Interdisciplinarios en Etnolingüística y Antropología Socio-Cultural</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-8893&amp;nrm=iso"
+                  status="C"
+                  date="20080704">Orientación y sociedad</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-3727&amp;nrm=iso"
+                  status="C"
+                  date="20071018">Documentos y Aportes en Administración Pública y Gestión Estatal</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-3751&amp;nrm=iso"
+                  status="C"
+                  date="20071018">Memoria Americana</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-2879&amp;nrm=iso"
+                  status="C"
+                  date="20070917">Quinto Sol</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-1686&amp;nrm=iso"
+                  status="C"
+                  date="20070702">Anuario de Investigaciones - Facultad de Psicología. Universidad de Buenos Aires</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-1694&amp;nrm=iso"
+                  status="C"
+                  date="20070702">Avá (Posadas)</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-1716&amp;nrm=iso"
+                  status="C"
+                  date="20070702">Ciencia, Docencia y Tecnología</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-1732&amp;nrm=iso"
+                  status="C"
+                  date="20070702">Estudios y perspectivas en turismo</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-1740&amp;nrm=iso"
+                  status="C"
+                  date="20070702">Información, Cultura y Sociedad</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1850-0013&amp;nrm=iso"
+                  status="C"
+                  date="20070627">CTS. Ciencia, Tecnología y Sociedad</journal>
+      </order>
+   </journalList>
+   <journalList collection="Brasil" total="224">
+      <order by="Agricultural Sciences" total="29">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0071-1276&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090430">Anais da Escola Superior de Agricultura Luiz de Queiroz</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1982-5676&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080422">Tropical Plant Pathology</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-7054&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070517">Ciência e Agrotecnologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-5405&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061011">Summa Phytopathologica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0301-8059&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051125">Anais da Sociedade Entomológica do Brasil</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-6916&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050128">Engenharia Agrícola</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0044-5967&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040817">Acta Amazonica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1415-4366&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040817">Revista Brasileira de Engenharia Agrícola e Ambiental</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-3122&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040623">Revista Brasileira de Sementes</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-8358&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040420">Planta Daninha</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1678-9199&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20031203">Journal of Venomous Animals and Toxins including Tropical Diseases</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-0683&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030805">Revista Brasileira de Ciência do Solo</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-0536&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030402">Horticultura Brasileira</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-6762&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20021209">Revista Árvore</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-635X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020715">Revista Brasileira de Ciência Avícola</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-8478&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020425">Ciência Rural</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-2945&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020409">Revista Brasileira de Fruticultura</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-4158&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010824">Fitopatologia Brasileira</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-3598&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010817">Revista Brasileira de Zootecnia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-204X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010213">Pesquisa Agropecuária Brasileira</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-9596&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000804">Brazilian Journal of Veterinary Research and Animal Science</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0001-3765&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000721">Anais da Academia Brasileira de Ciências</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-0935&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000609">Arquivo Brasileiro de Medicina Veterinária e Zootecnia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0001-3714&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990128">Revista de Microbiologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0006-8705&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981207">Bragantia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-7930&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981126">Journal of Venomous Animals and Toxins</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-2061&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981016">Ciência e Tecnologia de Alimentos</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-736X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981016">Pesquisa Veterinária Brasileira</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-9016&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981016">Scientia Agricola</journal>
+      </order>
+      <order by="Applied Social Sciences" total="27">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1807-7692&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090828">BAR. Brazilian Administration Review</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1679-3951&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090827">Cadernos EBAPE.BR</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-7590&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081124">Revista de Administração de Empresas</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-4979&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080811">Caderno CRH</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1806-6445&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080626">Sur. Revista Internacional de Direitos Humanos</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1415-6555&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071205">Revista de Administração Contemporânea</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1519-7077&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071018">Revista Contabilidade &amp; Finanças</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-7329&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071015">Revista Brasileira de Política Internacional</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-0618&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071009">Economia e Sociedade</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-8529&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070809">Contexto Internacional</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1518-7012&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070628">Interações (Campo Grande)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1414-4980&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070517">Revista Katálysis</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-9936&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061205">Perspectivas em Ciência da Informação</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-6351&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061002">Nova Economia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-6992&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060927">Sociedade e Estado</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-4161&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060825">Estudos Econômicos (São Paulo)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-3098&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060807">Revista Brasileira de Estudos de População</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1415-9848&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060623">Revista de Economia Contemporânea</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-7612&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060608">Revista de Administração Pública</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1676-5648&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060208">RAE eletrônica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-8050&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060127">Economia Aplicada</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-3157&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050822">Revista de Economia Política</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-2003&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030703">Revista de Economia e Sociologia Rural</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-6445&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020719">Lua Nova: Revista de Cultura e Política</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-7140&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020719">Revista Brasileira de Economia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-8839&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020423">São Paulo em Perspectiva</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-1965&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19980430">Ciência da Informação</journal>
+      </order>
+      <order by="Biological Sciences" total="29">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1984-8250&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090827">Brazilian Journal of Pharmaceutical Sciences</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1984-4670&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090327">Zoologia (Curitiba, Impresso)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1679-6225&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070611">Neotropical Ichthyology</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1676-0603&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060413">Biota Neotropica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0328-0381&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051014">Entomología y Vectores</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1678-9199&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20031203">Journal of Venomous Animals and Toxins including Tropical Diseases</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-8175&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030805">Revista Brasileira de Zoologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0085-5626&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030801">Revista Brasileira de Entomologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-0536&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030402">Horticultura Brasileira</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0031-1049&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030108">Papéis Avulsos de Zoologia (São Paulo)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1677-0420&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20021023">Brazilian Journal of Plant Physiology</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-3131&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020627">Revista Brasileira de Fisiologia Vegetal</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0073-4721&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020624">Iheringia. Série Zoologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1519-566X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020506">Neotropical Entomology</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1519-6984&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20011024">Brazilian Journal of Biology</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-8913&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010913">Brazilian Archives of Biology and Technology</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-3306&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010803">Acta Botanica Brasilica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-8670&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010730">Brazilian Journal of Infectious Diseases</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1517-8382&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000811">Brazilian Journal of Microbiology</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-7108&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000811">Revista Brasileira de Biologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0001-3765&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000721">Anais da Academia Brasileira de Ciências</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0001-3714&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990128">Revista de Microbiologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1415-4757&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981216">Genetics and Molecular Biology</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-8404&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981207">Revista Brasileira de Botânica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-7930&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981126">Journal of Venomous Animals and Toxins</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-8455&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970424">Brazilian Journal of Genetics</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-879X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970424">Brazilian Journal of Medical and Biological Research</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0074-0276&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970424">Memórias do Instituto Oswaldo Cruz</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0036-4665&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970424">Revista do Instituto de Medicina Tropical de São Paulo</journal>
+      </order>
+      <order by="Engineering" total="13">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1517-7076&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070301">Matéria (Rio de Janeiro)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-6513&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060313">Produção</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-4152&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050715">Engenharia Sanitaria e Ambiental </journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1678-5878&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040318">Journal of the Brazilian Society of Mechanical Sciences and Engineering</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-530X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20021219">Gestão &amp; Produção</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0370-4467&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020624">Rem: Revista Escola de Minas</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-7438&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020409">Pesquisa Operacional</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-7386&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20001204">Journal of the Brazilian Society of Mechanical Sciences</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-1428&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20001026">Polímeros</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0001-3765&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000721">Anais da Academia Brasileira de Ciências</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-1439&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000117">Materials Research</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0366-6913&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990901">Cerâmica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-6632&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970425">Brazilian Journal of Chemical Engineering</journal>
+      </order>
+      <order by="Exact and Earth Sciences" total="19">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-7786&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071106">Revista Brasileira de Meteorologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1679-8759&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071009">Brazilian Journal of Oceanography</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1517-7076&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070301">Matéria (Rio de Janeiro)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1807-0302&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040713">Computational &amp; Applied Mathematics</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1678-5878&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040318">Journal of the Brazilian Society of Mechanical Sciences and Engineering</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-1759&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20021025">Sba: Controle &amp; Automação Sociedade Brasileira de Automatica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0370-4467&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020624">Rem: Revista Escola de Minas</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-7386&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20001204">Journal of the Brazilian Society of Mechanical Sciences</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-1428&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20001026">Polímeros</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0001-3765&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000721">Anais da Academia Brasileira de Ciências</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-4670&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000414">Eclética Química</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-4042&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000126">Química Nova</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-1439&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000117">Materials Research</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-261X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19991216">Revista Brasileira de Geofísica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0366-6913&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990901">Cerâmica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-6632&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970425">Brazilian Journal of Chemical Engineering</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-9733&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970425">Brazilian Journal of Physics</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-5053&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970425">Journal of the Brazilian Chemical Society</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-6500&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970425">Journal of the Brazilian Computer Society</journal>
+      </order>
+      <order by="Health Sciences" total="70">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1984-8250&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090827">Brazilian Journal of Pharmaceutical Sciences</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1808-8694&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090707">Brazilian Journal of Otorhinolaryngology (Impresso)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-7280&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080211">Revista Brasileira de Oftalmologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-3616&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071023">Revista Brasileira de Ortopedia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-0582&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071009">Revista Paulista de Pediatria</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-7167&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070913">Revista Brasileira de Enfermagem</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-507X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070906">Revista Brasileira de Terapia Intensiva</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0080-6234&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070806">Revista da Escola de Enfermagem da USP</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-0707&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070726">Texto &amp; Contexto - Enfermagem</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-2100&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070704">Acta Paulista de Enfermagem</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-8034&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070704">Revista da Sociedade Brasileira de Fonoaudiologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0047-2085&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070627">Jornal Brasileiro de Psiquiatria</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-1846&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070517">Revista CEFAC</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-695X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070423">Revista Brasileira de Farmacognosia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-9880&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060828">Revista Brasileira de Coloproctologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-3555&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060803">Revista Brasileira de Fisioterapia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1676-2649&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060731">Journal of Epilepsy and Clinical Neurophysiology</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1677-5449&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060417">Jornal Vascular Brasileiro</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-5687&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060307">Pró-Fono Revista de Atualização Científica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1415-5419&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060127">Revista Dental Press de Ortodontia e Ortopedia Facial</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0482-5004&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051130">Revista Brasileira de Reumatologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-9332&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051123">Revista Brasileira de Ciências Farmacêuticas</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-6991&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051021">Revista do Colégio Brasileiro de Cirurgiões</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1414-3283&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050830">Interface - Comunicação, Saúde, Educação</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1807-5932&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050215">Clinics</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1415-790X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050112">Revista Brasileira de Epidemiologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1806-8324&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040920">Brazilian Oral Research</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1678-7757&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040604">Journal of Applied Oral Science</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1806-3713&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040503">Jornal Brasileiro de Pneumologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-6083&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040108">Revista de Psiquiatria Clínica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-8108&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040108">Revista de Psiquiatria do Rio Grande do Sul</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1677-5538&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030905">International braz j urol</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1519-3829&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030903">Revista Brasileira de Saúde Materno Infantil </journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0365-0596&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030731">Anais Brasileiros de Dermatologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1517-8692&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030714">Revista Brasileira de Medicina do Esporte</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-7094&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030331">Revista Brasileira de Anestesiologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-6440&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030319">Brazilian Dental Journal </journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-7852&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030131">Acta Ortopédica Brasileira</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0021-7557&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020719">Jornal de Pediatria</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-8484&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020719">Revista Brasileira de Hematologia e Hemoterapia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1676-2444&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020715">Jornal Brasileiro de Patologia e Medicina Laboratorial</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0004-2749&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020702">Arquivos Brasileiros de Oftalmologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-7203&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020612">Revista Brasileira de Ginecologia e Obstetrícia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-7299&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020510">Revista Brasileira de Otorrinolaringologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-3586&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020429">Jornal de Pneumologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-3984&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020214">Radiologia Brasileira</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-1169&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020214">Revista Latino-Americana de Enfermagem</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1415-5273&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020207">Revista de Nutrição</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-8123&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020111">Ciência &amp; Saúde Coletiva</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0004-2803&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20011120">Arquivos de Gastroenterologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-8670&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010730">Brazilian Journal of Infectious Diseases</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0004-2730&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010625">Arquivos Brasileiros de Endocrinologia &amp; Metabologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1517-7491&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000811">Pesquisa Odontológica Brasileira</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0001-3765&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000721">Anais da Academia Brasileira de Ciências</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-5970&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000627">História, Ciências, Saúde-Manguinhos</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-4230&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000407">Revista da Associação Médica Brasileira</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0066-782X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000321">Arquivos Brasileiros de Cardiologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0004-282X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000321">Arquivos de Neuro-Psiquiatria</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0041-8781&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000317">Revista do Hospital das Clínicas</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-4446&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000315">Revista Brasileira de Psiquiatria</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0037-8682&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990901">Revista da Sociedade Brasileira de Medicina Tropical</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-3180&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990901">Sao Paulo Medical Journal</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-311X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990702">Cadernos de Saúde Pública</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-7638&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981016">Revista Brasileira de Cirurgia Cardiovascular</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-0663&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19980504">Revista de Odontologia da Universidade de São Paulo</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-8910&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19980430">Revista de Saúde Pública</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-8650&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19980428">Acta Cirurgica Brasileira</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-879X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970424">Brazilian Journal of Medical and Biological Research</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0074-0276&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970424">Memórias do Instituto Oswaldo Cruz</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0036-4665&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970424">Revista do Instituto de Medicina Tropical de São Paulo</journal>
+      </order>
+      <order by="Human Sciences" total="65">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1678-3166&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090326">Scientiae Studia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1982-4513&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090326">Sociedade &amp; Natureza (Online)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1984-0292&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081023">Fractal : Revista de Psicologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-7307&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080825">Pro-Posições</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-4979&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080811">Caderno CRH</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1415-4714&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080716">Revista Latinoamericana de Psicopatologia Fundamental</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1806-6445&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080626">Sur. Revista Internacional de Direitos Humanos</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-8587&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080403">Religião &amp; Sociedade</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-1290&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080211">Saúde e Sociedade</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-4698&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080102">Educação em Revista</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1414-4077&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071206">Avaliação: Revista da Avaliação da Educação Superior (Campinas)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-863X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071029">Paidéia (Ribeirão Preto)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-7329&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071015">Revista Brasileira de Política Internacional</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-7313&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070911">Ciência &amp; Educação (Bauru)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-4714&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070731">Anais do Museu Paulista: História e Cultura Material</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-166X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070705">Estudos de Psicologia (Campinas)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1518-7012&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070628">Interações (Campo Grande)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-4060&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070521">Educar em Revista</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-8775&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070423">Varia Historia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-5502&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061211">Revista Brasileira de Educação Médica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-5665&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061005">Psicologia Clínica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-7704&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060919">Tempo</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-8023&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060711">Revista do Departamento de Psicologia. UFF</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-6538&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060608">Revista Brasileira de Educação Especial</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-3173&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060518">Trans/Form/Ação</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-3300&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060210">Novos Estudos - CEBRAP</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-512X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060203">Kriterion: Revista de Filosofia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-9074&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060202">História (São Paulo)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-7331&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051020">Physis: Revista de Saúde Coletiva</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-8333&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051005">Cadernos Pagu</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-2478&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051003">Revista Brasileira de Educação</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1516-1498&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050927">Ágora: Estudos em Teoria Psicanalítica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-2070&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050920">Tempo Social</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1414-3283&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050830">Interface - Comunicação, Saúde, Educação</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-4036&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050818">Ensaio: Avaliação e Políticas Públicas em Educação</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-4014&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040205">Estudos Avançados</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-7183&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040128">Horizontes Antropológicos</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-7372&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040108">Psicologia em Estudo</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1414-753X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030930">Ambiente &amp; sociedade</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-7182&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030805">Psicologia &amp; Sociedade</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-2003&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030703">Revista de Economia e Sociologia Rural</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1517-4522&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030623">Sociologias</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-6276&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030317">Opinião Pública</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0100-1574&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030220">Cadernos de Pesquisa</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-6445&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020719">Lua Nova: Revista de Cultura e Política</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1806-1117&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020719">Revista Brasileira de Ensino de Física</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-8839&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020423">São Paulo em Perspectiva</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-026X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020408">Revista Estudos Feministas</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-4478&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020208">Revista de Sociologia e Política</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-546X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020114">Estudos Afro-Asiáticos</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1517-9702&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20011105">Educação e Pesquisa</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-3772&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010510">Psicologia: Teoria e Pesquisa</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1413-294X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010330">Estudos de Psicologia (Natal)</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0001-3765&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000721">Anais da Academia Brasileira de Ciências</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-5970&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000627">História, Ciências, Saúde-Manguinhos</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0104-9313&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000526">Mana</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0034-7701&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000213">Revista de Antropologia</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-7972&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990622">Psicologia: Reflexão e Crítica</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-3262&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990419">Cadernos CEDES</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-7330&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990414">Educação &amp; Sociedade</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-2555&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990115">Revista da Faculdade de Educação</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-6564&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981016">Psicologia USP</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-6909&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981016">Revista Brasileira de Ciências Sociais</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-0188&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981016">Revista Brasileira de História</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0011-5258&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19970425">Dados</journal>
+      </order>
+      <order by="Linguistics, Letters and Arts" total="3">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-1813&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090327">Trabalhos em Linguística Aplicada</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1517-106X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040630">Alea : Estudos Neolatinos</journal>
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0102-4450&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981016">DELTA: Documentação de Estudos em Lingüística Teórica e Aplicada</journal>
+      </order>
+   </journalList>
+   <journalList collection="Chile" total="85">
+      <order by="Agricultural Sciences" total="7">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-5839&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080513">Chilean journal of agricultural research</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-1620&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070820">Ciencia e investigación agraria</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2791&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060706">Revista de la ciencia del suelo y nutrición vegetal</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-3429&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060627">Idesia (Arica)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-221X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050726">Maderas. Ciencia y tecnología</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-9200&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20021118">Bosque (Valdivia)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0365-2807&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000816">Agricultura Técnica</journal>
+      </order>
+      <order by="Applied Social Sciences" total="26">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-8358&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091026">Revista INVI</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-8072&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090930">Revista chilena de derecho privado</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-5200&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090504">Estudios constitucionales</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-6894&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081105">Boletín del Museo Chileno de Arte Precolombino</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-554X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081024">Cinta de moebio</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-6568&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081023">Polis (Santiago)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-6851&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081017">Revista de derecho (Valparaíso)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-1876&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081002">Journal of theoretical and applied electronic commerce research</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-5286&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071128">Estudios de economía</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-4808&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070705">Terapia psicológica</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-3437&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061005">Revista chilena de derecho</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-3402&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060712">Revista de geografía Norte Grande</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2244&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051005">Magallania (Punta Arenas)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2376&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050831">Universum (Talca)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2236&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050727">Ultima década</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2228&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050726">Psykhe (Santiago)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-1043&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040908">Estudios atacameños</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-0950&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040818">Revista de derecho (Valdivia)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-090X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040727">Revista de ciencia política (Santiago)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-0012&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040423">Ius et Praxis</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-7356&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020415">Chungará (Arica)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-7194&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020124">Historia (Santiago)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-6996&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20011212">ARQ (Santiago)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-6821&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20011019">Cuadernos de economía</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-5455&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19991116">Revista de estudios histórico-jurídicos</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0250-7161&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981028">EURE (Santiago)</journal>
+      </order>
+      <order by="Biological Sciences" total="6">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-9502&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030515">International Journal of Morphology</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-6538&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010730">Gayana (Concepción)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-6643&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010625">Gayana. Botánica</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-078X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20001010">Revista chilena de historia natural</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-9760&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000519">Biological Research</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-3458&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981028">Electronic Journal of Biotechnology</journal>
+      </order>
+      <order by="Engineering" total="6">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2724&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081104">Journal of technology management &amp; innovation</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-1876&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081002">Journal of theoretical and applied electronic commerce research</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-5073&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070912">Revista ingeniería de construcción</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-3305&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061027">Ingeniare. Revista chilena de ingeniería</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-1337&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20041217">Revista Facultad de Ingeniería - Universidad de Tarapacá</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-0764&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040526">Información tecnológica</journal>
+      </order>
+      <order by="Exact and Earth Sciences" total="10">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-7106&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090413">Andean geology</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-686X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081030">Anales del Instituto de la Patagonia</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-560X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080630">Latin american journal of aquatic research</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-1957&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050608">Revista de biología marina y oceanografía</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-9707&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030505">Journal of the Chilean Chemical Society</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-7178&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020117">Investigaciones marinas</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-6538&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010730">Gayana (Concepción)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0366-1644&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000804">Boletín de la Sociedad Chilena de Química</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-0208&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981029">Revista geológica de Chile</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-0917&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981028">Proyecciones (Antofagasta)</journal>
+      </order>
+      <order by="Health Sciences" total="19">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-7105&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091109">Revista chilena de cardiología</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-4816&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070626">Revista de otorrinolaringología y cirugía de cabeza y cuello</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-4026&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061013">Revista chilena de cirugía</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=1726-569X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050726">Acta bioethica</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-9502&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030515">International Journal of Morphology</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-9553&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030318">Ciencia y enfermería</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-9308&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20021209">Revista chilena de radiología</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-9227&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20021127">Revista chilena de neuro-psiquiatría</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-7712&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020802">Parasitología latinoamericana</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-7526&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020715">Revista chilena de obstetricia y ginecología</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-7518&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020531">Revista chilena de nutrición</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-7348&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020404">Revista chilena de enfermedades respiratorias</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-1018&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20001109">Revista chilena de infectología</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0365-9402&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000822">Boletín chileno de parasitología</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-9868&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981030">Revista chilena de anatomía</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0370-4106&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981029">Revista chilena de pediatría</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0034-9887&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981029">Revista médica de Chile</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-0720&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981028">Parasitología al día</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0301-732X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981027">Archivos de medicina veterinaria</journal>
+      </order>
+      <order by="Human Sciences" total="18">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-8471&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091105">Byzantion nea hellas</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-7181&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090623">Aisthesis</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-4883&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070629">RLA. Revista de lingüística teórica y aplicada</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-4360&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070130">Revista de filosofía</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2244&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051005">Magallania (Punta Arenas)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2376&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050831">Universum (Talca)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2295&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050805">Revista chilena de literatura</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2236&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050727">Ultima década</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2201&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050726">Alpha (Osorno)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-2228&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050726">Psykhe (Santiago)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-0934&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040816">Revista signos</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-0705&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040505">Estudios pedagógicos (Valdivia)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-0462&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20031124">Atenea (Concepción)</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0717-6848&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20011030">Acta literaria</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0049-3449&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20000725">Teología y vida</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-2790&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981029">Revista musical chilena</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0071-1713&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981028">Estudios filológicos</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-5811&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981028">Literatura y lingüística</journal>
+      </order>
+      <order by="Linguistics, Letters and Arts" total="5">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-7181&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090623">Aisthesis</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-4883&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070629">RLA. Revista de lingüística teórica y aplicada</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-0934&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040816">Revista signos</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-2790&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981029">Revista musical chilena</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-5811&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19981028">Literatura y lingüística</journal>
+      </order>
+   </journalList>
+   <journalList collection="Colombia" total="68">
+      <order by="" total="0"/>
+      <order by="" total="0"/>
+      <order by="" total="0"/>
+      <order by="Agricultural Sciences" total="5">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-2812&amp;nrm=iso"
+                  status="C"
+                  date="20080121">Acta Agronómica</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-9965&amp;nrm=iso"
+                  status="C"
+                  date="20070824">Agronomía Colombiana</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0304-2847&amp;nrm=iso"
+                  status="C"
+                  date="20070814">Revista Facultad Nacional de Agronomía, Medellín</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0122-0268&amp;nrm=iso"
+                  status="C"
+                  date="20070607">Revista MVZ Córdoba</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-0690&amp;nrm=iso"
+                  status="C"
+                  date="20070502">Revista Colombiana de Ciencias Pecuarias</journal>
+      </order>
+      <order by="Biological Sciences" total="4">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-0488&amp;nrm=iso"
+                  status="C"
+                  date="20080123">Revista Colombiana de Entomología</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0122-9761&amp;nrm=iso"
+                  status="C"
+                  date="20070307">Boletín de Investigaciones Marinas y Costeras - INVEMAR</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-548X&amp;nrm=iso"
+                  status="C"
+                  date="20060725">Acta Biológica Colombiana</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0366-5232&amp;nrm=iso"
+                  status="C"
+                  date="20060302">Caldasia</journal>
+      </order>
+      <order by="Chemistry" total="1">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-2804&amp;nrm=iso"
+                  status="C"
+                  date="20061130">Revista Colombiana de Química</journal>
+      </order>
+      <order by="Engineering" total="6">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0122-3461&amp;nrm=iso"
+                  status="C"
+                  date="20090511">Ingeniería y Desarrollo</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0121-4993&amp;nrm=iso"
+                  status="C"
+                  date="20081202">Revista de Ingeniería</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0122-5383&amp;nrm=iso"
+                  status="C"
+                  date="20070927">CT&amp;F - Ciencia, Tecnología y Futuro</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-5609&amp;nrm=iso"
+                  status="C"
+                  date="20070529">Ingeniería e Investigación</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-6230&amp;nrm=iso"
+                  status="C"
+                  date="20070427">Revista Facultad de Ingeniería Universidad de Antioquia</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0012-7353&amp;nrm=iso"
+                  status="C"
+                  date="20061204">DYNA</journal>
+      </order>
+      <order by="Geosciences" total="2">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-3630&amp;nrm=iso"
+                  status="C"
+                  date="20080512">Boletín de Ciencias de la Tierra</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=1794-6190&amp;nrm=iso"
+                  status="C"
+                  date="20071119">Earth Sciences Research Journal</journal>
+      </order>
+      <order by="Health Sciences" total="20">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=2011-7582&amp;nrm=iso"
+                  status="C"
+                  date="20080904">Revista Colombiana de Cirugía</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-386X&amp;nrm=iso"
+                  status="C"
+                  date="20080421">Revista Facultad Nacional de Salud Pública</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=1657-5997&amp;nrm=iso"
+                  status="C"
+                  date="20080410">Aquichán</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0123-9392&amp;nrm=iso"
+                  status="C"
+                  date="20080410">Infectio</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-5552&amp;nrm=iso"
+                  status="C"
+                  date="20080314">Revista Salud Uninorte</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0121-5256&amp;nrm=iso"
+                  status="C"
+                  date="20080313">Revista Med</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0121-0793&amp;nrm=iso"
+                  status="C"
+                  date="20070828">Iatreia</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0034-7450&amp;nrm=iso"
+                  status="C"
+                  date="20070531">Revista Colombiana de Psiquiatría</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0121-4004&amp;nrm=iso"
+                  status="C"
+                  date="20070430">Vitae</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-5307&amp;nrm=iso"
+                  status="C"
+                  date="20061222">Investigación y Educación en Enfermería</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-3347&amp;nrm=iso"
+                  status="C"
+                  date="20061123">Revista Colombiana de Anestesiología</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0121-8123&amp;nrm=iso"
+                  status="C"
+                  date="20060921">Revista Colombiana de Reumatología</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-0011&amp;nrm=iso"
+                  status="C"
+                  date="20060726">Revista Facultad de Medicina de la Universidad Nacional de Colombia</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-4157&amp;nrm=iso"
+                  status="C"
+                  date="20060313">Biomédica</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=1657-9534&amp;nrm=iso"
+                  status="C"
+                  date="20050211">Colombia Médica</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-9957&amp;nrm=iso"
+                  status="C"
+                  date="20041019">Revista Colombiana de Gastroenterologia</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0124-0064&amp;nrm=iso"
+                  status="C"
+                  date="20040528">Revista de Salud Pública</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0034-7434&amp;nrm=iso"
+                  status="C"
+                  date="20020620">Revista Colombiana de Obstetricia y Ginecología</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-5633&amp;nrm=iso"
+                  status="C"
+                  date="20020405">Revista Colombiana de Cardiología</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-2448&amp;nrm=iso"
+                  status="C"
+                  date="20020322">Acta Medica Colombiana</journal>
+      </order>
+      <order by="Human Sciences" total="28">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=1692-8156&amp;nrm=iso"
+                  status="C"
+                  date="20090828">International Law</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=1692-715X&amp;nrm=iso"
+                  status="C"
+                  date="20090310">Revista Latinoamericana de Ciencias Sociales, Niñez y Juventud </journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=1794-2489&amp;nrm=iso"
+                  status="C"
+                  date="20090224">Tabula Rasa</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-4807&amp;nrm=iso"
+                  status="C"
+                  date="20090212">Universitas Humanística</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0122-4409&amp;nrm=iso"
+                  status="C"
+                  date="20090210">Papel Politico</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-4823&amp;nrm=iso"
+                  status="C"
+                  date="20090210">Signo y Pensamiento</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=1794-4724&amp;nrm=iso"
+                  status="C"
+                  date="20081203">Avances en Psicología Latinoamericana</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0123-1294&amp;nrm=iso"
+                  status="C"
+                  date="20081119">Educación y Educadores</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0123-4870&amp;nrm=iso"
+                  status="C"
+                  date="20081106">Folios</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-0534&amp;nrm=iso"
+                  status="C"
+                  date="20080811">Revista Latinoamericana de Psicología</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0121-5612&amp;nrm=iso"
+                  status="C"
+                  date="20071224">Colombia Internacional</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-4688&amp;nrm=iso"
+                  status="C"
+                  date="20071011">Praxis Filosófica</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-2596&amp;nrm=iso"
+                  status="C"
+                  date="20071003">Lecturas de Economía</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-0976&amp;nrm=iso"
+                  status="C"
+                  date="20071002">Revista Interamericana de Bibliotecología</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0123-5923&amp;nrm=iso"
+                  status="C"
+                  date="20070705">Estudios Gerenciales</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0121-1617&amp;nrm=iso"
+                  status="C"
+                  date="20070705">Historia Crítica</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0123-885X&amp;nrm=iso"
+                  status="C"
+                  date="20070629">Revista de Estudios Sociales</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0121-3628&amp;nrm=iso"
+                  status="C"
+                  date="20070430">Estudios de Filosofía</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=1657-0790&amp;nrm=iso"
+                  status="C"
+                  date="20070427">Profile Issues in Teachers` Professional Development</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-338X&amp;nrm=iso"
+                  status="C"
+                  date="20070425">Forma y Función</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0121-5051&amp;nrm=iso"
+                  status="C"
+                  date="20070419">Innovar</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0123-9155&amp;nrm=iso"
+                  status="C"
+                  date="20061130">Acta Colombiana de Psicología</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-0062&amp;nrm=iso"
+                  status="C"
+                  date="20061124">Ideas y Valores</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0121-4705&amp;nrm=iso"
+                  status="C"
+                  date="20060929">Análisis Político</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0121-4772&amp;nrm=iso"
+                  status="C"
+                  date="20060526">Cuadernos de Economía</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=1657-9267&amp;nrm=iso"
+                  status="C"
+                  date="20060526">Universitas Psychologica</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-3592&amp;nrm=iso"
+                  status="C"
+                  date="20060223">Cuadernos de Administración</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0124-5996&amp;nrm=iso"
+                  status="C"
+                  date="20060213">Revista de Economía Institucional</journal>
+      </order>
+      <order by="Mathematics" total="2">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0120-1751&amp;nrm=iso"
+                  status="C"
+                  date="20070621">Revista Colombiana de Estadística</journal>
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=0034-7426&amp;nrm=iso"
+                  status="C"
+                  date="20070620">Revista Colombiana de Matemáticas</journal>
+      </order>
+   </journalList>
+   <journalList collection="Cuba" total="30">
+      <order by="Agricultural Sciences" total="3">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0864-0394&amp;nrm=iso"
+                  status="C"
+                  date="20090205">Pastos y Forrajes</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1010-2752&amp;nrm=iso"
+                  status="C"
+                  date="20081120">Revista de Protección Vegetal</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0253-570X&amp;nrm=iso"
+                  status="C"
+                  date="20080922">Revista de Salud Animal</journal>
+      </order>
+      <order by="Agropecuarias Sciences" total="1">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0258-5936&amp;nrm=iso"
+                  status="C"
+                  date="20090424">Cultivos Tropicales</journal>
+      </order>
+      <order by="Applied Social Sciences" total="1">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1024-9435&amp;nrm=iso"
+                  status="C"
+                  date="20000721">ACIMED</journal>
+      </order>
+      <order by="Biological Sciences" total="4">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1010-2752&amp;nrm=iso"
+                  status="C"
+                  date="20081120">Revista de Protección Vegetal</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0253-570X&amp;nrm=iso"
+                  status="C"
+                  date="20080922">Revista de Salud Animal</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1025-0298&amp;nrm=iso"
+                  status="C"
+                  date="20080711">Vaccimonitor</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1028-4796&amp;nrm=iso"
+                  status="C"
+                  date="20040126">Revista Cubana de Plantas Medicinales</journal>
+      </order>
+      <order by="Engineering" total="1">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=2075-5635&amp;nrm=iso"
+                  status="C"
+                  date="20090213">Nucleus</journal>
+      </order>
+      <order by="Health Sciences" total="27">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=2075-5635&amp;nrm=iso"
+                  status="C"
+                  date="20090213">Nucleus</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0864-2141&amp;nrm=iso"
+                  status="C"
+                  date="20081017">Educación Médica Superior</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1025-0255&amp;nrm=iso"
+                  status="C"
+                  date="20081013">Revista Archivo Médico de Camagüey</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0253-570X&amp;nrm=iso"
+                  status="C"
+                  date="20080922">Revista de Salud Animal</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1025-0298&amp;nrm=iso"
+                  status="C"
+                  date="20080711">Vaccimonitor</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1729-519X&amp;nrm=iso"
+                  status="C"
+                  date="20080424">Revista Habanera de Ciencias Médicas</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1727-8120&amp;nrm=iso"
+                  status="C"
+                  date="20071115">Humanidades Médicas</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0045-9178&amp;nrm=iso"
+                  status="C"
+                  date="20071029">Cuadernos de Historia de la Salud Pública</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1561-3003&amp;nrm=iso"
+                  status="C"
+                  date="20060522">Revista Cubana de Higiene y Epidemiología</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0864-2176&amp;nrm=iso"
+                  status="C"
+                  date="20060222">Revista Cubana de Oftalmología</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1561-2953&amp;nrm=iso"
+                  status="C"
+                  date="20050222">Revista Cubana de Endocrinología</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0864-215X&amp;nrm=iso"
+                  status="C"
+                  date="20050103">Revista Cubana de Ortopedia y Traumatología</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0864-0289&amp;nrm=iso"
+                  status="C"
+                  date="20040921">Revista Cubana de Hematología, Inmunología y Hemoterapia</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0138-600X&amp;nrm=iso"
+                  status="C"
+                  date="20040916">Revista Cubana de Obstetricia y Ginecología</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0864-0300&amp;nrm=iso"
+                  status="C"
+                  date="20040206">Revista Cubana de Investigaciones Biomédicas</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0138-6557&amp;nrm=iso"
+                  status="C"
+                  date="20040126">Revista Cubana de Medicina Militar</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1028-4796&amp;nrm=iso"
+                  status="C"
+                  date="20040126">Revista Cubana de Plantas Medicinales</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0034-7515&amp;nrm=iso"
+                  status="C"
+                  date="20031126">Revista Cubana de Farmacia</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0864-0319&amp;nrm=iso"
+                  status="C"
+                  date="20021121">Revista Cubana de Enfermería</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1561-2945&amp;nrm=iso"
+                  status="C"
+                  date="20021104">Revista Cubana de Cirugía</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0034-7523&amp;nrm=iso"
+                  status="C"
+                  date="20021108">Revista Cubana de Medicina</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0034-7531&amp;nrm=iso"
+                  status="C"
+                  date="20021109">Revista Cubana de Pediatría</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0034-7507&amp;nrm=iso"
+                  status="C"
+                  date="20020417">Revista Cubana de Estomatología</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1024-9435&amp;nrm=iso"
+                  status="C"
+                  date="20000721">ACIMED</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0375-0760&amp;nrm=iso"
+                  status="C"
+                  date="20000216">Revista Cubana de Medicina Tropical</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0864-2125&amp;nrm=iso"
+                  status="C"
+                  date="19991025">Revista Cubana de Medicina General Integral</journal>
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0864-3466&amp;nrm=iso"
+                  status="C"
+                  date="19990618">Revista Cubana de Salud Pública</journal>
+      </order>
+      <order by="Human Sciences" total="1">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=1727-8120&amp;nrm=iso"
+                  status="C"
+                  date="20071115">Humanidades Médicas</journal>
+      </order>
+   </journalList>
+   <journalList collection="Espanha" total="41">
+      <order by="Health Sciences" total="41">
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1695-6141&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091105">Enfermería Global</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1139-7632&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090609">Pediatría Atención Primaria</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1576-5962&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081216">Revista de Psicología del Trabajo y de las Organizaciones</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1132-0559&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081009">Intervención Psicosocial</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1699-695X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080925">Revista Clínica de Medicina de Familia</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1886-3655&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080326">Pharmacy Practice (Internet)</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1575-0620&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070611">Revista Española de Sanidad Penitenciaria</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0211-5735&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070220">Revista de la Asociación Española de Neuropsiquiatría</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1130-5274&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061221">Clínica y Salud</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1698-6946&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061211">Medicina Oral, Patología Oral y Cirugía Bucal (Internet)</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1885-642X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060726">Pharmacy Practice (Granada)</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0210-5691&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060615">Medicina Intensiva</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1134-928X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060606">Gerokomos</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0465-546X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060427">Medicina y Seguridad del Trabajo</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0376-7892&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060321">Cirugía Plástica Ibero-Latinoamericana</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1699-6585&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060120">Avances en Periodoncia e Implantología Oral</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0213-1285&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050922">Avances en Odontoestomatología</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0213-6163&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050629">The European Journal of Psychiatry</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0004-0614&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050520">Archivos Españoles de Urología (Ed. impresa)</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1130-1473&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050510">Neurocirugía</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1139-1375&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20041124">Revista de la Sociedad Española de Enfermería Nefrológica</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1130-0108&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040915">Revista Española de Enfermedades Digestivas</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1132-1296&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040823">Index de Enfermería</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1139-6709&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040715">International Microbiology</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0378-4835&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040609">Oncología (Barcelona)</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1134-8046&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040611">Revista de la Sociedad Española del Dolor</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1698-4447&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040430">Medicina Oral, Patología Oral y Cirugía Bucal (Ed. impresa)</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1130-0558&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040122">Revista Española de Cirugía Oral y Maxilofacial</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0212-1611&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20031021">Nutrición Hospitalaria</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1135-7606&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030716">Cuadernos de Medicina Forense</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1137-6627&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030519">Anales del Sistema Sanitario de Navarra</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1575-1813&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20030404">Educación Médica</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0365-6691&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20021212">Archivos de la Sociedad Española de Oftalmología</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0210-4806&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20021129">Actas Urológicas Españolas</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1138-123X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020613">RCOE</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1579-699X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020528">The European journal of psychiatry (edición en español)</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0213-9111&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020404">Gaceta Sanitaria</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0034-7973&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20011008">Revista de Diagnóstico Biológico</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1131-5768&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010406">Medifam</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=0212-7199&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010220">Anales de Medicina Interna</journal>
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1135-5727&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19991020">Revista Española de Salud Pública</journal>
+      </order>
+   </journalList>
+   <journalList collection="Mexico" total="37">
+      <order by="Agricultural Sciences" total="2">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1405-3195&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081111">Agrociencia</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0568-2517&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080626">Agricultura técnica en México</journal>
+      </order>
+      <order by="Applied Social Sciences" total="9">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0187-7372&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090812">Frontera norte</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0301-7036&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090807">Problemas del desarrollo</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0188-2503&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090402">Revista mexicana de sociología</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1870-0063&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20081010">Andamios</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0187-5795&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080730">Argumentos (México, D.F.)</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1665-2436&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080630">Revista latinoamericana de investigación en matemática educativa</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0188-4557&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080627">Estudios sociales (Hermosillo, Son.)</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0188-7742&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051018">Política y cultura</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0185-2698&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050923">Perfiles educativos</journal>
+      </order>
+      <order by="Biological Sciences" total="3">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0301-5092&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080331">Veterinaria México</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0188-4999&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080214">Revista internacional de contaminación ambiental</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1870-3453&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060601">Revista mexicana de biodiversidad</journal>
+      </order>
+      <order by="Engineering" total="1">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1405-7743&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061113">Ingeniería, investigación y tecnología</journal>
+      </order>
+      <order by="Exact and Earth Sciences" total="7">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1870-3542&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090127">Revista mexicana de física E</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1026-8774&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071016">Revista mexicana de ciencias geológicas</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0185-1101&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070914">Revista mexicana de astronomía y astrofísica</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0016-7169&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070905">Geofísica internacional</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0035-001X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070626">Revista mexicana de física</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0187-6236&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050627">Atmósfera</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1405-5546&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050627">Computación y Sistemas</journal>
+      </order>
+      <order by="Health Sciences" total="8">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0016-3813&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20071109">Gaceta médica de México</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1405-9940&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060928">Archivos de cardiología de México</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1665-1146&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060929">Boletín médico del Hospital Infantil de México</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0034-8376&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060929">Revista de investigación clínica</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0187-5337&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060307">Perinatología y reproducción humana</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0187-4705&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060213">Archivos de neurociencias (México, D.F.)</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0187-7585&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060201">Revista del Instituto Nacional de Enfermedades Respiratorias</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0036-3634&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990608">Salud Pública de México</journal>
+      </order>
+      <order by="Human Sciences" total="8">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0185-2450&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090824">Diánoia</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1665-8574&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090812">Latinoamérica. Revista de estudios Latinoamericanos</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0011-1503&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090423">Crítica (México, D.F.)</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1870-3925&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090119">Región y sociedad</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0187-5795&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080730">Argumentos (México, D.F.)</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=1405-9193&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080502">Cuestiones constitucionales</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0186-1042&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20080326">Contaduría y administración</journal>
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0041-8633&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050627">Boletín mexicano de derecho comparado</journal>
+      </order>
+   </journalList>
+   <journalList collection="Portugal" total="27">
+      <order by="" total="0"/>
+      <order by="" total="0"/>
+      <order by="" total="0"/>
+      <order by="Agricultural Sciences" total="3">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0871-018X&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Revista de Ciências Agrárias</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0254-0223&amp;nrm=iso"
+                  status="C"
+                  date="20051028">Ciência e Técnica Vitivinícola</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0870-6352&amp;nrm=iso"
+                  status="C"
+                  date="20030106">Silva Lusitana</journal>
+      </order>
+      <order by="Applied Social Sciences" total="0"/>
+      <order by="Chemistry" total="1">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0872-1904&amp;nrm=iso"
+                  status="C"
+                  date="20030814">Portugaliae Electrochimica Acta</journal>
+      </order>
+      <order by="Engineering" total="2">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0870-8312&amp;nrm=iso"
+                  status="C"
+                  date="20070328">Ciência &amp; Tecnologia dos Materiais</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0870-1164&amp;nrm=iso"
+                  status="C"
+                  date="20070104">Corrosão e Protecção de Materiais</journal>
+      </order>
+      <order by="Exact and Earth Sciences" total="1">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0874-5161&amp;nrm=iso"
+                  status="C"
+                  date="20030106">Investigação Operacional</journal>
+      </order>
+      <order by="Health Sciences" total="6">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=1646-107X&amp;nrm=iso"
+                  status="C"
+                  date="20071130">Motricidade</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0871-3413&amp;nrm=iso"
+                  status="C"
+                  date="20070116">Arquivos de Medicina</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0872-8178&amp;nrm=iso"
+                  status="C"
+                  date="20061017">Jornal Português de Gastrenterologia </journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=1645-0086&amp;nrm=iso"
+                  status="C"
+                  date="20060919">Psicologia, Saúde &amp; Doenças</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0873-2159&amp;nrm=iso"
+                  status="C"
+                  date="20060420">Revista Portuguesa de Pneumologia</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=1645-0523&amp;nrm=iso"
+                  status="C"
+                  date="20051227">Revista Portuguesa de Ciências do Desporto</journal>
+      </order>
+      <order by="Human Sciences" total="6">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0874-5560&amp;nrm=iso"
+                  status="C"
+                  date="20090708">Ex aequo</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=1645-6432&amp;nrm=iso"
+                  status="C"
+                  date="20081015">e-Journal of Portuguese History</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=1646-107X&amp;nrm=iso"
+                  status="C"
+                  date="20071130">Motricidade</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=1654-9911&amp;nrm=iso"
+                  status="C"
+                  date="20060830">Tékhne - Revista de Estudos Politécnicos</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0873-6561&amp;nrm=iso"
+                  status="C"
+                  date="20060621">Etnográfica</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=1645-0523&amp;nrm=iso"
+                  status="C"
+                  date="20051227">Revista Portuguesa de Ciências do Desporto</journal>
+      </order>
+      <order by="Social Sciences" total="12">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0874-5560&amp;nrm=iso"
+                  status="C"
+                  date="20090708">Ex aequo</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=1645-9199&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Relações Internacionais (R:I)</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=1645-4464&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Revista Portuguesa e Brasileira de Gestão</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0873-7444&amp;nrm=iso"
+                  status="C"
+                  date="20080428">Economia Global e Gestão</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0874-2049&amp;nrm=iso"
+                  status="C"
+                  date="20080430">Psicologia</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=1645-7250&amp;nrm=iso"
+                  status="C"
+                  date="20080312">Revista Lusófona de Educação</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0872-9662&amp;nrm=iso"
+                  status="C"
+                  date="20070529">Comportamento Organizacional e Gestão</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=1654-9911&amp;nrm=iso"
+                  status="C"
+                  date="20060830">Tékhne - Revista de Estudos Politécnicos</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0871-9187&amp;nrm=iso"
+                  status="C"
+                  date="20060810">Revista Portuguesa de Educação</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0003-2573&amp;nrm=iso"
+                  status="C"
+                  date="20050803">Análise Social</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0873-6529&amp;nrm=iso"
+                  status="C"
+                  date="20050214">Sociologia, Problemas e Práticas</journal>
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0870-8231&amp;nrm=iso"
+                  status="C"
+                  date="20040526">Análise Psicológica</journal>
+      </order>
+   </journalList>
+   <journalList collection="Venezuela" total="49">
+      <order by="Agricultural Sciences" total="8">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-2259&amp;nrm=iso"
+                  status="C"
+                  date="20070704">Revista Científica</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0258-6576&amp;nrm=iso"
+                  status="C"
+                  date="20060921">Revista de la Facultad de Ciencias Veterinarias</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0002-192X&amp;nrm=iso"
+                  status="C"
+                  date="20050404">Agronomía Tropical</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1316-3361&amp;nrm=iso"
+                  status="C"
+                  date="20050310">Bioagro</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-7269&amp;nrm=iso"
+                  status="C"
+                  date="20041115">Zootecnia Tropical</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0378-7818&amp;nrm=iso"
+                  status="C"
+                  date="20030715">Revista de la Facultad de Agronomía</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1316-0354&amp;nrm=iso"
+                  status="C"
+                  date="20030407">Agroalimentaria</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0378-1844&amp;nrm=iso"
+                  status="C"
+                  date="20020605">Interciencia</journal>
+      </order>
+      <order by="Applied Social Sciences" total="1">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0254-1637&amp;nrm=iso"
+                  status="C"
+                  date="20071120">Argos</journal>
+      </order>
+      <order by="Biological Sciences" total="10">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0252-8274&amp;nrm=iso"
+                  status="C"
+                  date="20080507">Ernstia</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-0138&amp;nrm=iso"
+                  status="C"
+                  date="20080514">Salud de los Trabajadores</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1690-4648&amp;nrm=iso"
+                  status="C"
+                  date="20080314">Boletín de Malariología y Salud Ambiental</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-2259&amp;nrm=iso"
+                  status="C"
+                  date="20070704">Revista Científica</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0258-6576&amp;nrm=iso"
+                  status="C"
+                  date="20060921">Revista de la Facultad de Ciencias Veterinarias</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0002-192X&amp;nrm=iso"
+                  status="C"
+                  date="20050404">Agronomía Tropical</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0084-5906&amp;nrm=iso"
+                  status="C"
+                  date="20030704">Acta Botánica Venezuelica</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0378-1844&amp;nrm=iso"
+                  status="C"
+                  date="20020605">Interciencia</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-2556&amp;nrm=iso"
+                  status="C"
+                  date="20020211">Revista de la Sociedad Venezolana de Microbiología</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0535-5133&amp;nrm=iso"
+                  status="C"
+                  date="20010731">Investigación Clínica</journal>
+      </order>
+      <order by="Chemistry" total="2">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-2259&amp;nrm=iso"
+                  status="C"
+                  date="20070704">Revista Científica</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0378-1844&amp;nrm=iso"
+                  status="C"
+                  date="20020605">Interciencia</journal>
+      </order>
+      <order by="Engineering" total="9">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1690-7515&amp;nrm=iso"
+                  status="C"
+                  date="20080507">Enlace</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-0138&amp;nrm=iso"
+                  status="C"
+                  date="20080514">Salud de los Trabajadores</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1690-4648&amp;nrm=iso"
+                  status="C"
+                  date="20080314">Boletín de Malariología y Salud Ambiental</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1316-4821&amp;nrm=iso"
+                  status="C"
+                  date="20070718">Universidad, Ciencia y Tecnología</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-4065&amp;nrm=iso"
+                  status="C"
+                  date="20070608">Revista de la Facultad de Ingeniería Universidad Central de Venezuela</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0255-6952&amp;nrm=iso"
+                  status="C"
+                  date="20040427">Revista Latinoamericana de Metalurgia y Materiales</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0376-723X&amp;nrm=iso"
+                  status="C"
+                  date="20031124">Boletín Técnico </journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0254-0770&amp;nrm=iso"
+                  status="C"
+                  date="20030507">Revista Técnica de la Facultad de Ingeniería Universidad del Zulia</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0378-1844&amp;nrm=iso"
+                  status="C"
+                  date="20020605">Interciencia</journal>
+      </order>
+      <order by="Geosciences" total="2">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1316-4821&amp;nrm=iso"
+                  status="C"
+                  date="20070718">Universidad, Ciencia y Tecnología</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-2259&amp;nrm=iso"
+                  status="C"
+                  date="20070704">Revista Científica</journal>
+      </order>
+      <order by="Health Sciences" total="17">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-0138&amp;nrm=iso"
+                  status="C"
+                  date="20080514">Salud de los Trabajadores</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1690-4648&amp;nrm=iso"
+                  status="C"
+                  date="20080314">Boletín de Malariología y Salud Ambiental</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0367-4762&amp;nrm=iso"
+                  status="C"
+                  date="20070910">Gaceta Médica de Caracas</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1316-4821&amp;nrm=iso"
+                  status="C"
+                  date="20070718">Universidad, Ciencia y Tecnología</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-2259&amp;nrm=iso"
+                  status="C"
+                  date="20070704">Revista Científica</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0258-6576&amp;nrm=iso"
+                  status="C"
+                  date="20060921">Revista de la Facultad de Ciencias Veterinarias</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-0582&amp;nrm=iso"
+                  status="C"
+                  date="20060406">Revista Venezolana de Oncología</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0075-5222&amp;nrm=iso"
+                  status="C"
+                  date="20060302">Kasmera</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-0477&amp;nrm=iso"
+                  status="C"
+                  date="20040917">Revista del Instituto Nacional de Higiene Rafael Rangel</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-0752&amp;nrm=iso"
+                  status="C"
+                  date="20020430">Anales Venezolanos de Nutrición</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-2556&amp;nrm=iso"
+                  status="C"
+                  date="20020211">Revista de la Sociedad Venezolana de Microbiología</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0004-0622&amp;nrm=iso"
+                  status="C"
+                  date="20020108">Archivos Latinoamericanos de Nutrición</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-0264&amp;nrm=iso"
+                  status="C"
+                  date="20011207">Archivos Venezolanos de Farmacología y Terapéutica</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0048-7732&amp;nrm=iso"
+                  status="C"
+                  date="20011126">Revista de Obstetricia y Ginecología de Venezuela</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-0469&amp;nrm=iso"
+                  status="C"
+                  date="20011127">Revista de la Facultad de Medicina</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0001-6365&amp;nrm=iso"
+                  status="C"
+                  date="20010731">Acta Odontológica Venezolana</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0535-5133&amp;nrm=iso"
+                  status="C"
+                  date="20010731">Investigación Clínica</journal>
+      </order>
+      <order by="Human Sciences" total="19">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1316-3701&amp;nrm=iso"
+                  status="C"
+                  date="20080228">Revista Venezolana de Estudios de la Mujer</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0254-1637&amp;nrm=iso"
+                  status="C"
+                  date="20071120">Argos</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-6411&amp;nrm=iso"
+                  status="C"
+                  date="20070611">Revista Venezolana de Economía y Ciencias Sociales</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-9984&amp;nrm=iso"
+                  status="C"
+                  date="20070517">Revista Venezolana de Gerencia</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1316-4910&amp;nrm=iso"
+                  status="C"
+                  date="20061107">Educere</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0459-1283&amp;nrm=iso"
+                  status="C"
+                  date="20060905">Letras</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-4324&amp;nrm=iso"
+                  status="C"
+                  date="20060905">Revista del Instituto de Filosofía  (EPISTEME)</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-8597&amp;nrm=iso"
+                  status="C"
+                  date="20060808">Gaceta Laboral </journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1011-2251&amp;nrm=iso"
+                  status="C"
+                  date="20060810">Paradígma</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-9784&amp;nrm=iso"
+                  status="C"
+                  date="20060719">Núcleo</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-9518&amp;nrm=iso"
+                  status="C"
+                  date="20060628">Revista de Ciencias Sociales</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-5216&amp;nrm=iso"
+                  status="C"
+                  date="20060608">Utopìa y Praxis Latinoamericana</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-9709&amp;nrm=iso"
+                  status="C"
+                  date="20050510">Boletin de Linguistica</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-1171&amp;nrm=iso"
+                  status="C"
+                  date="20040804">Revista de Filosofía</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-6268&amp;nrm=iso"
+                  status="C"
+                  date="20040712">Frónesis</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1012-1587&amp;nrm=iso"
+                  status="C"
+                  date="20040614">Opción</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1012-2508&amp;nrm=iso"
+                  status="C"
+                  date="20030715">Cuadernos del Cendes</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-9792&amp;nrm=iso"
+                  status="C"
+                  date="20030512">Revista de Pedagogía</journal>
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1316-0087&amp;nrm=iso"
+                  status="C"
+                  date="20030215">Investigación y Postgrado</journal>
+      </order>
+      <order by="Mathematics" total="1">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=0798-2259&amp;nrm=iso"
+                  status="C"
+                  date="20070704">Revista Científica</journal>
+      </order>
+   </journalList>
+   <journalList collection="Saude Publica" total="11">
+      <order by="Health Sciences" total="11">
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=0864-3466&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070517">Revista Cubana de Salud Pública</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=1415-790X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20050112">Revista Brasileira de Epidemiologia</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=0124-0064&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20040521">Revista de Salud Pública</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=0213-9111&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020716">Gaceta Sanitaria</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=1413-8123&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20020111">Ciência &amp; Saúde Coletiva</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=0042-9686&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20010828">Bulletin of the World Health Organization</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=1135-5727&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19991020">Revista Española de Salud Pública</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=0102-311X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990702">Cadernos de Saúde Pública</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=0036-3634&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19990608">Salud Pública de México</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=0034-8910&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19980430">Revista de Saúde Pública</journal>
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=1020-4989&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="19980127">Revista Panamericana de Salud Pública</journal>
+      </order>
+   </journalList>
+   <journalList collection="Ciências Sociais" total="29">
+      <order by="" total="1">
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1414-3283&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060912">Interface - Comunicação, Saúde, Educação</journal>
+      </order>
+      <order by="" total="1">
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1414-3283&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060912">Interface - Comunicação, Saúde, Educação</journal>
+      </order>
+      <order by="" total="1">
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1414-3283&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060912">Interface - Comunicação, Saúde, Educação</journal>
+      </order>
+      <order by="Human Sciences" total="28">
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1981-3821&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070521">Brazilian Political Science Review (Online)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1012-1587&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070112">Opción (Maracaibo)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1819-0545&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061205">Revista de Humanidades y Ciencias Sociales (Santa Cruz de la Sierra)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1990-7451&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061204">T'inkazos</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1414-753X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060925">Ambiente &amp; sociedade</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0101-9074&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060925">História (São Paulo)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0100-512X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060918">Kriterion: Revista de Filosofia</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1806-6445&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060915">Sur - Revista Internacional de Direitos Humanos</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1518-4471&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060804">Teoria &amp; Sociedade</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0046-001X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060731">Desarrollo Económico (Buenos Aires)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0104-026X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060720">Estudos Feministas</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0717-7194&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060721">Historia (Santiago)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0104-9313&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060710">Mana</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0104-4478&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060714">Revista de Sociologia e Política</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1517-4522&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060710">Sociologias</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0327-7712&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060619">Sociedad (Buenos Aires)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0717-1498&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060523">Revista Fuerzas Armadas y Sociedad </journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1515-3371&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060522">Relaciones Internacionales </journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0797-6062&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060412">Cuadernos del CLAEH</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0100-8587&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060323">Religião &amp; Sociedade</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1518-3319&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060316">Topoi: Revista de História</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0104-7183&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060220">Horizontes Antropológicos</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0797-9789&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060123">Revista Uruguaya de Ciencia Política</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0103-2070&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051024">Tempo Social</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0011-5258&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051005">Dados </journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1413-0580&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051005">Estudos Sociedade e Agricultura</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0101-3300&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051005">Novos Estudos - CEBRAP</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0102-6909&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051004">Revista Brasileira de Ciências Sociais</journal>
+      </order>
+      <order by="Social Sciences" total="26">
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1012-1587&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070112">Opción (Maracaibo)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1819-0545&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061205">Revista de Humanidades y Ciencias Sociales (Santa Cruz de la Sierra)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1990-7451&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061204">T'inkazos</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1414-753X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060925">Ambiente &amp; sociedade</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0101-9074&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060925">História (São Paulo)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0100-512X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060918">Kriterion: Revista de Filosofia</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1518-4471&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060804">Teoria &amp; Sociedade</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0046-001X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060731">Desarrollo Económico (Buenos Aires)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0104-026X&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060720">Estudos Feministas</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0717-7194&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060721">Historia (Santiago)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0104-9313&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060710">Mana</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0104-4478&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060714">Revista de Sociologia e Política</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1517-4522&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060710">Sociologias</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0327-7712&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060619">Sociedad (Buenos Aires)</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0717-1498&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060523">Revista Fuerzas Armadas y Sociedad </journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1515-3371&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060522">Relaciones Internacionales </journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0797-6062&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060412">Cuadernos del CLAEH</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0100-8587&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060323">Religião &amp; Sociedade</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1518-3319&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060316">Topoi: Revista de História</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0104-7183&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060220">Horizontes Antropológicos</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0797-9789&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20060123">Revista Uruguaya de Ciencia Política</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0103-2070&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051024">Tempo Social</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0011-5258&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051005">Dados </journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1413-0580&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051005">Estudos Sociedade e Agricultura</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0101-3300&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051005">Novos Estudos - CEBRAP</journal>
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=0102-6909&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20051004">Revista Brasileira de Ciências Sociais</journal>
+      </order>
+   </journalList>
+   <journalList collection="West Indian Medical Journal" total="1">
+      <order by="Health Sciences" total="1">
+         <journal uri="http://caribbean.scielo.org/scielo.php?script=sci_serial&amp;pid=0043-3144&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061030">West Indian Medical Journal</journal>
+      </order>
+   </journalList>
+</secondLevelForCollectionBySubject>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Mexico" uri="http://www.scielo.org.mx" flagName="MX" homologado="false">
+<wxis-modules IsisScript="listNewTitles.xis" version="0.2">
+<record>
+<title>Revista mexicana de astronomía y astrofísica</title>
+<processDate>20070914</processDate>
+<issn>0185-1101</issn>
+<publisher>Instituto de Astronomía, UNAM</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Geofísica internacional</title>
+<processDate>20070905</processDate>
+<issn>0016-7169</issn>
+<publisher>Instituto de Geofísica, UNAM</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista mexicana de física</title>
+<processDate>20070626</processDate>
+<issn>0035-001X</issn>
+<publisher>Sociedad Mexicana de Física</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ingeniería, investigación y tecnología</title>
+<processDate>20061113</processDate>
+<issn>1405-7743</issn>
+<publisher>Facultad de Ingeniería, UNAM</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Archivos de cardiología de México</title>
+<processDate>20060928</processDate>
+<issn>1405-9940</issn>
+<publisher>Instituto Nacional de Cardiología Ignacio Chávez</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Boletín médico del Hospital Infantil de México</title>
+<processDate>20060929</processDate>
+<issn>1665-1146</issn>
+<publisher>Instituto Nacional de Salud, Hospital Infantil de México Federico Gómez</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Gaceta médica de México</title>
+<processDate>20060929</processDate>
+<issn>0016-3813</issn>
+<publisher>Academia Nacional de Medicina de México</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de investigación clínica</title>
+<processDate>20060929</processDate>
+<issn>0034-8376</issn>
+<publisher>Instituto nacional de ciencias medicas y nutrición Salvador Zubirán</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista mexicana de biodiversidad</title>
+<processDate>20060601</processDate>
+<issn>1870-3453</issn>
+<publisher>Instituto de Biología</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Perinatología y reproducción humana</title>
+<processDate>20060307</processDate>
+<issn>0187-5337</issn>
+<publisher>Instituto Nacional de Perinatología</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Archivos de neurociencias (México, D.F.)</title>
+<processDate>20060213</processDate>
+<issn>0187-4705</issn>
+<publisher>Instituto Nacional de Neurología y Neurocirugía</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista del Instituto Nacional de Enfermedades Respiratorias</title>
+<processDate>20060201</processDate>
+<issn>0187-7585</issn>
+<publisher>Instituto Nacional de Enfermedades Respiratorias</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Política y cultura</title>
+<processDate>20051018</processDate>
+<issn>0188-7742</issn>
+<publisher>Universidad Autónoma Metropolitana, Unidad Xochimilco</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Perfiles educativos</title>
+<processDate>20050923</processDate>
+<issn>0185-2698</issn>
+<publisher>Centro de Estudios sobre la Universidad, UNAM</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Atmósfera</title>
+<processDate>20050627</processDate>
+<issn>0187-6236</issn>
+<publisher>Centro de Ciencias de la Atmósfera, UNAM</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Boletín mexicano de derecho comparado</title>
+<processDate>20050627</processDate>
+<issn>0041-8633</issn>
+<publisher>Instituto de Investigaciones Jurídicas, UNAM</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Computación y Sistemas</title>
+<processDate>20050627</processDate>
+<issn>1405-5546</issn>
+<publisher>Centro de Investigación en computación, IPN</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Salud Pública de México</title>
+<processDate>19990608</processDate>
+<issn>0036-3634</issn>
+<publisher>Instituto Nacional de Salud Pública</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><list mfn="1">
+   <server>
+      <occ date="20070919" time="112620"></occ>
+   </server>
+   <database>
+      <occ>/srv/www/scielo/bases/title/title</occ>
+   </database>
+   <from/>
+   <to/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+   <Isis_Current>
+      <occ>18</occ>
+   </Isis_Current>
+   <Isis_Total>
+      <occ>18</occ>
+   </Isis_Total>
+   <previous/>
+   <next/>
+</list>
+</wxis-modules></collection></SciELOWebService>

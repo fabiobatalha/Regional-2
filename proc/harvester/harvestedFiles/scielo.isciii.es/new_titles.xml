@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Espanha" uri="http://scielo.isciii.es" flagName="ES" homologado="true">
+<wxis-modules IsisScript="listNewTitles.xis" version="0.2">
+<record>
+<title>Revista Española de Sanidad Penitenciaria</title>
+<processDate>20070611</processDate>
+<issn>1575-0620</issn>
+<publisher>Sociedad Española de Sanidad Penitenciaria</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de la Asociación Española de Neuropsiquiatría</title>
+<processDate>20070220</processDate>
+<issn>0211-5735</issn>
+<publisher>Asociación Española de Neuropsiquiatría</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Clínica y Salud</title>
+<processDate>20061221</processDate>
+<issn>1130-5274</issn>
+<publisher>Colegio Oficial de Psicólogos de Madrid</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Medicina Oral, Patología Oral y Cirugía Bucal (Internet)</title>
+<processDate>20061211</processDate>
+<issn>1698-6946</issn>
+<publisher>Sociedad Española de Medicina Oral</publisher>
+<publisher>Sociedad Española de Odontoestomatología para el Minusválido y Pacientes Especiales</publisher>
+<publisher>Sociedad Española de Cirugía Bucal</publisher>
+<publisher>Academia Iberoamericana de Patología y Medicinal Bucal</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Pharmacy Practice (Granada)</title>
+<processDate>20060726</processDate>
+<issn>1886-3655</issn>
+<publisher>Centro de Investigaciones y Publicaciones Farmacéuticas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Medicina Intensiva</title>
+<processDate>20060615</processDate>
+<issn>0210-5691</issn>
+<publisher>Elsevier Doyma, S.L.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Gerokomos</title>
+<processDate>20060606</processDate>
+<issn>1134-928X</issn>
+<publisher>Ediciones SPA S.L.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Medicina y Seguridad del Trabajo</title>
+<processDate>20060427</processDate>
+<issn>0465-546X</issn>
+<publisher>Escuela Nacional de Medicina del Trabajo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cirugía Plástica Ibero-Latinoamericana</title>
+<processDate>20060321</processDate>
+<issn>0376-7892</issn>
+<publisher>Sociedad Española de Cirugía Plástica, Reparadora y Estética (SECPRE)</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Avances en Periodoncia e Implantología Oral</title>
+<processDate>20060120</processDate>
+<issn>1699-6585</issn>
+<publisher>Ediciones Avances, S.L.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Seguimiento Farmacoterapéutico</title>
+<processDate>20051115</processDate>
+<issn>1696-1137</issn>
+<publisher>Centro de Investiagaciones y Publicaciones Farmacéuticas</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Avances en Odontoestomatología</title>
+<processDate>20050922</processDate>
+<issn>0213-1285</issn>
+<publisher>Ediciones Avances, S.L.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>The European Journal of Psychiatry</title>
+<processDate>20050629</processDate>
+<issn>0213-6163</issn>
+<publisher>Departamento de Psiquiatría de la Facultad de Medicina de Zaragoza</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Archivos Españoles de Urología (Ed. impresa)</title>
+<processDate>20050520</processDate>
+<issn>0004-0614</issn>
+<publisher>INIESTARES, S.A.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Neurocirugía</title>
+<processDate>20050510</processDate>
+<issn>1130-1473</issn>
+<publisher>Sociedad Española de Neurocirugía</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de la Sociedad Española de Enfermería Nefrológica</title>
+<processDate>20041124</processDate>
+<issn>1139-1375</issn>
+<publisher>Sociedad Española de Enfermería Nefrológica</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Española de Enfermedades Digestivas</title>
+<processDate>20040915</processDate>
+<issn>1130-0108</issn>
+<publisher>Arán Ediciones, S.L.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Index de Enfermería</title>
+<processDate>20040823</processDate>
+<issn>1132-1296</issn>
+<publisher>Fundación Index</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>International Microbiology</title>
+<processDate>20040715</processDate>
+<issn>1139-6709</issn>
+<publisher>Sociedad Española de Microbiología</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Oncología (Barcelona)</title>
+<processDate>20040609</processDate>
+<issn>0378-4835</issn>
+<publisher>Alpe Editores, S.A.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de la Sociedad Española del Dolor</title>
+<processDate>20040611</processDate>
+<issn>1134-8046</issn>
+<publisher>Sociedad Española del Dolor</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Medicina Oral, Patología Oral y Cirugía Bucal (Ed. impresa)</title>
+<processDate>20040430</processDate>
+<issn>1698-4447</issn>
+<publisher>Sociedad Española de Medicina Oral</publisher>
+<publisher>Sociedad Española de Odontoestomatología para el Minusválido y Pacientes Especiales</publisher>
+<publisher>Sociedad Española de Cirugía Bucal</publisher>
+<publisher>Academia Iberoamericana de Patología y Medicinal Bucal</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Española de Cirugía Oral y Maxilofacial</title>
+<processDate>20040122</processDate>
+<issn>1130-0558</issn>
+<publisher>Sociedad Española de Cirugía Oral y Maxilofacial</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Nutrición Hospitalaria</title>
+<processDate>20031021</processDate>
+<issn>0212-1611</issn>
+<publisher>Sociedad Española de Nutrición Parenteral y Enteral</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cuadernos de Medicina Forense</title>
+<processDate>20030716</processDate>
+<issn>1135-7606</issn>
+<publisher>Asociación Andaluza de Médicos Forenses</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Anales del Sistema Sanitario de Navarra</title>
+<processDate>20030519</processDate>
+<issn>1137-6627</issn>
+<publisher>Gobierno de Navarra. Departamento de Salud</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Educación Médica</title>
+<processDate>20030404</processDate>
+<issn>1575-1813</issn>
+<publisher>Fundación Educación Médica</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Archivos de la Sociedad Española de Oftalmología</title>
+<processDate>20021212</processDate>
+<issn>0365-6691</issn>
+<publisher>Sociedad Española de Oftalmología</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Actas Urológicas Españolas</title>
+<processDate>20021129</processDate>
+<issn>0210-4806</issn>
+<publisher>Asociación Española de Urología</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>RCOE</title>
+<processDate>20020613</processDate>
+<issn>1138-123X</issn>
+<publisher>Ilustre Consejo General de Colegios de Odontólogos y Estomatólogos de España</publisher>
+<publisher>  </publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>The European journal of psychiatry (edición en español)</title>
+<processDate>20020528</processDate>
+<issn>1579-699X</issn>
+<publisher>Departamento de Psiquiatría. Facultad de Medicina. Universidad de Zaragoza</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Gaceta Sanitaria</title>
+<processDate>20020404</processDate>
+<issn>0213-9111</issn>
+<publisher>Elsevier Doyma, S. L.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Diagnóstico Biológico</title>
+<processDate>20011008</processDate>
+<issn>0034-7973</issn>
+<publisher>Editorial Siglo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Medifam</title>
+<processDate>20010406</processDate>
+<issn>1131-5768</issn>
+<publisher>Arán Ediciones, S. L.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Anales de Medicina Interna</title>
+<processDate>20010220</processDate>
+<issn>0212-7199</issn>
+<publisher>Arán Ediciones, S. L.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Española de Salud Pública</title>
+<processDate>19991020</processDate>
+<issn>1135-5727</issn>
+<publisher>Ministerio de Sanidad y Consumo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><list mfn="1">
+   <server>
+      <occ date="20070919" time="163315"></occ>
+   </server>
+   <database>
+      <occ>/home/ISCIII/scielo/bases/title/title</occ>
+   </database>
+   <from/>
+   <to/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+   <Isis_Current>
+      <occ>36</occ>
+   </Isis_Current>
+   <Isis_Total>
+      <occ>36</occ>
+   </Isis_Total>
+   <previous/>
+   <next/>
+</list>
+</wxis-modules></collection></SciELOWebService>

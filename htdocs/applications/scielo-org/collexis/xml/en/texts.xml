@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<texts>
+	<labels available="">
+    <text>
+      <find>TITLE</find>
+      <replace>Search</replace>
+    </text>
+	<text>
+      <find>BVS_TITLE</find>
+      <replace>Virtual Health Library</replace>	
+	</text>	
+    <text>
+      <find>HOME</find>
+      <replace>Relevance Search</replace>
+    </text>
+    <text>
+      <find>FALE_CONOSCO</find>
+      <replace>Ask us!</replace>
+	  <href>mailto:collexis.bvs@bireme.br</href>
+    </text>
+    <text>
+      <find>PESQUISAR_POR</find>
+      <replace>Search documents more related to the concepts:</replace>
+    </text>
+    <text>
+      <find>AJUDA</find>
+      <replace>help</replace>
+    </text>
+    <text>
+      <find>PESQUISAR</find>
+      <replace>Search</replace>
+    </text>
+    <text>
+      <find>FONTE</find>
+      <replace>Information source</replace>
+    </text>		
+    <text>
+      <find>IDIOMA</find>
+      <replace>my search is in</replace>
+    </text>			
+    <text>
+      <find>RESULTADO</find>
+      <replace>Results</replace>
+    </text>
+    <text>
+      <find>SEM_RESULTADO</find>
+      <replace>No documents found</replace>
+    </text>	
+    <text>		
+      <find>DOCUMENTOS</find>
+      <replace>Documents</replace>
+    </text>
+    <text>		
+      <find>DE</find>
+      <replace>of</replace>
+    </text>
+    <text>		
+      <find>RELEVANTES</find>
+      <replace>more relevants</replace>
+    </text>
+    <text>		
+      <find>CONCEITOS</find>
+      <replace>Concepts</replace>
+    </text>
+    <text>		
+      <find>CONCEITOS_INFO</find>
+      <replace>Concepts influencing the result list; relative importance can be adjusted; "high" means "has to be in document"</replace>
+    </text>
+    <text>		
+      <find>CONCEITOS_TESAURO</find>
+      <replace>Thesaurus terms</replace>
+    </text>
+    <text>		
+      <find>CONCEITOS_LIVRE</find>
+      <replace>Freetext terms</replace>
+    </text>		
+    <text>		
+      <find>REFINE</find>
+      <replace>refine your search</replace>
+    </text>
+	<text>		
+      <find>MOSTRANDO</find>
+      <replace>Showing the </replace>
+    </text>
+    <text>		
+      <find>ENCONTRADOS</find>
+      <replace>Found</replace>
+    </text>
+    <text>		
+      <find>DOCUMENTOS_RELEVANTES</find>
+      <replace>more relevant documents</replace>
+    </text>
+    <text>		
+      <find>PESQUISANDO</find>
+      <replace>Search in </replace>
+    </text>		
+    <text>		
+      <find>DOCUMENTOS_RELEVANTES</find>
+      <replace>relevant documents</replace>
+    </text>	
+    <text>		
+      <find>TEXTO_COMPLETO</find>
+      <replace>fulltext</replace>
+    </text>	
+    <text>		
+      <find>VER_REFERENCIA</find>
+      <replace>reference</replace>
+    </text>
+    <text>		
+      <find>LISTA_CONCEITOS</find>
+      <replace>concepts</replace>
+    </text>
+    <text>		
+      <find>SIMILARES</find>
+      <replace>find similar</replace>
+    </text>
+	<text>
+		<find>NOVA_PESQUISA</find>
+		<replace>new search</replace>
+	</text>
+	<text>
+		<find>IDIOMA_DOCUMENTO</find>
+		<replace>Language</replace>
+	</text>
+	<text>
+		<find>IDIOMA_PT</find>
+		<replace>Portuguese</replace>
+	</text>
+	<text>
+		<find>IDIOMA_ES</find>
+		<replace>Spanish</replace>
+	</text>
+	<text>
+		<find>IDIOMA_EN</find>
+		<replace>English</replace>
+	</text>
+	<text>
+		<find>GRAUS_DE_RELEVANCIA</find>
+		<replace>low medio high</replace>
+	</text>
+	<text>
+		<find>AJUSTAR_BOTAO</find>
+		<replace>set</replace>
+	</text>	
+	<text>
+		<find>ADICIONA_CONCEITO_MANUAL</find>
+		<replace>Add manually a new concept in your search</replace>
+	</text>
+	<text>
+		<find>ADICIONA_CONCEITO_PROPOSTO</find>
+		<replace>or select one of the proposed concepts below:</replace>
+	</text>
+	<text>
+		<find>ADICIONA_BOTAO</find>
+		<replace>add</replace>
+	</text>	
+	<text>
+		<find>EXIBINDO_PAGINA</find>
+		<replace>Showing page</replace>
+	</text>
+	<text>
+		<find>EXIBINDO_PAGINA_DE</find>
+		<replace>of</replace>
+	</text>
+	<text>
+		<find>IR_PARA_PAGINA</find>
+		<replace>go to page</replace>
+	</text>	
+	<text>
+		<find>FONTE_INFORMACAO</find>
+		<replace>Source information</replace>
+	</text>
+	<text>
+		<find>INFORME_EXPRESSAO</find>
+		<replace>Inform the search expression</replace>
+	</text>	
+	<text>
+		<find>www.scielo.br</find>
+		<replace>Brazil</replace>	
+	</text>
+	<text>
+		<find>www.scielosp.org</find>
+		<replace>Public Health</replace>	
+	</text>
+	<text>
+		<find>wwwscielo.isciii.es</find>
+		<replace>Spain</replace>	
+	</text>
+	<text>
+		<find>www.scielo.cl</find>
+		<replace>Chile</replace>	
+	</text>	
+  </labels>
+</texts>

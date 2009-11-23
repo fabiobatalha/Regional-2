@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Saude Publica" uri="http://www.scielosp.org" flagName="XX" grupo="developed">
+<wxis-modules IsisScript="listNewIssues.xis" version="0.1">
+<record>
+<subject>Health Sciences</subject>
+<publisher>Faculdade de Saúde Pública da Universidade de São Paulo</publisher>
+<title>Revista de Saúde Pública</title>
+<issn>0034-8910</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090915</updateDate>
+<pid>0034-891020090050</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Faculdade de Saúde Pública da Universidade de São Paulo</publisher>
+<title>Revista de Saúde Pública</title>
+<issn>0034-8910</issn>
+<volume>s/v</volume>
+<numero>ahead</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090915</updateDate>
+<pid>0034-891020090101</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>Revista Cubana de Salud Pública</title>
+<issn>0864-3466</issn>
+<volume>35</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090914</updateDate>
+<pid>0864-346620090003</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>Revista Cubana de Salud Pública</title>
+<issn>0864-3466</issn>
+<volume>35</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090908</updateDate>
+<pid>0864-346620090002</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós-Graduação em Saúde Coletiva</publisher>
+<title>Ciência &amp; Saúde Coletiva</title>
+<issn>1413-8123</issn>
+<volume>14</volume>
+<suplemento>1</suplemento>
+<pubYear>2009</pubYear>
+<updateDate>20090908</updateDate>
+<pid>1413-812320090008</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz</publisher>
+<title>Cadernos de Saúde Pública</title>
+<issn>0102-311X</issn>
+<volume>25</volume>
+<numero>9</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090903</updateDate>
+<pid>0102-311X20090009</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>Revista Cubana de Salud Pública</title>
+<issn>0864-3466</issn>
+<volume>35</volume>
+<numero>1</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090903</updateDate>
+<pid>0864-346620090001</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Organización Panamericana de la Salud</publisher>
+<title>Revista Panamericana de Salud Pública</title>
+<issn>1020-4989</issn>
+<volume>26</volume>
+<numero>1</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090831</updateDate>
+<pid>1020-498920090007</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós -Graduação em Saúde Coletiva </publisher>
+<title>Revista Brasileira de Epidemiologia</title>
+<issn>1415-790X</issn>
+<volume>12</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090831</updateDate>
+<pid>1415-790X20090003</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto de Salud Publica, Faculdad de Medicina -Universidad Nacional de Colombia</publisher>
+<title>Revista de Salud Pública</title>
+<issn>0124-0064</issn>
+<volume>11</volume>
+<numero>1</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090827</updateDate>
+<pid>0124-006420090001</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Ministerio de Sanidad y Consumo</publisher>
+<title>Revista Española de Salud Pública</title>
+<issn>1135-5727</issn>
+<volume>83</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090827</updateDate>
+<pid>1135-572720090003</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto de Salud Publica, Faculdad de Medicina -Universidad Nacional de Colombia</publisher>
+<title>Revista de Salud Pública</title>
+<issn>0124-0064</issn>
+<volume>11</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090824</updateDate>
+<pid>0124-006420090002</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós-Graduação em Saúde Coletiva</publisher>
+<title>Ciência &amp; Saúde Coletiva</title>
+<issn>1413-8123</issn>
+<volume>14</volume>
+<numero>4</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090824</updateDate>
+<pid>1413-812320090004</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>8</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090814</updateDate>
+<pid>0042-968620090008</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Organización Panamericana de la Salud</publisher>
+<title>Revista Panamericana de Salud Pública</title>
+<issn>1020-4989</issn>
+<volume>25</volume>
+<numero>6</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090813</updateDate>
+<pid>1020-498920090006</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz</publisher>
+<title>Cadernos de Saúde Pública</title>
+<issn>0102-311X</issn>
+<volume>25</volume>
+<suplemento>2</suplemento>
+<pubYear>2009</pubYear>
+<updateDate>20090812</updateDate>
+<pid>0102-311X20090014</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Faculdade de Saúde Pública da Universidade de São Paulo</publisher>
+<title>Revista de Saúde Pública</title>
+<issn>0034-8910</issn>
+<volume>43</volume>
+<suplemento>1</suplemento>
+<pubYear>2009</pubYear>
+<updateDate>20090804</updateDate>
+<pid>0034-891020090008</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud Pública</publisher>
+<title>Salud Pública de México</title>
+<issn>0036-3634</issn>
+<volume>51</volume>
+<numero>4</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090803</updateDate>
+<pid>0036-363420090004</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Faculdade de Saúde Pública da Universidade de São Paulo</publisher>
+<title>Revista de Saúde Pública</title>
+<issn>0034-8910</issn>
+<volume>43</volume>
+<numero>4</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090727</updateDate>
+<pid>0034-891020090004</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz</publisher>
+<title>Cadernos de Saúde Pública</title>
+<issn>0102-311X</issn>
+<volume>25</volume>
+<numero>8</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090727</updateDate>
+<pid>0102-311X20090008</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Ministerio de Sanidad y Consumo</publisher>
+<title>Revista Española de Salud Pública</title>
+<issn>1135-5727</issn>
+<volume>83</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090724</updateDate>
+<pid>1135-572720090002</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>7</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090720</updateDate>
+<pid>0042-968620090007</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Organización Panamericana de la Salud</publisher>
+<title>Revista Panamericana de Salud Pública</title>
+<issn>1020-4989</issn>
+<volume>25</volume>
+<numero>5</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090708</updateDate>
+<pid>1020-498920090005</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós -Graduação em Saúde Coletiva </publisher>
+<title>Revista Brasileira de Epidemiologia</title>
+<issn>1415-790X</issn>
+<volume>12</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090626</updateDate>
+<pid>1415-790X20090002</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz</publisher>
+<title>Cadernos de Saúde Pública</title>
+<issn>0102-311X</issn>
+<volume>25</volume>
+<numero>7</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090625</updateDate>
+<pid>0102-311X20090007</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>1</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090617</updateDate>
+<pid>0042-968620090100</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090617</updateDate>
+<pid>0042-968620090101</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090617</updateDate>
+<pid>0042-968620090102</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>4</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090617</updateDate>
+<pid>0042-968620090103</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>5</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090617</updateDate>
+<pid>0042-968620090104</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>6</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090617</updateDate>
+<pid>0042-968620090105</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090616</updateDate>
+<pid>0042-968620090002</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>4</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090616</updateDate>
+<pid>0042-968620090004</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>5</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090616</updateDate>
+<pid>0042-968620090005</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>6</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090615</updateDate>
+<pid>0042-968620090006</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós-Graduação em Saúde Coletiva</publisher>
+<title>Ciência &amp; Saúde Coletiva</title>
+<issn>1413-8123</issn>
+<volume>14</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090615</updateDate>
+<pid>1413-812320090003</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud Pública</publisher>
+<title>Salud Pública de México</title>
+<issn>0036-3634</issn>
+<volume>51</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090602</updateDate>
+<pid>0036-363420090003</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz</publisher>
+<title>Cadernos de Saúde Pública</title>
+<issn>0102-311X</issn>
+<volume>25</volume>
+<numero>6</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090602</updateDate>
+<pid>0102-311X20090006</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Organización Panamericana de la Salud</publisher>
+<title>Revista Panamericana de Salud Pública</title>
+<issn>1020-4989</issn>
+<volume>25</volume>
+<numero>4</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090602</updateDate>
+<pid>1020-498920090004</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Ministerio de Sanidad y Consumo</publisher>
+<title>Revista Española de Salud Pública</title>
+<issn>1135-5727</issn>
+<volume>83</volume>
+<numero>1</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090602</updateDate>
+<pid>1135-572720090001</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz</publisher>
+<title>Cadernos de Saúde Pública</title>
+<issn>0102-311X</issn>
+<volume>25</volume>
+<numero>5</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090525</updateDate>
+<pid>0102-311X20090005</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Organización Panamericana de la Salud</publisher>
+<title>Revista Panamericana de Salud Pública</title>
+<issn>1020-4989</issn>
+<volume>25</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090522</updateDate>
+<pid>1020-498920090003</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Faculdade de Saúde Pública da Universidade de São Paulo</publisher>
+<title>Revista de Saúde Pública</title>
+<issn>0034-8910</issn>
+<volume>43</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090515</updateDate>
+<pid>0034-891020090003</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Organización Panamericana de la Salud</publisher>
+<title>Revista Panamericana de Salud Pública</title>
+<issn>1020-4989</issn>
+<volume>25</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090427</updateDate>
+<pid>1020-498920090002</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto Nacional de Salud Pública</publisher>
+<title>Salud Pública de México</title>
+<issn>0036-3634</issn>
+<volume>51</volume>
+<numero>2</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090414</updateDate>
+<pid>0036-363420090002</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>World Health Organization</publisher>
+<title>Bulletin of the World Health Organization</title>
+<issn>0042-9686</issn>
+<volume>87</volume>
+<numero>3</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090414</updateDate>
+<pid>0042-968620090003</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto de Salud Publica, Faculdad de Medicina -Universidad Nacional de Colombia</publisher>
+<title>Revista de Salud Pública</title>
+<issn>0124-0064</issn>
+<volume>10</volume>
+<suplemento>1</suplemento>
+<pubYear>2008</pubYear>
+<updateDate>20090406</updateDate>
+<pid>0124-006420080006</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Centro Nacional de Información de Ciencias Médicas</publisher>
+<title>Revista Cubana de Salud Pública</title>
+<issn>0864-3466</issn>
+<volume>34</volume>
+<numero>4</numero>
+<pubYear>2008</pubYear>
+<updateDate>20090406</updateDate>
+<pid>0864-346620080004</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Associação Brasileira de Pós -Graduação em Saúde Coletiva </publisher>
+<title>Revista Brasileira de Epidemiologia</title>
+<issn>1415-790X</issn>
+<volume>12</volume>
+<numero>1</numero>
+<pubYear>2009</pubYear>
+<updateDate>20090406</updateDate>
+<pid>1415-790X20090001</pid>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Instituto de Salud Publica, Faculdad de Medicina -Universidad Nacional de Colombia</publisher>
+<title>Revista de Salud Pública</title>
+<issn>0124-0064</issn>
+<volume>10</volume>
+<numero>4</numero>
+<pubYear>2008</pubYear>
+<updateDate>20090403</updateDate>
+<pid>0124-006420080004</pid>
+</record>
+<index mfn="1">
+   <server>
+      <occ date="20090917" time="144505"></occ>
+   </server>
+   <database>
+      <occ>/home/scielosp/www/bases/issue/issue</occ>
+   </database>
+   <from/>
+   <to/>
+   <posttag/>
+   <posting/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+</index>
+</wxis-modules></collection></SciELOWebService>

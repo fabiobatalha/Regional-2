@@ -1,0 +1,16 @@
+/* Declarações gerais */
+@import url(./screen/general.css);
+
+/* Layout do site */
+@import url(./screen/layout.css);
+
+/* Estilos de tipos e listas */
+@import url(./screen/generalFontStyles.css);
+/* @import url(./screen/fontStyles.css); */
+
+/* Declarações dos objetos (ex.: paddings, DIVs globais) */
+@import url(./screen/objects.css);
+
+/* Estilo de Inputs de Formulários */
+@import url(./screen/formInput.css);
+

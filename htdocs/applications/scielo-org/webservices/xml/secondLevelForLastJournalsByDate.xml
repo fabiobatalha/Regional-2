@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<secondLevelForCollectionByDate>
+   <journalList collection="Argentina" total="45"/>
+   <journalList collection="Brasil" total="46"/>
+   <journalList collection="Chile" total="50">
+      <order by="20091109" total="1">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-7105&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091109">Revista chilena de cardiología</journal>
+      </order>
+   </journalList>
+   <journalList collection="Colombia" total="50"/>
+   <journalList collection="Cuba" total="30"/>
+   <journalList collection="Espanha" total="41"/>
+   <journalList collection="Mexico" total="37"/>
+   <journalList collection="Portugal" total="27"/>
+   <journalList collection="Venezuela" total="49"/>
+   <journalList collection="Saude Publica" total="11"/>
+   <journalList collection="Ciências Sociais" total="29"/>
+   <journalList collection="West Indian Medical Journal" total="1"/>
+</secondLevelForCollectionByDate>

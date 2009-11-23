@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<bvs language="pt" country="**" subject="BVS-Site" version="4">
+  <texts id="" lang="pt" available="">
+    <text id="button_moreInformation" available="yes" img="/image/common/info.gif">Mais informações</text>
+    <text id="default_print" available="yes">imprimir</text>
+    <text id="default_close" available="yes">fechar</text>
+    <text id="home" available="yes">home</text>
+    <text id="contact" available="yes">Contato</text>
+    <text id="contact: subject" available="yes">Assunto</text>
+    <text id="contact: name" available="yes">Nome</text>
+    <text id="contact: email" available="yes">Email</text>
+    <text id="contact: message" available="yes">Mensagem</text>
+    <text id="contact: send" available="yes">Enviar</text>
+    <text id="contact: error" available="yes">Favor preencher os campos:</text>
+    <text id="contact: response" available="yes">Sua mensagem foi enviada com êxito.</text>
+    <text id="alphabetic.title" available="yes">Revistas por ordem alfabética</text>
+    <text id="alphabetic.publisher.title" available="yes">Revistas por ordem alfabética</text>
+    <text id="alphabetic.home" available="yes">Revistas</text>
+  </texts>
+  <parent id="" lang="pt" available="yes">
+    <item id="1" available="yes" img="/applications/scielo-org/image/public/skins/classic/pt/banner.jpg">ScieELO.org - Scientific Electronic Library Online</item>
+  </parent>
+  <identification id="" lang="pt" available="yes">
+    <item id="2" available="yes" img="/applications/scielo-org/image/public/skins/classic/pt/banner.jpg">SciELO - Scientific Electronic Library Online</item>
+  </identification>
+  <contact id="" lang="pt" available="yes">
+    <item id="3" available="yes" href="online@bireme.br">Contato - SciELO.org</item>
+    <item id="4" available="yes" href="online@bireme.br">Reclamações - SciELO.org</item>
+    <item id="5" available="yes" href="online@bireme.br">Sugestões - SciELO.org</item>
+  </contact>
+  <other-versions id="" lang="pt" available="yes">
+    <item id="7" available="yes" href="/php/index.php?lang=es">español</item>
+    <item id="8" available="yes" href="/php/index.php?lang=en">english</item>
+  </other-versions>
+  <institution id="" lang="pt" available="yes"/>
+  <collectionList id="" lang="pt" available="yes">
+    <item id="14" available="yes">Primeira coluna<item id="56" available="yes" type="about" file="xml/pt/56.xml">Rede SciELO</item><item id="61" available="yes" type="service" file="xml/pt/61.xml">Rede SciELO</item><item id="58" available="yes" type="xhtml" file="xml/pt/58.xml">Links</item></item>
+    <item id="16" available="yes">Segunda coluna<item id="50" available="yes" type="service" file="xml/pt/50.xml">Lista periódicos</item><item id="65" available="yes" type="service" file="xml/pt/65.xml">Lista periódicos</item><item id="66" available="yes" type="service" file="xml/pt/66.xml">Lista periódicos</item><item id="67" available="yes" type="service" file="xml/pt/67.xml">Lista periódicos</item></item>
+    <item id="20" available="yes">Terceira coluna<item id="53" available="yes" type="service" file="xml/pt/53.xml">SciELO em números</item><item id="54" available="yes" type="service" file="xml/pt/54.xml">Novos</item></item>
+    <item id="23" available="yes">Quarta coluna<item id="73" available="yes" type="xhtml" file="xml/pt/73.xml">Serviços Personalizados</item><item id="72" available="yes" type="xhtml" file="xml/pt/72.xml">Serviços Personalizados - Novidades</item><item id="24" available="yes" type="calls" file="xml/pt/24.xml">Destaques</item><item id="25" available="yes" type="rss" file="xml/pt/25.xml">Notícias</item><item id="70" available="yes" type="rss" file="xml/pt/70.xml">Press Releases</item><item id="68" available="no" type="collection" file="xml/pt/68.xml">Paginas do Site</item></item>
+  </collectionList>
+  <responsable>
+    <item id="26" available="yes" type="responsable" file="xml/pt/responsable.xml"/>
+  </responsable>
+  <metasearch>
+    <item id="27" available="yes" type="metasearch" file="xml/pt/metasearch.xml"/>
+  </metasearch>
+  <metainfo>
+    <item id="28" available="yes" type="metainfo" file="xml/pt/metainfo.xml"/>
+  </metainfo>
+  <attachList available=""/>
+</bvs>

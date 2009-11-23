@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<bvs language="es" country="**" subject="BVS-Site" version="4">
+  <texts id="" lang="es" available="">
+    <text id="button_moreInformation" available="yes" img="/image/es/info.gif">Más informaciones</text>
+    <text id="default_print" available="yes">imprimir</text>
+    <text id="default_close" available="yes">cerrar</text>
+    <text id="home" available="yes">inicio</text>
+    <text id="contact" available="yes">Contacto</text>
+    <text id="contact: subject" available="yes">Asunto</text>
+    <text id="contact: name" available="yes">Nombre</text>
+    <text id="contact: email" available="yes">Email</text>
+    <text id="contact: message" available="yes">Mensaje</text>
+    <text id="contact: send" available="yes">Enviar</text>
+    <text id="contact: error" available="yes">Por favor llené los campos:</text>
+    <text id="contact: response" available="yes">Su mensaje fue enviada con éxito.</text>
+    <text id="alphabetic.title" available="yes">Revistas en orden alfabética</text>
+    <text id="alphabetic.home" available="yes">Revistas</text>
+  </texts>
+  <parent id="" lang="es" available="yes">
+    <item id="1" available="yes" img="/applications/scielo-org/image/public/skins/classic/pt/banner.jpg">SciELO.org - Scientific Electronic Library Online</item>
+  </parent>
+  <identification id="" lang="es" available="yes">
+    <item id="2" available="yes" img="/image/public/skins/repository/es/identification.gif">SciELO.org - Scientific Electronic Library Online</item>
+  </identification>
+  <contact id="" lang="es" available="yes">
+    <item id="3" available="yes" href="online@bireme.br">Contacto - SciELO.org</item>
+    <item id="4" available="yes" href="online@bireme.br">Reclamaciones - SciELO.org</item>
+    <item id="5" available="yes" href="online@bireme.br">Sugerencias - SciELO.org</item>
+  </contact>
+  <other-versions id="" lang="es" available="yes">
+    <item id="7" available="yes" href="/php/index.php?lang=pt">português</item>
+    <item id="8" available="yes" href="/php/index.php?lang=en">english</item>
+  </other-versions>
+  <institution id="" lang="es" available="yes"/>
+  <collectionList id="" lang="es" available="yes">
+    <item id="14" available="yes">Primera columna<item id="44" available="yes" type="about" file="xml/es/44.xml">Red SciELO</item><item id="49" available="yes" type="service" file="xml/es/49.xml">Red SciELO</item><item id="46" available="yes" type="xhtml" file="xml/es/46.xml">Enlaces</item></item>
+    <item id="16" available="yes">Segunda columna<item id="36" available="yes" type="service" file="xml/es/36.xml">Lista revistas</item><item id="50" available="yes" type="service" file="xml/es/50.xml">Lista revistas</item><item id="51" available="yes" type="service" file="xml/es/51.xml">Lista revistas</item><item id="52" available="yes" type="service" file="xml/es/52.xml">Lista revistas</item></item>
+    <item id="20" available="yes">Tercera columna<item id="43" available="yes" type="service" file="xml/es/43.xml">SciELO en números</item><item id="41" available="yes" type="service" file="xml/es/41.xml">Nuevos</item></item>
+    <item id="23" available="yes">Cuarta columna<item id="58" available="yes" type="xhtml" file="xml/es/58.xml">Servicios Personalizados</item><item id="57" available="yes" type="xhtml" file="xml/es/57.xml">Servicios Personalizados - Novidades</item><item id="25" available="yes" type="rss" file="xml/es/25.xml">Noticias</item><item id="56" available="yes" type="rss" file="xml/es/56.xml">Press Releases</item><item id="53" available="no" type="collection" file="xml/es/53.xml">Páginas do site</item></item>
+  </collectionList>
+  <responsable>
+    <item id="26" available="yes" type="responsable" file="xml/es/responsable.xml"/>
+  </responsable>
+  <metasearch>
+    <item id="27" available="yes" type="metasearch" file="xml/es/metasearch.xml"/>
+  </metasearch>
+  <metainfo>
+    <item id="28" available="yes" type="metainfo" file="xml/es/metainfo.xml"/>
+  </metainfo>
+  <attachList available=""/>
+</bvs>

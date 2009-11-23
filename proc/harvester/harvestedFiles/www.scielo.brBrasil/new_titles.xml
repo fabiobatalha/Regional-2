@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Brasil" uri="http://www.scielo.br" flagName="BR" grupo="developed">
+<wxis-modules IsisScript="listNewTitles.xis" version="0.2">
+<record>
+<title>Brazilian Journal of Otorhinolaryngology (Impresso)</title>
+<processDate>20090707</processDate>
+<issn>1808-8694</issn>
+<publisher>Associação Brasileira de Otorrinolaringologia e Cirurgia Cervicofacial</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Anais da Escola Superior de Agricultura Luiz de Queiroz</title>
+<processDate>20090430</processDate>
+<issn>0071-1276</issn>
+<publisher>Universidade de São Paulo</publisher>
+<publisher>Escola Superior de Agricultura</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Trabalhos em Linguística Aplicada</title>
+<processDate>20090327</processDate>
+<issn>0103-1813</issn>
+<publisher>UNICAMP. Departamento de Linguística Aplicada</publisher>
+<subject>Linguistics, Letters and Arts</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Zoologia (Curitiba, Impresso)</title>
+<processDate>20090327</processDate>
+<issn>1984-4670</issn>
+<publisher>Sociedade Brasileira de Zoologia</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Scientiae Studia</title>
+<processDate>20090326</processDate>
+<issn>1678-3166</issn>
+<publisher>Universidade de São Paulo, Departamento de Filosofia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Sociedade &amp; Natureza (Online)</title>
+<processDate>20090326</processDate>
+<issn>1982-4513</issn>
+<publisher>Universidade Federal de Uberlândia, Instituto de Geografia, Programa de Pós-Graduação em Geografia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista de Administração de Empresas</title>
+<processDate>20081124</processDate>
+<issn>0034-7590</issn>
+<publisher>Fundação Getulio Vargas, Escola de Administração de  Empresas de S.Paulo</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Fractal : Revista de Psicologia</title>
+<processDate>20081023</processDate>
+<issn>1984-0292</issn>
+<publisher>Universidade Federal Fluminense, Departamento de Psicologia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Pro-Posições</title>
+<processDate>20080825</processDate>
+<issn>0103-7307</issn>
+<publisher>UNICAMP - Faculdade de Educação</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Caderno CRH</title>
+<processDate>20080811</processDate>
+<issn>0103-4979</issn>
+<publisher>Universidade Federal da Bahia - Faculdade de Filosofia e Ciências Humanas - Centro de Recursos Humanos</publisher>
+<subject>Applied Social Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista Latinoamericana de Psicopatologia Fundamental</title>
+<processDate>20080716</processDate>
+<issn>1415-4714</issn>
+<publisher>Associação Universitária de Pesquisa em Psicopatologia Fundamental</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Sur. Revista Internacional de Direitos Humanos</title>
+<processDate>20080626</processDate>
+<issn>1806-6445</issn>
+<publisher>Sur - Rede Universitária de Direitos Humanos</publisher>
+<subject>Applied Social Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Tropical Plant Pathology</title>
+<processDate>20080422</processDate>
+<issn>1982-5676</issn>
+<publisher>Sociedade Brasileira de Fitopatologia</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Religião &amp; Sociedade</title>
+<processDate>20080403</processDate>
+<issn>0100-8587</issn>
+<publisher>Instituto de Estudos da Religião</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista Brasileira de Oftalmologia</title>
+<processDate>20080211</processDate>
+<issn>0034-7280</issn>
+<publisher>Sociedade Brasileira de Oftalmologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Saúde e Sociedade</title>
+<processDate>20080211</processDate>
+<issn>0104-1290</issn>
+<publisher>Faculdade de Saúde Pública, Universidade de São Paulo.</publisher>
+<publisher>Associação Paulista de Saúde Pública.</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Educação em Revista</title>
+<processDate>20080102</processDate>
+<issn>0102-4698</issn>
+<publisher>Faculdade de Educação da Universidade Federal de Minas Gerais</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Avaliação: Revista da Avaliação da Educação Superior (Campinas)</title>
+<processDate>20071206</processDate>
+<issn>1414-4077</issn>
+<publisher>Universidade de Sorocaba</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista de Administração Contemporânea</title>
+<processDate>20071205</processDate>
+<issn>1415-6555</issn>
+<publisher>Associação Nacional dos Programas de Pós-graduação em Administração</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista Brasileira de Meteorologia</title>
+<processDate>20071106</processDate>
+<issn>0102-7786</issn>
+<publisher>Sociedade Brasileira de Meteorologia</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Paidéia (Ribeirão Preto)</title>
+<processDate>20071029</processDate>
+<issn>0103-863X</issn>
+<publisher>Universidade de São Paulo, Faculdade de Filosofia Ciências e Letras de Ribeirão Preto</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista Brasileira de Ortopedia</title>
+<processDate>20071023</processDate>
+<issn>0102-3616</issn>
+<publisher>Sociedade Brasileira de Ortopedia e Traumatologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista Contabilidade &amp; Finanças</title>
+<processDate>20071018</processDate>
+<issn>1519-7077</issn>
+<publisher>Universidade de São Paulo, Faculdade de Economia, Administração e Contabilidade, Departamento de Contabilidade e Atuária</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista Brasileira de Política Internacional</title>
+<processDate>20071015</processDate>
+<issn>0034-7329</issn>
+<publisher>Instituto Brasileiro de Relações Internacionais</publisher>
+<subject>Applied Social Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Brazilian Journal of Oceanography</title>
+<processDate>20071009</processDate>
+<issn>1679-8759</issn>
+<publisher>Universidade de São Paulo, Instituto Oceanográfico</publisher>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Economia e Sociedade</title>
+<processDate>20071009</processDate>
+<issn>0104-0618</issn>
+<publisher>Instituto de Economia da Universidade Estadual de Campinas</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista Paulista de Pediatria</title>
+<processDate>20071009</processDate>
+<issn>0103-0582</issn>
+<publisher>Sociedade de Pediatria de São Paulo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista Brasileira de Enfermagem</title>
+<processDate>20070913</processDate>
+<issn>0034-7167</issn>
+<publisher>Associação Brasileira de Enfermagem</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Ciência &amp; Educação (Bauru)</title>
+<processDate>20070911</processDate>
+<issn>1516-7313</issn>
+<publisher>Programa de Pós-Graduação em Educação para a Ciência, Bauru: Faculdade de Ciências, UNESP</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista Brasileira de Terapia Intensiva</title>
+<processDate>20070906</processDate>
+<issn>0103-507X</issn>
+<publisher>Associação de Medicina Intensiva Brasileira - AMIB</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Contexto Internacional</title>
+<processDate>20070809</processDate>
+<issn>0102-8529</issn>
+<publisher>Pontifícia Universidade Católica do Rio de Janeiro, Instituto de Relações Internacionais</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista da Escola de Enfermagem da USP</title>
+<processDate>20070806</processDate>
+<issn>0080-6234</issn>
+<publisher>Universidade de São Paulo, Escola de Enfermagem</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Anais do Museu Paulista: História e Cultura Material</title>
+<processDate>20070731</processDate>
+<issn>0101-4714</issn>
+<publisher>Museu Paulista, Universidade de São Paulo</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Texto &amp; Contexto - Enfermagem</title>
+<processDate>20070726</processDate>
+<issn>0104-0707</issn>
+<publisher>Universidade Federal de Santa Catarina, Programa de  Pós Graduação em Enfermagem </publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Estudos de Psicologia (Campinas)</title>
+<processDate>20070705</processDate>
+<issn>0103-166X</issn>
+<publisher>PPG em Psicologia, Pontifícia Universidade Católica de Campinas</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Acta Paulista de Enfermagem</title>
+<processDate>20070704</processDate>
+<issn>0103-2100</issn>
+<publisher>Escola Paulista de Medicina, Departamento de Enfermagem</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista da Sociedade Brasileira de Fonoaudiologia</title>
+<processDate>20070704</processDate>
+<issn>1516-8034</issn>
+<publisher>Sociedade Brasileira de Fonoaudiologia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Interações (Campo Grande)</title>
+<processDate>20070628</processDate>
+<issn>1518-7012</issn>
+<publisher>Universidade Católica Dom Bosco</publisher>
+<subject>Applied Social Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Jornal Brasileiro de Psiquiatria</title>
+<processDate>20070627</processDate>
+<issn>0047-2085</issn>
+<publisher>Instituto de Psiquiatria da Universidade Federal do Rio de Janeiro</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Neotropical Ichthyology</title>
+<processDate>20070611</processDate>
+<issn>1679-6225</issn>
+<publisher>Sociedade Brasileira de Ictiologia</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Educar em Revista</title>
+<processDate>20070521</processDate>
+<issn>0104-4060</issn>
+<publisher>Setor de Educação da Universidade Federal do Paraná</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Ciência e Agrotecnologia</title>
+<processDate>20070517</processDate>
+<issn>1413-7054</issn>
+<publisher>Editora da Universidade Federal de Lavras</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista CEFAC</title>
+<processDate>20070517</processDate>
+<issn>1516-1846</issn>
+<publisher>CEFAC Saúde e Educação</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista Katálysis</title>
+<processDate>20070517</processDate>
+<issn>1414-4980</issn>
+<publisher>Programa de Pós-Graduação em Serviço Social e Curso de Graduação em Serviço Social da Universidade Federal de Santa Catarina</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Revista Brasileira de Farmacognosia</title>
+<processDate>20070423</processDate>
+<issn>0102-695X</issn>
+<publisher>Sociedade Brasileira de Farmacognosia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Varia Historia</title>
+<processDate>20070423</processDate>
+<issn>0104-8775</issn>
+<publisher>Universidade Federal de Minas Gerais, Faculdade de Filosofia e Ciências Humanas, Departamento de História</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<record>
+<title>Matéria (Rio de Janeiro)</title>
+<processDate>20070301</processDate>
+<issn>1517-7076</issn>
+<publisher>Rede Latino-Americana de Materiais</publisher>
+<subject>Engineering</subject>
+<subject>Exact and Earth Sciences</subject>
+<publicationStatus>C</publicationStatus>
+<repository></repository>
+</record>
+<list mfn="1">
+   <server>
+      <occ date="20090917" time="144505"></occ>
+   </server>
+   <database>
+      <occ>/home/scielo/www/bases/title/title</occ>
+   </database>
+   <from/>
+   <to/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+   <Isis_Current>
+      <occ>50</occ>
+   </Isis_Current>
+   <Isis_Total>
+      <occ>225</occ>
+   </Isis_Total>
+   <previous/>
+   <next>
+      <occ>51</occ>
+   </next>
+</list>
+</wxis-modules></collection></SciELOWebService>

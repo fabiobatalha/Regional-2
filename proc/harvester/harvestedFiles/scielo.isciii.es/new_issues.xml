@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Espanha" uri="http://scielo.isciii.es" flagName="ES" homologado="true">
+<wxis-modules IsisScript="listNewIssues.xis" version="0.1">
+<record>
+<subject>Health Sciences</subject>
+<publisher>Elsevier Doyma, S. L.</publisher>
+<title>Gaceta Sanitaria</title>
+<issn>0213-9111</issn>
+<volume>21</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070822</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Elsevier Doyma, S. L.</publisher>
+<title>Gaceta Sanitaria</title>
+<issn>0213-9111</issn>
+<volume>21</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070821</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Ministerio de Sanidad y Consumo</publisher>
+<title>Revista Española de Salud Pública</title>
+<issn>1135-5727</issn>
+<volume>81</volume>
+<numero>3</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070821</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Nutrición Parenteral y Enteral</publisher>
+<title>Nutrición Hospitalaria</title>
+<issn>0212-1611</issn>
+<volume>21</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070731</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Arán Ediciones, S.L.</publisher>
+<title>Revista Española de Enfermedades Digestivas</title>
+<issn>1130-0108</issn>
+<volume>98</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070731</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Gobierno de Navarra. Departamento de Salud</publisher>
+<title>Anales del Sistema Sanitario de Navarra</title>
+<issn>1137-6627</issn>
+<volume>29</volume>
+<numero>6</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070719</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>INIESTARES, S.A.</publisher>
+<title>Archivos Españoles de Urología (Ed. impresa)</title>
+<issn>0004-0614</issn>
+<volume>59</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070716</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Fundación Index</publisher>
+<title>Index de Enfermería</title>
+<issn>1132-1296</issn>
+<volume>15</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070711</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Escuela Nacional de Medicina del Trabajo</publisher>
+<title>Medicina y Seguridad del Trabajo</title>
+<issn>0465-546X</issn>
+<volume>52</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070710</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Fundación Index</publisher>
+<title>Index de Enfermería</title>
+<issn>1132-1296</issn>
+<volume>15</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070710</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Medicina Oral</publisher><publisher>Sociedad Española de Odontoestomatología para el Minusválido y Pacientes Especiales</publisher><publisher>Sociedad Española de Cirugía Bucal</publisher><publisher>Academia Iberoamericana de Patología y Medicinal Bucal</publisher>
+<title>Medicina Oral, Patología Oral y Cirugía Bucal (Internet)</title>
+<issn>1698-6946</issn>
+<volume>11</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070705</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Arán Ediciones, S. L.</publisher>
+<title>Anales de Medicina Interna</title>
+<issn>0212-7199</issn>
+<volume>23</volume>
+<numero>12</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070703</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Arán Ediciones, S. L.</publisher>
+<title>Anales de Medicina Interna</title>
+<issn>0212-7199</issn>
+<volume>23</volume>
+<numero>11</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070702</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Ilustre Consejo General de Colegios de Odontólogos y Estomatólogos de España</publisher><publisher>  </publisher>
+<title>RCOE</title>
+<issn>1138-123X</issn>
+<volume>11</volume>
+<numero>1</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070702</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Ilustre Consejo General de Colegios de Odontólogos y Estomatólogos de España</publisher><publisher>  </publisher>
+<title>RCOE</title>
+<issn>1138-123X</issn>
+<volume>11</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070702</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Cirugía Plástica, Reparadora y Estética (SECPRE)</publisher>
+<title>Cirugía Plástica Ibero-Latinoamericana</title>
+<issn>0376-7892</issn>
+<volume>33</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070629</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Neurocirugía</publisher>
+<title>Neurocirugía</title>
+<issn>1130-1473</issn>
+<volume>17</volume>
+<numero>6</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070628</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Asociación Andaluza de Médicos Forenses</publisher>
+<title>Cuadernos de Medicina Forense</title>
+<issn>1135-7606</issn>
+<volume>17</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070628</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Nutrición Parenteral y Enteral</publisher>
+<title>Nutrición Hospitalaria</title>
+<issn>0212-1611</issn>
+<volume>21</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070626</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Neurocirugía</publisher>
+<title>Neurocirugía</title>
+<issn>1130-1473</issn>
+<volume>17</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070621</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Neurocirugía</publisher>
+<title>Neurocirugía</title>
+<issn>1130-1473</issn>
+<volume>17</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070612</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Arán Ediciones, S. L.</publisher>
+<title>Anales de Medicina Interna</title>
+<issn>0212-7199</issn>
+<volume>23</volume>
+<numero>7</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070611</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Ministerio de Sanidad y Consumo</publisher>
+<title>Revista Española de Salud Pública</title>
+<issn>1135-5727</issn>
+<volume>81</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070611</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Sanidad Penitenciaria</publisher>
+<title>Revista Española de Sanidad Penitenciaria</title>
+<issn>1575-0620</issn>
+<volume>9</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070611</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Arán Ediciones, S. L.</publisher>
+<title>Anales de Medicina Interna</title>
+<issn>0212-7199</issn>
+<volume>23</volume>
+<numero>10</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070608</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Elsevier Doyma, S.L.</publisher>
+<title>Medicina Intensiva</title>
+<issn>0210-5691</issn>
+<volume>30</volume>
+<numero>8</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070607</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Neurocirugía</publisher>
+<title>Neurocirugía</title>
+<issn>1130-1473</issn>
+<volume>17</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070607</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Arán Ediciones, S. L.</publisher>
+<title>Anales de Medicina Interna</title>
+<issn>0212-7199</issn>
+<volume>23</volume>
+<numero>9</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070606</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Alpe Editores, S.A.</publisher>
+<title>Oncología (Barcelona)</title>
+<issn>0378-4835</issn>
+<volume>30</volume>
+<numero>3</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070606</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Elsevier Doyma, S.L.</publisher>
+<title>Medicina Intensiva</title>
+<issn>0210-5691</issn>
+<volume>30</volume>
+<numero>7</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070605</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Alpe Editores, S.A.</publisher>
+<title>Oncología (Barcelona)</title>
+<issn>0378-4835</issn>
+<volume>30</volume>
+<numero>2</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070605</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Elsevier Doyma, S.L.</publisher>
+<title>Medicina Intensiva</title>
+<issn>0210-5691</issn>
+<volume>30</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070601</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>INIESTARES, S.A.</publisher>
+<title>Archivos Españoles de Urología (Ed. impresa)</title>
+<issn>0004-0614</issn>
+<volume>59</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070531</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Cirugía Plástica, Reparadora y Estética (SECPRE)</publisher>
+<title>Cirugía Plástica Ibero-Latinoamericana</title>
+<issn>0376-7892</issn>
+<volume>33</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070530</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Elsevier Doyma, S. L.</publisher>
+<title>Gaceta Sanitaria</title>
+<issn>0213-9111</issn>
+<volume>20</volume>
+<numero>6</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070525</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Elsevier Doyma, S. L.</publisher>
+<title>Gaceta Sanitaria</title>
+<issn>0213-9111</issn>
+<volume>20</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070523</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Ministerio de Sanidad y Consumo</publisher>
+<title>Revista Española de Salud Pública</title>
+<issn>1135-5727</issn>
+<volume>81</volume>
+<numero>1</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070514</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Elsevier Doyma, S.L.</publisher>
+<title>Medicina Intensiva</title>
+<issn>0210-5691</issn>
+<volume>30</volume>
+<numero>6</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070509</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Elsevier Doyma, S.L.</publisher>
+<title>Medicina Intensiva</title>
+<issn>0210-5691</issn>
+<volume>30</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070426</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Arán Ediciones, S. L.</publisher>
+<title>Anales de Medicina Interna</title>
+<issn>0212-7199</issn>
+<volume>23</volume>
+<numero>8</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070426</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Gobierno de Navarra. Departamento de Salud</publisher>
+<title>Anales del Sistema Sanitario de Navarra</title>
+<issn>1137-6627</issn>
+<volume>29</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070426</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Gobierno de Navarra. Departamento de Salud</publisher>
+<title>Anales del Sistema Sanitario de Navarra</title>
+<issn>1137-6627</issn>
+<volume>29</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070426</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Arán Ediciones, S. L.</publisher>
+<title>Anales de Medicina Interna</title>
+<issn>0212-7199</issn>
+<volume>23</volume>
+<numero>6</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070420</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Arán Ediciones, S.L.</publisher>
+<title>Revista Española de Enfermedades Digestivas</title>
+<issn>1130-0108</issn>
+<volume>98</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070420</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Fundación Educación Médica</publisher>
+<title>Educación Médica</title>
+<issn>1575-1813</issn>
+<volume>9</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070417</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Ediciones Avances, S.L.</publisher>
+<title>Avances en Odontoestomatología</title>
+<issn>0213-1285</issn>
+<volume>22</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070411</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Ediciones Avances, S.L.</publisher>
+<title>Avances en Odontoestomatología</title>
+<issn>0213-1285</issn>
+<volume>22</volume>
+<numero>5</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070410</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Enfermería Nefrológica</publisher>
+<title>Revista de la Sociedad Española de Enfermería Nefrológica</title>
+<issn>1139-1375</issn>
+<volume>9</volume>
+<numero>2</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070402</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Enfermería Nefrológica</publisher>
+<title>Revista de la Sociedad Española de Enfermería Nefrológica</title>
+<issn>1139-1375</issn>
+<volume>9</volume>
+<numero>3</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070402</updateDate>
+</record>
+<record>
+<subject>Health Sciences</subject>
+<publisher>Sociedad Española de Enfermería Nefrológica</publisher>
+<title>Revista de la Sociedad Española de Enfermería Nefrológica</title>
+<issn>1139-1375</issn>
+<volume>9</volume>
+<numero>4</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070402</updateDate>
+</record>
+<index mfn="1">
+   <server>
+      <occ date="20070919" time="163316"></occ>
+   </server>
+   <database>
+      <occ>/home/ISCIII/scielo/bases/issue/issue</occ>
+   </database>
+   <from/>
+   <to/>
+   <posttag/>
+   <posting/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+</index>
+</wxis-modules></collection></SciELOWebService>

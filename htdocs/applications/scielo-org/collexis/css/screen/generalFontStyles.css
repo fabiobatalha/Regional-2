@@ -1,0 +1,30 @@
+BODY, TD {
+	font-family: Arial, Verdana;
+	font-size: 80%;
+}
+
+
+A {
+	color: #494A4A;
+	text-decoration: none;
+}
+
+A:hover {
+	color: #494A4A;
+	text-decoration: underline;
+}
+
+B, STRONG {
+	font-weight: bold;
+}
+
+I, EM {
+	font-style: italic;
+}
+
+P {
+	line-height: 150%;
+}
+
+
+

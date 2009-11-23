@@ -1,0 +1,30 @@
+<?php 
+if(isset($lang)){
+	$javaMsg = '<span>';
+	$cookieMsg = '<span>';
+	switch($lang){
+		case 'pt':	$javaMsg .= "O suporte a JavaScript deve estar habilitado para o pleno funcionamento do sistema.";
+					$cookieMsg .= "O suporte a cookies deve estar habilitado para o pleno funcionamento do sistema.";
+					break;
+		case 'en':	$javaMsg .= "JavaScript support must be enabled for full system functionality.";
+					$cookieMsg .= "Cookies support must be enabled for full system functionality.";
+					break;
+		case 'es':	$javaMsg .= "El soporte a JavaScript debe estar habilitado para el pleno funcionamiento del sistema.";
+					$cookieMsg .= "El soporte a cookies debe estar habilitado para el pleno funcionamiento del sistema.";
+					break;
+	}
+	$javaMsg .= '</span>';
+	$cookieMsg .= '</span>';
+}
+?>
+ <div class="message">
+		<div id="msgCookie" style="color:#B22222;font-size:110%;font-weight:bold;"></div>
+
+	 <noscript>
+			<div id="msgJs" style="color:#B22222;font-size:110%;font-weight:bold;"><?=$javaMsg?></div>
+	 </noscript>
+	 
+	 <script language="javascript">
+		if(!navigator.cookieEnabled) document.getElementById("msgCookie").innerHTML="<?=$cookieMsg?>";	
+	 </script>	 
+</div> 

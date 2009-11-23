@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<collectionList>
+   <collection uri="http://www.scielo.br" flagName="BR" grupo="developed">
+      <name>Brasil</name>
+      <journalTotal current="221">225</journalTotal>
+      <articleTotal>134634</articleTotal>
+      <issueTotal>7722</issueTotal>
+      <citationTotal>2881905</citationTotal>
+   </collection>
+   <collection uri="http://www.scielosp.org" flagName="XX" grupo="developed">
+      <name>Saude Publica</name>
+      <journalTotal current="11">20</journalTotal>
+      <articleTotal>18030</articleTotal>
+      <issueTotal>1019</issueTotal>
+      <citationTotal>325810</citationTotal>
+   </collection>
+</collectionList>

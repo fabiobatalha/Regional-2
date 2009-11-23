@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Brasil" uri="http://www.scielo.br" flagName="BR" homologado="true">
+<wxis-modules IsisScript="listNewTitles.xis" version="0.2">
+<record>
+<title>Neotropical Ichthyology</title>
+<processDate>20070611</processDate>
+<issn>1679-6225</issn>
+<publisher>Sociedade Brasileira de Ictiologia</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Educar em Revista</title>
+<processDate>20070521</processDate>
+<issn>0104-4060</issn>
+<publisher>Setor de Educação da Universidade Federal do Paraná</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Ciência e Agrotecnologia</title>
+<processDate>20070517</processDate>
+<issn>1413-7054</issn>
+<publisher>Editora da Universidade Federal de Lavras</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista CEFAC</title>
+<processDate>20070517</processDate>
+<issn>1516-1846</issn>
+<publisher>CEFAC Saúde e Educação</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Revista Katálysis</title>
+<processDate>20070517</processDate>
+<issn>1414-4980</issn>
+<publisher>Departamento de Serviço Social da Universidade Federal de Santa Catarina</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Farmacognosia</title>
+<processDate>20070423</processDate>
+<issn>0102-695X</issn>
+<publisher>Sociedade Brasileira de Farmacognosia</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Varia história</title>
+<processDate>20070423</processDate>
+<issn>0104-8775</issn>
+<publisher>Universidade Federal de Minas Gerais, Faculdade de Filosofia e Ciências Humanas, Departamento de História</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>?</publicationStatus>
+</record><record>
+<title>Matéria (Rio de Janeiro)</title>
+<processDate>20070301</processDate>
+<issn>1517-7076</issn>
+<publisher>Rede Latino-Americana de Materiais</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Educação Médica</title>
+<processDate>20061211</processDate>
+<issn>0100-5502</issn>
+<publisher>Associação Brasileira de Educação Médica</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Perspectivas em Ciência da Informação</title>
+<processDate>20061205</processDate>
+<issn>1413-9936</issn>
+<publisher>Escola de Ciência da Informação da UFMG</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Psicologia Clínica</title>
+<processDate>20061005</processDate>
+<issn>0103-5665</issn>
+<publisher>Departamento de Psicologia da Pontifícia Universidade Católica do Rio de Janeiro</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Summa Phytopathologica</title>
+<processDate>20061011</processDate>
+<issn>0100-5405</issn>
+<publisher>Grupo Paulista de Fitopatologia</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Nova Economia</title>
+<processDate>20061002</processDate>
+<issn>0103-6351</issn>
+<publisher>Departamento de Ciências Econômicas da Universidade Federal de Minas Gerais</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Sociedade e Estado</title>
+<processDate>20060927</processDate>
+<issn>0102-6992</issn>
+<publisher>Departamento de Sociologia da Universidade de Brasília </publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Tempo</title>
+<processDate>20060919</processDate>
+<issn>1413-7704</issn>
+<publisher>EdUFF - Editora da UFF</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Coloproctologia</title>
+<processDate>20060828</processDate>
+<issn>0101-9880</issn>
+<publisher>Cidade Editora Científica Ltda</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Estudos Econômicos (São Paulo)</title>
+<processDate>20060825</processDate>
+<issn>0101-4161</issn>
+<publisher>Instituto de Pesquisas Econômicas da FEA-USP</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Estudos de População</title>
+<processDate>20060807</processDate>
+<issn>0102-3098</issn>
+<publisher>Associação Brasileira de Estudos Populacionais</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Fisioterapia</title>
+<processDate>20060803</processDate>
+<issn>1413-3555</issn>
+<publisher>Associação Brasileira de Pesquisa e Pós-Graduação em Fisioterapia  </publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Journal of Epilepsy and Clinical Neurophysiology</title>
+<processDate>20060731</processDate>
+<issn>1676-2649</issn>
+<publisher>Liga Brasileira de Epilepsia (LBE)</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista do Departamento de Psicologia. UFF</title>
+<processDate>20060711</processDate>
+<issn>0104-8023</issn>
+<publisher>Universidade Federal Fluminense, Departamento de Psicologia</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Economia Contemporânea</title>
+<processDate>20060623</processDate>
+<issn>1415-9848</issn>
+<publisher>Instituto de Economa da Universidade Federal do Rio de Janeiro</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Educação Especial</title>
+<processDate>20060608</processDate>
+<issn>1413-6538</issn>
+<publisher>Associação Brasileira de Pesquisadores em Educação Especial - ABPEE</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Administração Pública</title>
+<processDate>20060608</processDate>
+<issn>0034-7612</issn>
+<publisher>Fundação Getúlio Vargas</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Trans/Form/Ação</title>
+<processDate>20060518</processDate>
+<issn>0101-3173</issn>
+<publisher>Universidade Estadual Paulista, Departamento de Filosofia </publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Biota Neotropica</title>
+<processDate>20060413</processDate>
+<issn>1676-0603</issn>
+<publisher>Centro de Referência em Informação Ambiental/CRIA</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Jornal Vascular Brasileiro</title>
+<processDate>20060417</processDate>
+<issn>1677-5449</issn>
+<publisher>Sociedade Brasileira de Angiologia e de Cirurgia Vascular (SBACV)</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Produção</title>
+<processDate>20060313</processDate>
+<issn>0103-6513</issn>
+<publisher>Associação Brasileira de Engenharia de Produção</publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Pró-Fono Revista de Atualização Científica</title>
+<processDate>20060307</processDate>
+<issn>0104-5687</issn>
+<publisher>Pró-Fono Produtos Especializados para Fonoaudiologia Ltda.</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Kriterion: Revista de Filosofia</title>
+<processDate>20060203</processDate>
+<issn>0100-512X</issn>
+<publisher>Faculdade de Filosofia e Ciências Humanas da UFMG</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Novos Estudos - CEBRAP</title>
+<processDate>20060210</processDate>
+<issn>0101-3300</issn>
+<publisher>Centro Brasileiro de Análise e Planejamento</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>RAE eletrônica</title>
+<processDate>20060208</processDate>
+<issn>1676-5648</issn>
+<publisher>Fundação Getulio Vargas/Escola de Administração de Empresas de São Paulo</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>História (São Paulo)</title>
+<processDate>20060202</processDate>
+<issn>0101-9074</issn>
+<publisher>Fundação Editora da UNESP</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Economia Aplicada</title>
+<processDate>20060127</processDate>
+<issn>1413-8050</issn>
+<publisher>Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto da Universidade de São Paulo</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Dental Press de Ortodontia e Ortopedia Facial</title>
+<processDate>20060127</processDate>
+<issn>1415-5419</issn>
+<publisher>Dental Press Editora</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Reumatologia</title>
+<processDate>20051130</processDate>
+<issn>0482-5004</issn>
+<publisher>Congress Update - Aquaprint Gráfica e Editora Ltda - Magali A. Luiz Martins</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Anais da Sociedade Entomológica do Brasil</title>
+<processDate>20051125</processDate>
+<issn>0301-8059</issn>
+<publisher>Sociedade Entomológica do Brasil</publisher>
+<subject>Agricultural Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Ciências Farmacêuticas</title>
+<processDate>20051123</processDate>
+<issn>1516-9332</issn>
+<publisher>Divisão de Biblioteca e Documentação do Conjunto das Químicas da Universidade de São Paulo</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Physis: Revista de Saúde Coletiva</title>
+<processDate>20051020</processDate>
+<issn>0103-7331</issn>
+<publisher>IMS-UERJ</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista do Colégio Brasileiro de Cirurgiões</title>
+<processDate>20051021</processDate>
+<issn>0100-6991</issn>
+<publisher>Colégio Brasileiro de Cirurgiões</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Entomología y Vectores</title>
+<processDate>20051014</processDate>
+<issn>0328-0381</issn>
+<publisher>Editora Gama Filho</publisher>
+<subject>Biological Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Cadernos Pagu</title>
+<processDate>20051005</processDate>
+<issn>0104-8333</issn>
+<publisher>Núcleo de Estudos de Gênero - Pagu</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista Brasileira de Educação</title>
+<processDate>20051003</processDate>
+<issn>1413-2478</issn>
+<publisher>Editora Autores Associados</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ágora: Estudos em Teoria Psicanalítica</title>
+<processDate>20050927</processDate>
+<issn>1516-1498</issn>
+<publisher>Programa de Pós-graduação em Teoria Psicanalítica do Instituto de Psicologia da Universidade Federal do Rio de Janeiro - UFRJ</publisher>
+<subject>Applied Social Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Tempo Social</title>
+<processDate>20050920</processDate>
+<issn>0103-2070</issn>
+<publisher>Departamento de Sociologia da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Interface - Comunicação, Saúde, Educação</title>
+<processDate>20050830</processDate>
+<issn>1414-3283</issn>
+<publisher>Fundação UNI/UNESP</publisher>
+<subject>Health Sciences</subject>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Revista de Economia Política</title>
+<processDate>20050822</processDate>
+<issn>0101-3157</issn>
+<publisher>Editora 34</publisher>
+<subject>Applied Social Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Ensaio: Avaliação e Políticas Públicas em Educação</title>
+<processDate>20050818</processDate>
+<issn>0104-4036</issn>
+<publisher>Fundação CESGRANRIO</publisher>
+<subject>Human Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Engenharia Sanitaria e Ambiental </title>
+<processDate>20050715</processDate>
+<issn>1413-4152</issn>
+<publisher>ABES </publisher>
+<subject>Engineering</subject>
+<publicationStatus>C</publicationStatus>
+</record><record>
+<title>Clinics</title>
+<processDate>20050215</processDate>
+<issn>1807-5932</issn>
+<publisher>Faculdade de Medicina / USP</publisher>
+<subject>Health Sciences</subject>
+<publicationStatus>C</publicationStatus>
+</record><list mfn="1">
+   <server>
+      <occ date="20070919" time="131957"></occ>
+   </server>
+   <database>
+      <occ>/home/scielo/www/bases/title/title</occ>
+   </database>
+   <from/>
+   <to/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+   <Isis_Current>
+      <occ>50</occ>
+   </Isis_Current>
+   <Isis_Total>
+      <occ>183</occ>
+   </Isis_Total>
+   <previous/>
+   <next>
+      <occ>51</occ>
+   </next>
+</list>
+</wxis-modules></collection></SciELOWebService>

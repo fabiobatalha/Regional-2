@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<secondLevelForLastJournalsByAlphabeticList>
+   <total>3</total>
+   <maxDate>20081009</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="Argentina" total="3">
+      <order by="P" total="1">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1852-4508&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Papeles de trabajo - Centro de Estudios Interdisciplinarios en Etnolingüística y Antropología Socio-Cultural</journal>
+      </order>
+      <order by="R" total="2">
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1850-1532&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Revista Argentina de Neurocirugía</journal>
+         <journal uri="http://www.scielo.org.ar/scielo.php?script=sci_serial&amp;pid=1851-3123&amp;nrm=iso"
+                  status="C"
+                  date="20081009">Revista Pilquen. Sección Ciencias Sociales</journal>
+      </order>
+   </journalList>
+   <total>1</total>
+   <maxDate>20090828</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="Brasil" total="1">
+      <order by="B" total="1">
+         <journal uri="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1807-7692&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090828">BAR. Brazilian Administration Review</journal>
+      </order>
+   </journalList>
+   <total>4</total>
+   <maxDate>20091109</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="Chile" total="4">
+      <order by="B" total="1">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-8471&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091105">Byzantion nea hellas</journal>
+      </order>
+      <order by="R" total="3">
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0716-7105&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091109">Revista chilena de cardiología</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-8358&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091026">Revista INVI</journal>
+         <journal uri="http://www.scielo.cl/scielo.php?script=sci_serial&amp;pid=0718-8072&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090930">Revista chilena de derecho privado</journal>
+      </order>
+   </journalList>
+   <total>1</total>
+   <maxDate>20090828</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="Colombia" total="1">
+      <order by="I" total="1">
+         <journal uri="http://www.scielo.org.co/scielo.php?script=sci_serial&amp;pid=1692-8156&amp;nrm=iso"
+                  status="C"
+                  date="20090828">International Law</journal>
+      </order>
+   </journalList>
+   <total>1</total>
+   <maxDate>20090424</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="Cuba" total="1">
+      <order by="C" total="1">
+         <journal uri="http://scielo.sld.cu/scielo.php?script=sci_serial&amp;pid=0258-5936&amp;nrm=iso"
+                  status="C"
+                  date="20090424">Cultivos Tropicales</journal>
+      </order>
+   </journalList>
+   <total>1</total>
+   <maxDate>20091105</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="Espanha" total="1">
+      <order by="E" total="1">
+         <journal uri="http://scielo.isciii.es/scielo.php?script=sci_serial&amp;pid=1695-6141&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20091105">Enfermería Global</journal>
+      </order>
+   </journalList>
+   <total>1</total>
+   <maxDate>20090824</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="Mexico" total="1">
+      <order by="D" total="1">
+         <journal uri="http://www.scielo.org.mx/scielo.php?script=sci_serial&amp;pid=0185-2450&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20090824">Diánoia</journal>
+      </order>
+   </journalList>
+   <total>1</total>
+   <maxDate>20090708</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="Portugal" total="1">
+      <order by="E" total="1">
+         <journal uri="http://www.scielo.oces.mctes.pt/scielo.php?script=sci_serial&amp;pid=0874-5560&amp;nrm=iso"
+                  status="C"
+                  date="20090708">Ex aequo</journal>
+      </order>
+   </journalList>
+   <total>1</total>
+   <maxDate>20080514</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="Venezuela" total="1">
+      <order by="S" total="1">
+         <journal uri="http://www.scielo.org.ve/scielo.php?script=sci_serial&amp;pid=1315-0138&amp;nrm=iso"
+                  status="C"
+                  date="20080514">Salud de los Trabajadores</journal>
+      </order>
+   </journalList>
+   <total>1</total>
+   <maxDate>20070517</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="Saude Publica" total="1">
+      <order by="R" total="1">
+         <journal uri="http://www.scielosp.org/scielo.php?script=sci_serial&amp;pid=0864-3466&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070517">Revista Cubana de Salud Pública</journal>
+      </order>
+   </journalList>
+   <total>1</total>
+   <maxDate>20070521</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="Ciências Sociais" total="1">
+      <order by="B" total="1">
+         <journal uri="http://socialsciences.scielo.org/scielo.php?script=sci_serial&amp;pid=1981-3821&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20070521">Brazilian Political Science Review (Online)</journal>
+      </order>
+   </journalList>
+   <total>1</total>
+   <maxDate>20061030</maxDate>
+   <processDate>20090829</processDate>
+   <journalList collection="West Indian Medical Journal" total="1">
+      <order by="W" total="1">
+         <journal uri="http://caribbean.scielo.org/scielo.php?script=sci_serial&amp;pid=0043-3144&amp;nrm=iso&amp;rep="
+                  status="C"
+                  date="20061030">West Indian Medical Journal</journal>
+      </order>
+   </journalList>
+</secondLevelForLastJournalsByAlphabeticList>

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SciELOWebService version="1.0">
+<collection name="Ciências Sociais" uri="http://socialsciences.scielo.org" flagName="XX" homologado="true">
+<wxis-modules IsisScript="listNewIssues.xis" version="0.1">
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Programa de Pós-Graduação em Antropologia Social - PPGAS-Museu Nacional, da Universidade Federal do Rio de Janeiro - UFRJ</publisher>
+<title>Mana</title>
+<issn>0104-9313</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070821</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>IUPERJ - Instituto Universitário de Pesquisas do Rio de Janeiro</publisher>
+<title>Dados </title>
+<issn>0011-5258</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070814</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Instituto de Investigaciones Económicas y Sociales "José Ortiz Mercado"</publisher>
+<title>Revista de Humanidades y Ciencias Sociales (Santa Cruz de la Sierra)</title>
+<issn>1819-0545</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070814</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>ANPPAS - UNICAMP</publisher>
+<title>Ambiente &amp; sociedade</title>
+<issn>1414-753X</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070807</updateDate>
+</record>
+<record>
+<subject>Social Sciences</subject>
+<publisher>Fundação UNI/UNESP</publisher>
+<title>Interface - Comunicação, Saúde, Educação</title>
+<issn>1414-3283</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070802</updateDate>
+</record>
+<record>
+<subject>Social Sciences</subject>
+<publisher>Fundação UNI/UNESP</publisher>
+<title>Interface - Comunicação, Saúde, Educação</title>
+<issn>1414-3283</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070802</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Instituto de Desarrollo Económico y Social</publisher>
+<title>Desarrollo Económico (Buenos Aires)</title>
+<issn>0046-001X</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070730</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Departamento de Sociologia da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de Sâo Paulo</publisher>
+<title>Tempo Social</title>
+<issn>0103-2070</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070716</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject>
+<publisher>Associação Brasileira de Ciência Política</publisher>
+<title>Brazilian Political Science Review (Online)</title>
+<issn>1981-3821</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070703</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Programa de Pós-graduação em Antropologia Social - IFCH-UFRGS</publisher>
+<title>Horizontes Antropológicos</title>
+<issn>0104-7183</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070702</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>UNIVERSIDADE FEDERAL DE MINAS GERAIS (UFMG)</publisher><publisher>Faculdade de filosofia e Ciências Humanas</publisher><publisher>Departamentos de Sociologia e de Antropologia e de Ciência Política </publisher>
+<title>Teoria &amp; Sociedade</title>
+<issn>1518-4471</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070621</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Programa de Pós-Graduação em Sociologia - UFRGS</publisher>
+<title>Sociologias</title>
+<issn>1517-4522</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070619</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Universidade Federal Rural do Rio de Janeiro</publisher>
+<title>Estudos Sociedade e Agricultura</title>
+<issn>1413-0580</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070613</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Sur - Rede Universitária de Direitos Humanos</publisher>
+<title>Sur - Revista Internacional de Direitos Humanos</title>
+<issn>1806-6445</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070531</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>ANPPAS - UNICAMP</publisher>
+<title>Ambiente &amp; sociedade</title>
+<issn>1414-753X</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070524</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Fundación para la Investigación Estratégica en Bolivia (PIEB)</publisher>
+<title>T'inkazos</title>
+<issn>1990-7451</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070524</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Instituto de Historia de la Pontificia Universidad Católica de Chile</publisher>
+<title>Historia (Santiago)</title>
+<issn>0717-7194</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070516</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Faculdade de Filosofia e Ciências Humanas da UFMG</publisher>
+<title>Kriterion: Revista de Filosofia</title>
+<issn>0100-512X</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070514</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Universidade Federal do Rio de Janeiro</publisher>
+<title>Topoi: Revista de História</title>
+<issn>1518-3319</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070508</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais - ANPOCS</publisher>
+<title>Revista Brasileira de Ciências Sociais</title>
+<issn>0102-6909</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070413</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Programa de Pós-graduação em Antropologia Social - IFCH-UFRGS</publisher>
+<title>Horizontes Antropológicos</title>
+<issn>0104-7183</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070412</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Instituto de Ciência Política</publisher><publisher>Instituto de Ciencia Política</publisher>
+<title>Revista Uruguaya de Ciencia Política</title>
+<issn>0797-9789</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070402</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Instituto de Relaciones Internacionales</publisher>
+<title>Relaciones Internacionales </title>
+<issn>1515-3371</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070319</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Universidade Federal do Paraná</publisher>
+<title>Revista de Sociologia e Política</title>
+<issn>0104-4478</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070315</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Centro Latinoamericano de Economía Humana (CLAEH)</publisher>
+<title>Cuadernos del CLAEH</title>
+<issn>0797-6062</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070227</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Instituto de Estudos da Religião (ISER)</publisher>
+<title>Religião &amp; Sociedade</title>
+<issn>0100-8587</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070213</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Centro de Filosofia e Ciências Humanas e Centro de Comunicação e Expressão da Universidade Federal de Santa Catarina</publisher>
+<title>Estudos Feministas</title>
+<issn>0104-026X</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070131</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Universidad de Buenos Aires. Facultad de Ciencias Sociales</publisher>
+<title>Sociedad (Buenos Aires)</title>
+<issn>0327-7712</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2007</pubYear>
+<updateDate>20070116</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Universidad del Zulia</publisher>
+<title>Opción (Maracaibo)</title>
+<issn>1012-1587</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20070112</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Editora Brasileira de Ciências Ltda</publisher>
+<title>Novos Estudos - CEBRAP</title>
+<issn>0101-3300</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061215</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Instituto de Investigaciones Económicas y Sociales "José Ortiz Mercado"</publisher>
+<title>Revista de Humanidades y Ciencias Sociales (Santa Cruz de la Sierra)</title>
+<issn>1819-0545</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2005</pubYear>
+<updateDate>20061206</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Fundación para la Investigación Estratégica en Bolivia (PIEB)</publisher>
+<title>T'inkazos</title>
+<issn>1990-7451</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2005</pubYear>
+<updateDate>20061205</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Fundação Editora da UNESP</publisher>
+<title>História (São Paulo)</title>
+<issn>0101-9074</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061107</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Fundação Editora da UNESP</publisher>
+<title>História (São Paulo)</title>
+<issn>0101-9074</issn>
+<volume>2</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20061107</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Faculdade de Filosofia e Ciências Humanas da UFMG</publisher>
+<title>Kriterion: Revista de Filosofia</title>
+<issn>0100-512X</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060918</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Sur - Rede Universitária de Direitos Humanos</publisher>
+<title>Sur - Revista Internacional de Direitos Humanos</title>
+<issn>1806-6445</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060915</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Centro de Filosofia e Ciências Humanas e Centro de Comunicação e Expressão da Universidade Federal de Santa Catarina</publisher>
+<title>Estudos Feministas</title>
+<issn>0104-026X</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060906</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>UNIVERSIDADE FEDERAL DE MINAS GERAIS (UFMG)</publisher><publisher>Faculdade de filosofia e Ciências Humanas</publisher><publisher>Departamentos de Sociologia e de Antropologia e de Ciência Política </publisher>
+<title>Teoria &amp; Sociedade</title>
+<issn>1518-4471</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060804</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Editora Brasileira de Ciências Ltda</publisher>
+<title>Novos Estudos - CEBRAP</title>
+<issn>0101-3300</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2005</pubYear>
+<updateDate>20060728</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Instituto de Historia de la Pontificia Universidad Católica de Chile</publisher>
+<title>Historia (Santiago)</title>
+<issn>0717-7194</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060721</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Universidade Federal do Paraná</publisher>
+<title>Revista de Sociologia e Política</title>
+<issn>0104-4478</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060720</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Programa de Pós-Graduação em Antropologia Social - PPGAS-Museu Nacional, da Universidade Federal do Rio de Janeiro - UFRJ</publisher>
+<title>Mana</title>
+<issn>0104-9313</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060714</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Programa de Pós-Graduação em Sociologia - UFRGS</publisher>
+<title>Sociologias</title>
+<issn>1517-4522</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060711</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Universidad de Buenos Aires. Facultad de Ciencias Sociales</publisher>
+<title>Sociedad (Buenos Aires)</title>
+<issn>0327-7712</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060620</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Instituto de Relaciones Internacionales</publisher>
+<title>Relaciones Internacionales </title>
+<issn>1515-3371</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060606</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Facultad Latinoamericana de Ciencias Sociales </publisher>
+<title>Revista Fuerzas Armadas y Sociedad </title>
+<issn>0717-1498</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060525</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Instituto de Estudos da Religião (ISER)</publisher>
+<title>Religião &amp; Sociedade</title>
+<issn>0100-8587</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060524</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Centro Latinoamericano de Economía Humana (CLAEH)</publisher>
+<title>Cuadernos del CLAEH</title>
+<issn>0797-6062</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060425</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Universidade Federal do Rio de Janeiro</publisher>
+<title>Topoi: Revista de História</title>
+<issn>1518-3319</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060321</updateDate>
+</record>
+<record>
+<subject>Human Sciences</subject><subject>Social Sciences</subject>
+<publisher>Instituto de Ciência Política</publisher><publisher>Instituto de Ciencia Política</publisher>
+<title>Revista Uruguaya de Ciencia Política</title>
+<issn>0797-9789</issn>
+<volume>1</volume>
+<numero>se</numero>
+<pubYear>2006</pubYear>
+<updateDate>20060302</updateDate>
+</record>
+<index mfn="1">
+   <server>
+      <occ date="20070919" time="130937"></occ>
+   </server>
+   <database>
+      <occ>/home/scielo-ss/www/bases/issue/issue</occ>
+   </database>
+   <from/>
+   <to/>
+   <posttag/>
+   <posting/>
+   <count>
+      <occ>50</occ>
+   </count>
+   <reverse/>
+</index>
+</wxis-modules></collection></SciELOWebService>

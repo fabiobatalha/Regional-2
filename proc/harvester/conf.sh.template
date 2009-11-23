@@ -1,0 +1,19 @@
+# Conf file
+export HTDOCS=/home/scieloorg/www/htdocs
+export CISIS_DIR=/home/scielo/www/proc/cisis/
+export PROC=/home/scieloorg/www/proc/harvester
+export HTML_DEST=$HTDOCS/html/$1
+export XML_HOME=$PROC/xml
+export XSL_HOME=$PROC/xsl
+export HTML_LOCAL=$PROC/html/$1
+export SAXON_JAR=$PROC/lib/saxon8.jar
+export SH_HOME=$PROC/sh
+export XHTML_LANG=$1
+export XHTML_LANG_PARAM="PATH=$PROC/"
+export JAVA_EXEC="$JAVA_HOME/bin/java"
+export MYSQL="/usr/local/mysql-4.1.22/bin"
+export MYSQL_HOST="127.0.0.1"
+export MYSQL_DATABASE="scieloorgusers"
+export MYSQL_USER="scielo"
+export MYSQL_PASSWORD="scielo"
+export LAST_DATE_PARAM="processDate=`cat processDate.txt`"

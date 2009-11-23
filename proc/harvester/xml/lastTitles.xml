@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lastTitles>
+   <collection uri="http://www.scielo.br">
+      <name>Brasil</name>
+      <subject>Health Sciences</subject>
+      <lastDate>20090707</lastDate>
+      <processingDate>20090917</processingDate>
+      <total>1</total>
+   </collection>
+   <collection uri="http://www.scielosp.org">
+      <name>Saude Publica</name>
+      <subject>Health Sciences</subject>
+      <lastDate>20070510</lastDate>
+      <processingDate>20090917</processingDate>
+      <total>1</total>
+   </collection>
+</lastTitles>
