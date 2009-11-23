@@ -21,7 +21,7 @@ define("DB_DBNAME","scieloregional");
 
 /*SITE Configurations*/
 define("SITE_NAME","SciELO Regional");
-define("SITE_DOMAIN","http://vm.scielo5.org");
+define("SITE_DOMAIN","http://vm.scielo.org");
 define("SYS_CHARSET","UTF-8");
 define("ACCEPTED_CHARSETS","UTF-8,ISO-8859-1");
 define("SITE_PATH",dirname(__FILE__)."/");
