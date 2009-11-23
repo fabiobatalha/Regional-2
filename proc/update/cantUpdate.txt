@@ -1,0 +1,15 @@
+/home/scieloorg/repositorio/www/htdocs/bvs-site-conf.php
+/home/scieloorg/repositorio/www/htdocs/applications/scielo-org/sgu/services.ini
+/home/scieloorg/repositorio/www/proc/harvester/webservices.txt
+/home/scieloorg/repositorio/www/proc/harvester/collection.txt
+/home/scieloorg/repositorio/www/proc/harvester/xml/network.xml
+/home/scieloorg/repositorio/www/proc/harvester/chama.sh
+/home/scieloorg/repositorio/www/proc/harvester/sh/makeXML.sh
+/home/scieloorg/repositorio/www/proc/harvester/sh/makeXHTML.sh
+/home/scieloorg/repositorio/www/htdocs/applications/scielo-org/users/DBClass.php
+/home/scieloorg/repositorio/www/proc/harvester/xml/network.xml
+/home/scieloorg/repositorio/www/proc/scieloUpdate/cantUpdate.txt
+/home/scieloorg/repositorio/www/proc/scieloUpdate/conf.sh
+/home/scieloorg/repositorio/www/proc/scieloUpdate/subversion.txt
+/home/scieloorg/repositorio/www/htdocs/local
+#/home/scieloorg/repositorio/www/bases/*
