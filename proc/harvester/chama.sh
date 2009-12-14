@@ -18,4 +18,4 @@ cp -rf html/en/*.html $HTDOCS/applications/scielo-org/html/en
 cp -rf html/pt/*.html $HTDOCS/applications/scielo-org/html/pt
 cp -rf html/es/*.html $HTDOCS/applications/scielo-org/html/es
 
-date +%Y%M%d > lastProcessDate.txt
+date +%Y%m%d > lastProcessDate.txt
