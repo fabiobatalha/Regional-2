@@ -1,0 +1,183 @@
+<definitions xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+             xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"
+             xmlns:si="http://soapinterop.org/xsd"
+             xmlns:tns="urn:search.server"
+             xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+             xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+             xmlns="http://schemas.xmlsoap.org/wsdl/"
+             targetNamespace="urn:search.server">
+    <types>
+        <xsd:schema targetNamespace="urn:search.server"> 
+            <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" /> 
+            <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" /> 
+        </xsd:schema>
+    </types>
+    <message name="searchRequest">
+        <part name="expression" type="xsd:string" />
+        <part name="from" type="xsd:string" />
+        <part name="count" type="xsd:string" />
+        <part name="collection" type="xsd:string" />
+    </message>
+    <message name="searchResponse">
+        <part name="return" type="xsd:string" />
+    </message>
+    <message name="searchHGRequest">
+        <part name="expression" type="xsd:string" />
+        <part name="from" type="xsd:string" />
+        <part name="count" type="xsd:string" />
+        <part name="collection" type="xsd:string" />
+    </message>
+    <message name="searchHGResponse">
+        <part name="return" type="xsd:string" />
+    </message>
+    <message name="advancedSearchRequest">
+        <part name="index" type="xsd:string" />
+        <part name="expression" type="xsd:string" />
+        <part name="from" type="xsd:string" />
+        <part name="count" type="xsd:string" />
+        <part name="collection" type="xsd:string" />
+    </message>
+    <message name="advancedSearchResponse">
+        <part name="return" type="xsd:string" />
+    </message>
+    <message name="advancedSearchHGRequest">
+        <part name="index" type="xsd:string" />
+        <part name="expression" type="xsd:string" />
+        <part name="from" type="xsd:string" />
+        <part name="count" type="xsd:string" />
+        <part name="collection" type="xsd:string" />
+    </message>
+    <message name="advancedSearchHGResponse">
+        <part name="return" type="xsd:string" />
+    </message>
+    <message name="listRecordsRequest">
+        <part name="from" type="xsd:string" />
+        <part name="count" type="xsd:string" />
+        <part name="collection" type="xsd:string" />
+    </message>
+    <message name="listRecordsResponse">
+        <part name="return" type="xsd:string" />
+    </message>
+    <message name="lastRecordsRequest">
+        <part name="count" type="xsd:string" />
+        <part name="collection" type="xsd:string" />
+    </message>
+    <message name="lastRecordsResponse">
+        <part name="return" type="xsd:string" />
+    </message>
+    <message name="lastRecordsHGRequest">
+        <part name="count" type="xsd:string" />
+        <part name="collection" type="xsd:string" />
+    </message>
+    <message name="lastRecordsHGResponse">
+        <part name="return" type="xsd:string" />
+    </message>
+    <portType name="search.serverPortType">
+        <operation name="search">
+            <documentation>Retorna XML</documentation>
+            <input message="tns:searchRequest"/>
+            <output message="tns:searchResponse"/>
+        </operation>
+        <operation name="searchHG">
+            <documentation>Retorna XML otimizado para widgets</documentation>
+            <input message="tns:searchHGRequest"/>
+            <output message="tns:searchHGResponse"/>
+        </operation>
+        <operation name="advancedSearch">
+            <documentation>Retorna XML</documentation>
+            <input message="tns:advancedSearchRequest"/>
+            <output message="tns:advancedSearchResponse"/>
+        </operation>
+        <operation name="advancedSearchHG">
+            <documentation>Retorna XML otimizado para widgets</documentation>
+            <input message="tns:advancedSearchHGRequest"/>
+            <output message="tns:advancedSearchHGResponse"/>
+        </operation>
+        <operation name="listRecords">
+            <documentation>Retorna XML</documentation>
+            <input message="tns:listRecordsRequest"/>
+            <output message="tns:listRecordsResponse"/>
+        </operation>
+        <operation name="lastRecords">
+            <documentation>Retorna XML</documentation>
+            <input message="tns:lastRecordsRequest"/>
+            <output message="tns:lastRecordsResponse"/>
+        </operation>
+        <operation name="lastRecordsHG">
+            <documentation>Retorna XML otimizado para widgets</documentation>
+            <input message="tns:lastRecordsHGRequest"/>
+            <output message="tns:lastRecordsHGResponse"/>
+        </operation>
+    </portType>
+    <binding name="search.serverBinding" type="tns:search.serverPortType">
+        <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+        <operation name="search">
+            <soap:operation soapAction="urn:search.server#search" style="rpc"/>
+            <input>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </output>
+        </operation>
+        <operation name="searchHG">
+            <soap:operation soapAction="urn:search.server#search" style="rpc"/>
+            <input>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </output>
+        </operation>
+        <operation name="advancedSearch">
+            <soap:operation soapAction="urn:search.server#advancedSearch" style="rpc"/>
+            <input>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </output>
+        </operation>
+        <operation name="advancedSearchHG">
+            <soap:operation soapAction="urn:search.server#advancedSearch" style="rpc"/>
+            <input>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </output>
+        </operation>
+        <operation name="listRecords"><soap:operation soapAction="urn:search.server#list" style="rpc"/>
+            <input><soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </output>
+        </operation>
+        <operation name="lastRecords">
+            <soap:operation soapAction="urn:search.server#lastRecords" style="rpc"/>
+            <input>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </output>
+        </operation>
+        <operation name="lastRecordsHG">            
+            <soap:operation soapAction="urn:search.server#lastRecords" style="rpc"/>
+            <input>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="urn:search.server" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </output>
+        </operation>
+    </binding>
+    <service name="search.server">
+        <port name="search.serverPort" binding="tns:search.serverBinding">
+            <soap:address location="http://vm.scielo.org/applications/scielo-org/webservices/indexBVS.php"/>
+        </port>
+    </service>
+</definitions>

@@ -1,0 +1,26 @@
+if p(v121) then,
+	if p(v936^i) and size(v936^i)=9 then,
+		if p(v936^y) and size(v936^y)=4 then,		
+			if p(v936^o) and size(v936^o)>0 and size(v936^o)<3 then,
+				if p(v880) then,
+					'<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">',#
+						if p(v12) then,
+							(|<dc:title xml:lang="|v12^l|"><![CDATA[|v12^*|]]></dc:title>|),#
+						fi,
+						if p(v10^s) and p(v10^n) then,
+							(|<dc:creator><![CDATA[|v10^s|,|v10^n|]]></dc:creator>|),#
+						fi,
+						,'<dc:identifier>http://',proc('G/home/scieloorg/www/bases/iah/gizmo/collections_pt,880')v880^d,'/scielo.php?script=sci_arttext&amp;pid=',v880^*,'&amp;lng=en&amp;nrm=iso&amp;tlng=',v40,'</dc:identifier>',#
+						if p(v30) then,
+							(|<dc:source><![CDATA[|v30|]]></dc:source>|),#
+						fi,
+						if p(v40) then,
+							(|<dc:language>|v40|</dc:language>|),#
+						fi,
+					 '</resource>',#
+				fi,
+			fi,
+		fi,
+	fi,
+
+fi,
