@@ -1,5 +1,5 @@
 <?php
-$objSoapServer = new SoapServer('indexBVS.wsdl');
+$objSoapServer = new SoapServer('indexBVS.wsdl', array('encoding' => 'ISO-8859-1'));
 $objSoapServer->addFunction(SOAP_FUNCTIONS_ALL);
 $objSoapServer->handle();
 
@@ -11,8 +11,7 @@ function search($expression, $from, $count, $collection){
 	$expression = str_replace(" ","%20or%20",trim($expression));
 	
 	$serviceUrl = "http://".$_SERVER["HTTP_HOST"]."/cgi-bin/wxis.exe/?IsisScript=ScieloXML/fi_bvs_search.xis&database=search_".$collection."&search=".$expression."&from=".$from."&count=".$count;
-	//$response = file_get_contents($serviceUrl);
-	$response = $serviceUrl;
+	$response = file_get_contents($serviceUrl);
         
 	return $response;
 }

@@ -5,7 +5,7 @@ if(!isset($_REQUEST['service'])){
 
 $service = $_REQUEST['service'];
 
-$clientesoap = new SoapClient('http://'.$_SERVER["HTTP_HOST"].'/applications/scielo-org/webservices/indexBVS.wsdl');
+$clientesoap = new SoapClient('http://'.$_SERVER["HTTP_HOST"].'/applications/scielo-org/webservices/indexBVS.wsdl', array('encoding' => 'ISO-8859-1'));
 
 switch($service){
 	case "search":
@@ -21,11 +21,12 @@ switch($service){
 		if(!isset($_REQUEST['collection'])){
 			die("missing parameter <i>collection</i>");
 		}
-		//$param = array('expression' => $_REQUEST['expression'],'from' => $_REQUEST['from'],'count' => $_REQUEST['count'],'collection' => $_REQUEST['collection']);
+		
 		try{
-			$resultado = $clientesoap->search($_REQUEST['expression'], $_REQUEST['from'], $_REQUEST['count'], $_REQUEST['collection']);	
+			$resultado = $clientesoap->search($_REQUEST['expression'], 
+        $_REQUEST['from'], $_REQUEST['count'], $_REQUEST['collection']);	
 		}catch(Exception $e){
-			die('Exception: ' . $e->getMessage());
+			die('Error: ' . $e->getMessage());
 		}
 		
 		break;
@@ -42,8 +43,14 @@ switch($service){
 		if(!isset($_REQUEST['collection'])){
 			die("missing parameter <i>collection</i>");
 		}
-		$param = array('expression' => $_REQUEST['expression'],'from' => $_REQUEST['from'],'count' => $_REQUEST['count'],'collection' => $_REQUEST['collection']);
-		$resultado = $clientesoap->searchHG($param);
+    
+		try{
+      $resultado = $clientesoap->searchHG($_REQUEST['expression'], 
+        $_REQUEST['from'], $_REQUEST['count'], $_REQUEST['collection']);
+    }catch(Exception $e){
+      die('Error: ' . $e->getMessage());
+    }
+    
 		break;
 	case "advancedSearch":
 		if(!isset($_REQUEST['index'])){
@@ -61,8 +68,15 @@ switch($service){
 		if(!isset($_REQUEST['collection'])){
 			die("missing parameter <i>collection</i>");
 		}
-		$param = array('index' => $_REQUEST['index'],'expression' => $_REQUEST['expression'],'from' => $_REQUEST['from'],'count' => $_REQUEST['count'],'collection' => $_REQUEST['collection']);
-		$resultado = $clientesoap->advancedSearch($param);
+    
+		try{
+      $resultado = $clientesoap->advancedSearch($_REQUEST['index'], 
+        $_REQUEST['expression'], $_REQUEST['from'], $_REQUEST['count'], 
+        $_REQUEST['collection']);
+    }catch(Exception $e){
+      die('Error: ' . $e->getMessage());
+    }
+    
 		break;
 	case "advancedSearchHG":
 		if(!isset($_REQUEST['index'])){
@@ -80,10 +94,16 @@ switch($service){
 		if(!isset($_REQUEST['collection'])){
 			die("missing parameter <i>collection</i>");
 		}
-		$param = array('index' => $_REQUEST['index'],'expression' => $_REQUEST['expression'],'from' => $_REQUEST['from'],'count' => $_REQUEST['count'],'collection' => $_REQUEST['collection']);
-		$resultado = $clientesoap->advancedSearchHG($param);
+		
+    try{
+      $resultado = $clientesoap->advancedSearchHG($_REQUEST['index'], 
+        $_REQUEST['expression'], $_REQUEST['from'], $_REQUEST['count'], 
+        $_REQUEST['collection']);
+    }catch(Exception $e){
+      die('Error: ' . $e->getMessage());
+    }
+    
 		break;
-
 	case "listRecords":
 		if(!isset($_REQUEST['count'])){
 			die("missing parameter <i>count</i>");
@@ -91,8 +111,14 @@ switch($service){
 		if(!isset($_REQUEST['collection'])){
 			die("missing parameter <i>collection</i>");
 		}
-		$param = array('count' => $_REQUEST['count'],'collection' => $_REQUEST['collection']);
-		$resultado = $clientesoap->listRecords($param); // Alterar o nome do serviço. 
+		
+    try{
+      $resultado = $clientesoap->listRecords($_REQUEST['count'], 
+        $_REQUEST['collection']); // Alterar o nome do serviço. 
+    }catch(Exception $e){
+      die('Error: ' . $e->getMessage());
+    }
+    
 		break;
 	case "lastRecords":		
 		if(!isset($_REQUEST['count'])){
@@ -101,8 +127,14 @@ switch($service){
 		if(!isset($_REQUEST['collection'])){
 			die("missing parameter <i>collection</i>");
 		}
-		$param = array('count' => $_REQUEST['count'],'collection' => $_REQUEST['collection']);
-		$resultado = $clientesoap->lastRecords($param);
+		
+    try{
+      $resultado = $clientesoap->lastRecords($_REQUEST['count'], 
+        $_REQUEST['collection']);
+    }catch(Exception $e){
+      die('Error: ' . $e->getMessage());
+    }
+    
 		break;
 	case "lastRecordsHG":		
 		if(!isset($_REQUEST['count'])){
@@ -111,18 +143,17 @@ switch($service){
 		if(!isset($_REQUEST['collection'])){
 			die("missing parameter <i>collection</i>");
 		}
-		$param = array('count' => $_REQUEST['count'],'collection' => $_REQUEST['collection']);
-		$resultado = $clientesoap->lastRecordsHG($param);
+		
+    try{
+      $resultado = $clientesoap->lastRecordsHG($_REQUEST['count'], 
+        $_REQUEST['collection']);
+    }catch(Exception $e){
+      die('Error: ' . $e->getMessage());
+    }
+    
 		break;
 }
 
-
-//if($_REQUEST['return'] == 'soap'){
-//	echo '<h2>Request</h2><pre>' . htmlspecialchars($clientesoap->request, ENT_QUOTES) . '</pre>';
-//	echo '<h2>Response</h2><pre>' . htmlspecialchars($clientesoap->response, ENT_QUOTES) . '</pre>';
-//	echo '<h2>Debug</h2><pre>' . htmlspecialchars($clientesoap->debug_str, ENT_QUOTES) . '</pre>';
-//}else{
 	header('Content-type: application/xml; charset="ISO-8859-1"',true);
 	echo $resultado;
-//}
 ?>
