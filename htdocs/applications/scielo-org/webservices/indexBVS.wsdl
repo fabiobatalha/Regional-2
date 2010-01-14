@@ -177,7 +177,7 @@
     </binding>
     <service name="search.server">
         <port name="search.serverPort" binding="tns:search.serverBinding">
-            <soap:address location="http://vm.scielo.org/applications/scielo-org/webservices/indexBVS.php"/>
+            <soap:address location="http://www.scielo.org/applications/scielo-org/webservices/indexBVS.php"/>
         </port>
     </service>
 </definitions>
