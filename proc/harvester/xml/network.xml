@@ -20,6 +20,11 @@
 			</link>
 		</links>
 		<underdevelopment>
+		    <project>
+                <url>http://www.scielo.org.za/?lang=pt</url>
+                <name>South Africa</name>
+                <flagName>ZA</flagName>
+            </project>
 			<project>
 				<url>http://www.scielo.org.bo/scielo.php?lng=pt</url>
 				<name>Bolivia</name>
@@ -30,11 +35,11 @@
 				<name>Costa Rica</name>
 				<flagName>CR</flagName>
 			</project>
-                        <project>
-                                <url>http://www.scielo.org.mx/scielo.php?lng=pt</url>
-                                <name>Mexico</name>
-                                <flagName>MX</flagName>
-                        </project>
+            <project>
+                <url>http://www.scielo.org.mx/scielo.php?lng=pt</url>
+                <name>Mexico</name>
+                <flagName>MX</flagName>
+            </project>
 			<project>
 				<url>http://scielo.iics.una.py/scielo.php?lng=pt</url>
 				<name>Paraguai</name>
@@ -44,22 +49,22 @@
 				<url>http://www.scielo.org.pe/</url>
 				<name>Peru</name>
 				<flagName>PE</flagName>
-			</project>
-                        <project>
-                                <url>http://www.scielo.org.za/?lang=pt</url>
-                                <name>South Africa</name>
-                                <flagName>ZA</flagName>
-                        </project>
+			</project>                        
 			<project>
 				<url>http://www.scielo.edu.uy/scielo.php?lng=pt</url>
 				<name>Uruguai</name>
 				<flagName>UY</flagName>
 			</project>
 			<project>
+				<url>http://caribbean.scielo.org/?lang=pt</url>
+				<name>West Indian Medical Journal</name>
+				<flagName>XX</flagName>
+			</project>
+			<project>
 				<url>http://www.proceedings.scielo.br/scielo.php?lng=pt</url>
 				<name>SciELO Proceedings</name>
 				<flagName>XX</flagName>
-			</project>
+			</project>						
 		</underdevelopment>
 		<disclosing>
 			<project>
@@ -95,10 +100,10 @@
 				<name>Sobre SciELO</name>
 				<url>/php/level.php?lang=es&amp;component=44&amp;item=8</url>
 			</link>
-                        <link>
-                                <name>Indicadores Bibliométricos</name>
-                                <url>/php/level.php?lang=es&amp;component=44&amp;item=25</url>
-                        </link>
+            <link>
+                <name>Indicadores Bibliométricos</name>
+                <url>/php/level.php?lang=es&amp;component=44&amp;item=25</url>
+            </link>
 			<link>
 				<name>Acceda via OAI y RSS</name>
 				<url>/php/level.php?lang=es&amp;component=44&amp;item=9</url>
@@ -119,11 +124,11 @@
 				<name>Costa Rica</name>
 				<flagName>CR</flagName>
 			</project>
-                        <project>
-                                <url>http://www.scielo.org.mx/scielo.php?lng=es</url>
-                                <name>Mexico</name>
-                                <flagName>MX</flagName>
-                        </project>
+            <project>
+                <url>http://www.scielo.org.mx/scielo.php?lng=es</url>
+                <name>Mexico</name>
+                <flagName>MX</flagName>
+            </project>
 			<project>
 				<url>http://scielo.iics.una.py/scielo.php?lng=es</url>
 				<name>Paraguai</name>
@@ -134,15 +139,20 @@
 				<name>Peru</name>
 				<flagName>PE</flagName>
 			</project>
-                        <project>
-                                <url>http://www.scielo.org.za/?lang=es</url>
-                                <name>South Africa</name>
-                                <flagName>ZA</flagName>
-                        </project>
+            <project>
+                <url>http://www.scielo.org.za/?lang=es</url>
+                <name>South Africa</name>
+                <flagName>ZA</flagName>
+            </project>
 			<project>
 				<url>http://www.scielo.edu.uy/scielo.php?lng=es</url>
 				<name>Uruguai</name>
 				<flagName>UY</flagName>
+			</project>
+			<project>
+				<url>http://caribbean.scielo.org/?lang=es</url>
+				<name>West Indian Medical Journal</name>
+				<flagName>XX</flagName>
 			</project>
 			<project>
 				<url>http://www.proceedings.scielo.br/scielo.php?lng=es</url>
@@ -184,10 +194,10 @@
 				<name>About SciELO</name>
 				<url>/php/level.php?lang=en&amp;component=42&amp;item=8</url>
 			</link>
-                        <link>
-                                <name>Bibliometric Indicators</name>
-                                <url>/php/level.php?lang=en&amp;component=42&amp;item=24</url>
-                        </link>
+            <link>
+                <name>Bibliometric Indicators</name>
+                <url>/php/level.php?lang=en&amp;component=42&amp;item=24</url>
+            </link>
 			<link>
 				<name>Access via OAI and RSS</name>
 				<url>/php/level.php?lang=en&amp;component=42&amp;item=9</url>
@@ -208,11 +218,11 @@
 				<name>Costa Rica</name>
 				<flagName>CR</flagName>
 			</project>
-                        <project>
-                                <url>http://www.scielo.org.mx/scielo.php?lng=en</url>
-                                <name>Mexico</name>
-                                <flagName>MX</flagName>
-                        </project>
+            <project>
+                <url>http://www.scielo.org.mx/scielo.php?lng=en</url>
+                <name>Mexico</name>
+                <flagName>MX</flagName>
+            </project>
 			<project>
 				<url>http://scielo.iics.una.py/scielo.php?lng=en</url>
 				<name>Paraguai</name>
@@ -223,15 +233,20 @@
 				<name>Peru</name>
 				<flagName>PE</flagName>
 			</project>
-                        <project>
-	                        <url>http://www.scielo.org.za/?lang=en</url>
-                                <name>South Africa</name>
-                                <flagName>ZA</flagName>
-                        </project>
+            <project>
+                <url>http://www.scielo.org.za/?lang=en</url>
+                <name>South Africa</name>
+                <flagName>ZA</flagName>
+            </project>
 			<project>
 				<url>http://www.scielo.edu.uy/scielo.php?lng=en</url>
 				<name>Uruguai</name>
 				<flagName>UY</flagName>
+			</project>
+			<project>
+				<url>http://caribbean.scielo.org/?lang=en</url>
+				<name>West Indian Medical Journal</name>
+				<flagName>XX</flagName>
 			</project>
 			<project>
 				<url>http://www.proceedings.scielo.br/scielo.php?lng=en</url>

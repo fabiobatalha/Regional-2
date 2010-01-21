@@ -47,8 +47,8 @@
 			<collections>
 				<collection name="Argentina">Argentina</collection>
 				<collection name="Brasil">Brasil</collection>
-                                <collection name="Bolivia">Bolivia</collection>
-                                <collection name="South Africa">África do Sul</collection>
+                <collection name="Bolivia">Bolívia</collection>
+                <collection name="South Africa">África do Sul</collection>
 				<collection name="Chile">Chile</collection>
 				<collection name="Colombia">Colômbia</collection>
 				<collection name="Cuba">Cuba</collection>
@@ -68,7 +68,7 @@
 				<collection name="Ciência e Cultura">Ciência e Cultura</collection>
 				<collection name="Inovação Uniemp">Inovação Uniemp</collection>
 				<collection name="Pesquisa FAPESP">Pesquisa FAPESP</collection>
-                                <collection name="Revista Virtual de Química">Revista Virtual de Química</collection>
+                <collection name="Revista Virtual de Química">Revista Virtual de Química</collection>
 				<collection name="UNIFESP">UNIFESP</collection>
 				<collection name="UNICAMP">UNICAMP</collection>
 				<collection name="USP">USP</collection>
@@ -153,7 +153,7 @@
 		<metaSearch>
 			<index>Índices</index>
 			<method>método</method>
-                        <iahx>integrada</iahx>
+            <iahx>integrada</iahx>
 			<iah>por palavra</iah>
 			<lexical_proximity>proximidade léxica</lexical_proximity>
 			<google_scholar>Google Acadêmico</google_scholar>
@@ -208,8 +208,8 @@
 			<collections>
 				<collection name="Argentina">Argentina</collection>
 				<collection name="Brasil">Brasil</collection>
-                                <collection name="Bolivia">Bolivia</collection>
-                                <collection name="South Africa">África del Sul</collection>
+                <collection name="Bolivia">Bolivia</collection>
+                <collection name="South Africa">Sudáfrica</collection>
 				<collection name="Chile">Chile</collection>
 				<collection name="Colombia">Colombia</collection>
 				<collection name="Cuba">Cuba</collection>
@@ -223,13 +223,13 @@
 				<collection name="Mexico">México</collection>
 				<collection name="Peru">Perú</collection>
 				<collection name="Portugal">Portugal</collection>
-				<collection name="Uruguai">Uruguai</collection>
+				<collection name="Uruguai">Uruguay</collection>
 				<collection name="West Indian Medical Journal">West Indian Medical Journal</collection>
-				<collection name="Paraguai">Paraguai</collection>
+				<collection name="Paraguai">Paraguay</collection>
 				<collection name="Ciência e Cultura">Ciência e Cultura</collection>
 				<collection name="Inovação Uniemp">Inovação Uniemp</collection>
 				<collection name="Pesquisa FAPESP">Pesquisa FAPESP</collection>
-                                <collection name="Revista Virtual de Química">Revista Virtual de Química</collection>
+                <collection name="Revista Virtual de Química">Revista Virtual de Química</collection>
 				<collection name="UNIFESP">UNIFESP</collection>
 				<collection name="UNICAMP">UNICAMP</collection>
 				<collection name="USP">USP</collection>
@@ -314,8 +314,8 @@
 		<metaSearch>
 			<index>Índices</index>
 			<method>método</method>
-                        <iahx>integrada</iahx>
-                        <iah>por palabra</iah>
+            <iahx>integrada</iahx>
+            <iah>por palabra</iah>
 			<lexical_proximity>proximidad léxica</lexical_proximity>
 			<google_scholar>Google Académico</google_scholar>
 			<similarity>relevancia</similarity>
@@ -369,8 +369,8 @@
 			<collections>
 				<collection name="Argentina">Argentina</collection>
 				<collection name="Brasil">Brazil</collection>
-                                <collection name="Bolivia">Bolivia</collection>
-                                <collection name="South Africa">África do Sul</collection>
+                <collection name="Bolivia">Bolivia</collection>
+                <collection name="South Africa">South Africa</collection>
 				<collection name="Chile">Chile</collection>
 				<collection name="Colombia">Colombia</collection>
 				<collection name="Cuba">Cuba</collection>
@@ -390,8 +390,8 @@
 				<collection name="Ciência e Cultura">Ciência e Cultura</collection>
 				<collection name="Inovação Uniemp">Inovação Uniemp</collection>
 				<collection name="Pesquisa FAPESP">Pesquisa FAPESP</collection>
-                                <collection name="Revista Virtual de Química">Revista Virtual de Química</collection>
-		                <collection name="ComCiência">ComCiência</collection>
+                <collection name="Revista Virtual de Química">Revista Virtual de Química</collection>
+                <collection name="ComCiência">ComCiência</collection>
 			</collections>
 			<networkGroups>
 				<group name="developed">collections</group>
@@ -471,8 +471,8 @@
 		<metaSearch>
 			<index>Indexes</index>
 			<method>method</method>
-                        <iahx>integrated</iahx>
-                        <iah>by word</iah>
+            <iahx>integrated</iahx>
+            <iah>by word</iah>
 			<lexical_proximity>lexical proximity</lexical_proximity>
 			<google_scholar>Google Scholar</google_scholar>
 			<similarity>relevance</similarity>
