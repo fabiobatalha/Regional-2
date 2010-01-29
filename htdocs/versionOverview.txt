@@ -1,0 +1,5 @@
+Vesion v2.21 - BVSSite v5.2.6
+
+Improvements
+-----------------------------
+# http://reddes.bvsalud.org/bireme/scielo-regional/ticket/31
