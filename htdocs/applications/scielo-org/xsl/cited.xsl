@@ -86,6 +86,7 @@
                                       <xsl:value-of select="$texts/text[find='accessat']/replace"/>: <xsl:apply-templates select="collections/collection" />
                                 </div>
                         </div>
+			<div style="clear: both; height: 1px; margin: 0px; padding: 0px;"/>
                 </li>
         </xsl:template>
 
