@@ -4,7 +4,6 @@
 		<googleCode>scielo</googleCode>
 		<iahCode>org</iahCode>
 		<indexCode>org</indexCode>
-		<collexisCode>SCI_Overall</collexisCode>
 		<links>
 			<iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.org_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
 			<iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.org_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -20,7 +19,6 @@
 		<googleCode>scielo.ar</googleCode>
 		<iahCode>arg</iahCode>
 		<indexCode>arg</indexCode>
-		<collexisCode>SCI_scieloar</collexisCode>
 		<links>
 			<iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.arg_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
 			<iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.arg_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -36,7 +34,6 @@
 		<googleCode>scielo.br</googleCode>
 		<iahCode>scl</iahCode>
 		<indexCode>scl</indexCode>
-		<collexisCode>SCI_scielobr</collexisCode>
 		<links>
 			<iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.scl_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
 			<iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.scl_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -52,7 +49,6 @@
 		<googleCode>scielo.cl</googleCode>
 		<iahCode>chl</iahCode>
 		<indexCode>chl</indexCode>
-		<collexisCode>SCI_scielocl</collexisCode>
 		<links>
 			<iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.chl_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
 			<iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.chl_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -68,7 +64,6 @@
                 <googleCode>scielo.co</googleCode>
                 <iahCode>col</iahCode>
                 <indexCode>col</indexCode>
-                <collexisCode>SCI_scieloco</collexisCode>
                 <links>
                         <iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.col_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
                         <iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.col_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -84,7 +79,6 @@
                 <googleCode>scielo.cu</googleCode>
                 <iahCode>cub</iahCode>
                 <indexCode>cub</indexCode>
-                <collexisCode>SCI_scielocu</collexisCode>
                 <links>
                         <iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.cub_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
                         <iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.cub_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -100,7 +94,6 @@
 		<googleCode>scielo.es</googleCode>
 		<iahCode>esp</iahCode>
 		<indexCode>esp</indexCode>
-		<collexisCode>SCI_scieloes</collexisCode>
 		<links>
 			<iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.esp_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
 			<iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.esp_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -116,7 +109,6 @@
 		<googleCode>scielo.pt</googleCode>
 		<iahCode>prt</iahCode>
 		<indexCode>prt</indexCode>
-		<collexisCode>SCI_scielopt</collexisCode>
 		<links>
 			<iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.prt_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
 			<iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.prt_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -132,7 +124,6 @@
 		<googleCode>scielo.ve</googleCode>
 		<iahCode>ven</iahCode>
 		<indexCode>ven</indexCode>
-		<collexisCode>SCI_scielove</collexisCode>
 		<links>
 			<iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.ven_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
 			<iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.ven_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -148,7 +139,6 @@
 		<googleCode>scielosp.org</googleCode>
 		<iahCode>spa</iahCode>
 		<indexCode>spa</indexCode>
-		<collexisCode>SCI_scielosp</collexisCode>
 		<links>
 			<iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.spa_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
 			<iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.spa_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -164,7 +154,6 @@
 		<googleCode>scielo.ss</googleCode>
 		<iahCode>sss</iahCode>
 		<indexCode>sss</indexCode>
-		<collexisCode>SCI_scieloss</collexisCode>
 		<links>
 			<iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.sss_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
 			<iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.sss_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -181,7 +170,6 @@
 		<googleCode>scielowi</googleCode>
 		<iahCode>wid</iahCode>
 		<indexCode>wid</indexCode>
-		<collexisCode>SCI_scielowi</collexisCode>
 		<links>
 			<iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.sss_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
 			<iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.sss_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
@@ -199,7 +187,6 @@
                 <googleCode>scielo00</googleCode>
                 <iahCode>r00</iahCode>
                 <indexCode>r00</indexCode>
-                <collexisCode>SCI_scielo00</collexisCode>
                 <links>
                         <iahIndexCountry name="country">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.r00_param_index=CT_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexCountry>
                         <iahIndexAuthor name="author">/cgi-bin/wxis.exe/applications/scielo-org/iah/?IsisScript=iah/iah.xis_param_base=article^dart.r00_param_index=AU_param_lang=i_param_fmt=iso.pft_param_form=B</iahIndexAuthor>
