@@ -32,7 +32,6 @@
                             <option value="&lt;?=$IAHService?&gt;"><xsl:value-of select="$metaTexts//labels[@lang=$lang]/metaSearch/iah" /></option>
                             <option value="applications/scielo-org/trigrama"><xsl:value-of select="$metaTexts//labels[@lang=$lang]/metaSearch/lexical_proximity" /></option>
                             <option value="applications/scielo-org/google_scholar"><xsl:value-of select="$metaTexts//labels[@lang=$lang]/metaSearch/google_scholar" /></option>
-                            <option value="applications/scielo-org/collexis"><xsl:value-of select="$metaTexts//labels[@lang=$lang]/metaSearch/similarity" /></option>
                         </select>
                     </div>
                     <div id="searchExpression">
@@ -66,7 +65,7 @@
     </xsl:template>
 
     <xsl:template match="instance">
-        <option value="{concat(googleCode,'|',iahCode,'|',collexisCode,'|',indexCode)}"><xsl:value-of select="@name"/></option>
+        <option value="{concat(googleCode,'|',iahCode,'|',indexCode)}"><xsl:value-of select="@name"/></option>
     </xsl:template>
 
     <xsl:template match="instance" mode="instaceIndexLinks">
