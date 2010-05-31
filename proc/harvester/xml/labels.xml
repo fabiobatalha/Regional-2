@@ -153,11 +153,11 @@
 		<metaSearch>
 			<index>Índices</index>
 			<method>método</method>
-            <iahx>integrada</iahx>
+	                <iahx>integrada</iahx>
 			<iah>por palavra</iah>
 			<lexical_proximity>proximidade léxica</lexical_proximity>
 			<google_scholar>Google Acadêmico</google_scholar>
-			<similarity>relevância</similarity>
+			<!--similarity>relevância</similarity-->
 			<where>onde</where>
 		</metaSearch>
 	</labels>
@@ -318,7 +318,7 @@
             <iah>por palabra</iah>
 			<lexical_proximity>proximidad léxica</lexical_proximity>
 			<google_scholar>Google Académico</google_scholar>
-			<similarity>relevancia</similarity>
+			<!--similarity>relevancia</similarity-->
 			<where>donde</where>
 		</metaSearch>
 	</labels>
@@ -475,7 +475,7 @@
             <iah>by word</iah>
 			<lexical_proximity>lexical proximity</lexical_proximity>
 			<google_scholar>Google Scholar</google_scholar>
-			<similarity>relevance</similarity>
+			<!--similarity>relevance</similarity-->
 			<where>where</where>
 		</metaSearch>
 	</labels>
