@@ -45,7 +45,7 @@ require_once(dirname(__FILE__)."/../includes/include.php");//SciELO ORG Includes
                     <p><?=FREE_REGISRATION_DESC?><br/><?if(SITE_HOTSITE != ""){?><a href="<?=SITE_HOTSITE?>?lang=<?=$_REQUEST["lang"]?>"><strong><?=LEARN_MORE?></strong></a><?}?></p>
                 </div>
                 <div class="login">
-                    <iframe scrolling="no" frameborder="0" src="<?=SITE_DOMAIN?>/<?=RELATIVE_PATH_SERVPLAT?>/controller/authentication/mode/scielo/origin/<?=base64_encode($_SERVER['HTTP_REFERER'])?>/lang/<?=$_REQUEST["lang"]?>/skin/scielo" name="platserv">&nbsp;</iframe>
+                    <iframe scrolling="no" frameborder="0" src="<?=SITE_DOMAIN?>/<?=RELATIVE_PATH_SERVPLAT?>/controller/requestauth/mode/scielo/origin/<?=base64_encode($_SERVER['HTTP_REFERER'])?>/lang/<?=$_REQUEST["lang"]?>/skin/scielo" name="platserv">&nbsp;</iframe>
                 </div>
 
             </div>
