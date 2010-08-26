@@ -19,13 +19,13 @@
 			<div class="reports">
 				<ul>
 					<li>
-						<a href="{$DIR}/applications/scielo-org/php/siteUsage.php"><xsl:value-of select="$labels//usage"/></a>
+						<a href="{$DIR}/applications/scielo-org/php/siteUsage.php?lang={$lang}"><xsl:value-of select="$labels//usage"/></a>
 					</li>
 					<li>
-						<a href="{$DIR}/applications/scielo-org/php/citations.php"><xsl:value-of select="$labels//citations"/></a>
+						<a href="{$DIR}/applications/scielo-org/php/citations.php?lang={$lang}"><xsl:value-of select="$labels//citations"/></a>
 					</li>
 					<li>
-						<a href="{$DIR}/applications/scielo-org/php/collaborator.php"><xsl:value-of select="$labels//co-authors"/></a>
+						<a href="{$DIR}/applications/scielo-org/php/collaborator.php?lang={$lang}"><xsl:value-of select="$labels//co-authors"/></a>
 					</li>
 				</ul>
 					<!--div class="indicators">
