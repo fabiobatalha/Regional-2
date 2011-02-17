@@ -56,7 +56,7 @@
 				<img src="{$DIR}/applications/scielo-org/image/common/flag/{@flagName}.jpg" alt=""/>
 			</xsl:if>
 				<xsl:element name="a">
-				<xsl:attribute name="href"><xsl:value-of select="concat(./@uri,'/?lang=',$lang)"/></xsl:attribute>
+				<xsl:attribute name="href"><xsl:value-of select="concat(./@uri,'/?lng=',$lang)"/></xsl:attribute>
 				<xsl:attribute name="title">
 
 					<xsl:value-of select="concat(journalTotal/@current, ' ')"/>
